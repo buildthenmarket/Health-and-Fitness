@@ -2,6 +2,12 @@
 
 - <https://www.joyfulbelly.com/>
 
+## Types
+
+Type | definition
+---|---
+nightshade family | eggplants, potatoes, and peppers.
+
 ## polyphenols / antioxidants
 
 resveratrol, a polyphenol or natural antioxidant commonly found in berries, peanuts, and red wine.
