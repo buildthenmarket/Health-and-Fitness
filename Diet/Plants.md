@@ -1,5 +1,12 @@
 # Plant
 
+## Seasonal
+
+- apricots and asparagus in the **spring**,
+- blackberries and blueberries in the **summer**,
+- parsnips and pears in the **fall and winter.**
+- apples, bananas, carrots and celery **all year long**
+
 - <https://www.joyfulbelly.com/>
 
 ## Types
