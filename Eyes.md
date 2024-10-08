@@ -2,6 +2,18 @@
 
 <https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e>
 
+## Skin Carotenoid Score
+
+![Pharmanex® BioPhotonic Scanner](image-1.png)
+
+### Your score is: 26000
+
+Pharmanex® BioPhotonic Scanner results are in! Your personalized scan, measured by Kerry Gelb on 04/05/2023, returned a Skin Carotenoid Score (SCS) of 26000.
+
+Your Skin Carotenoid Score is an immediate measurement of your own skin carotenoid content and an important indicator of your body’s antioxidant defense system.  The higher your score – the more carotenoids are present in your skin. 
+
+Antioxidants can affect overall health.
+
 ## Cataracts
 
 Ayurvedic plants for cataracts
