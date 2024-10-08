@@ -38,3 +38,10 @@ For optimal healing, focus on a balanced diet rich in:
 - Fungicides: Sulfur Dioxide
 - Endocrine Disruptors
 - GMO soy
+
+## Glyphosate
+
+Glyphosate’s use in the U.S. has skyrocketed since 1996, the year Monsanto introduced genetically engineered seeds that could survive being sprayed with higher quantities of herbicides.
+
+- Today, almost 90% of corn, cotton and soybean crops are modified to be tolerant to glyphosate and other chemical treatments used by farmers, U.S. Department of Agriculture data shows.
+-  Glyphosate residues have also been detected in air and rain samples, according to a study from the University of Minnesota. 
