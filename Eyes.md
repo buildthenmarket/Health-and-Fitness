@@ -1,6 +1,32 @@
-# Eye glasses
+## Eye glasses
 
 <https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e>
+
+## contact lens
+
+### BC (Base Curve)
+
+The BC (Base Curve) measurement in a contact lens prescription refers to the curvature of the contact lens. It is a critical aspect in determining the proper fit of the lens on the eye. Here's a breakdown of the BC measurement:
+
+* **Measurement unit**: BC is typically measured in millimeters (mm).
+* **Description**: The BC measurement indicates the degree of curvature or steepness of the contact lens. A higher BC value corresponds to a more curved lens, while a lower BC value represents a flatter lens.
+* **Correlation with eye shape**: The BC measurement is matched to the natural curvature of the cornea (the dome-shaped surface at the front of the eye). A well-matched BC ensures a comfortable and effective fit, allowing the lens to sit properly on the eye.
+* **Importance**: A proper BC measurement is essential for:
+  * Comfort: A lens that doesn't fit correctly can cause discomfort, dryness, or irritation.
+  * Vision: An improperly fitted lens can affect visual acuity or cause blurry vision.
+  * Preventing complications**: A mismatched BC can lead to issues like lens displacement, corneal irritation, or even eye infections.
+
+In summary, the BC measurement in a contact lens prescription is a critical parameter that ensures a comfortable and effective fit between the lens and the eye's natural curvature. It is essential to ensure that the BC measurement matches the prescription to achieve optimal contact lens wear.
+
+### Eyeglass Prescription Elements
+
+* **OD**: Oculus Dexter, referring to the right eye.
+* **OS**: Oculus Sinister, referring to the left eye.
+
+**Cylinder and Axis**
+
+* **CYL**: Cylinder power, indicating the lens power needed to correct astigmatism.
+* **Axis**: An angle value between 0 and 180, determining the orientation of the cylinder correction for astigmatism.
 
 ## Skin Carotenoid Score
 
@@ -10,7 +36,7 @@
 
 Pharmanex® BioPhotonic Scanner results are in! Your personalized scan, measured by Kerry Gelb on 04/05/2023, returned a Skin Carotenoid Score (SCS) of 26000.
 
-Your Skin Carotenoid Score is an immediate measurement of your own skin carotenoid content and an important indicator of your body’s antioxidant defense system.  The higher your score – the more carotenoids are present in your skin. 
+Your Skin Carotenoid Score is an immediate measurement of your own skin carotenoid content and an important indicator of your body’s antioxidant defense system.  The higher your score – the more carotenoids are present in your skin.
 
 Antioxidants can affect overall health.
 
