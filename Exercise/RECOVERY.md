@@ -1,5 +1,11 @@
 # Recovery
 
+## Inflammation
+
+Turmeric: Turmeric contains a compound called curcumin, which has anti-inflammatory and antioxidant properties. Adding turmeric to your diet can help reduce inflammation and promote healing.
+
+Ginger
+
 ## Bruise Recovery
 
 When recovering from a bruise, it's important to eat a balanced diet that includes foods that are rich in nutrients that can help support the healing process. Here are some foods that are known to be beneficial for bruise recovery:
