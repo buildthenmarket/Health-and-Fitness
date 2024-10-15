@@ -27,4 +27,3 @@ When recovering from a bruise, it's important to eat a balanced diet that includ
 **Vitamin C-rich foods**: Vitamin C is essential for collagen production, which is crucial for the healing of bruises. Foods that are rich in vitamin C include citrus fruits, strawberries, kiwi, mango, papaya, bell peppers, broccoli, and Brussels sprouts.
 
 It's also important to stay hydrated by drinking plenty of water, as hydration can help support the body's natural healing processes. Additionally, it's best to avoid foods that can increase inflammation, such as processed foods, sugary drinks, and alcohol, as these can slow down the healing process. A well-balanced diet that includes a variety of nutrient-rich foods can help support the body's natural healing processes and promote a speedy recovery from bruises.
-
