@@ -1,3 +1,5 @@
+- there is no love without sin, love is better measured by how much we forgive
+
 Bob Marley once said:
 "You may not be her first,
 her last, or her only.
