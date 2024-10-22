@@ -9,3 +9,5 @@
 ## Pace
 
 <https://youtube.com/shorts/kR7FVsmkZ30?si=ZYWJO5SgonWPT808>
+
+[sombor shuffle](https://youtu.be/qiwMKkSBBiY?si=nB9Nk_uJA-fYcD_A)
