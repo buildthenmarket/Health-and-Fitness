@@ -1,1 +1,0 @@
-![Toxicology of Food Dyes](<static/Toxicology of Food Dyes.png>)

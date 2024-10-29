@@ -1,1 +1,0 @@
-![Chick-Fil-A](<chick-fil-a ingredients.jpg>)
