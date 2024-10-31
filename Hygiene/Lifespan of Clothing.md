@@ -1,5 +1,13 @@
 # average lifespan of clothing
 
+## Men's Underwear
+
+The frequency of replacing polyester boxer briefs can depend on several factors, including hygiene, usage, and personal comfort. Here are some considerations based on microbial science:
+
+**Lifespan of Underwear**: A good rule of thumb is to replace them every 6 to 12 months, depending on wear and tear.
+
+**Signs of Wear**: Look for signs such as fading, loss of elasticity, or persistent odors even after washing, which can indicate it's time for a replacement.
+
 ## Socks
 
 According to the search results, the lifespan of socks can vary, but it's generally recommended to replace them every 3-6 months to maintain freshness and hygiene.
