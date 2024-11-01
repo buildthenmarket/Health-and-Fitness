@@ -1,6 +1,10 @@
 # Positive affirmations
 
+![It is what it is](<static/It is what it is.png>)
+
 ## i don't want the same things now that i've become a different animal
+
+## Apply for that job. Date that person. Buy that plane ticket. Move to that city. Do all the things that scare you, because they're worth it.
 
 **Confidence and Self-Esteem**
 

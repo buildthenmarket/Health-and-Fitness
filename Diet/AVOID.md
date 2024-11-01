@@ -42,6 +42,8 @@ While histamines are essential for various bodily functions, high levels of hist
 
 ## Sugar
 
+![Sugar Meme](<static/Sugar leads to obesity Meme.png>)
+
 ### slows muscle/injury recovery
 
 There is evidence suggesting that high sugar intake can slow down injury healing and muscle soreness recovery. Here's how:

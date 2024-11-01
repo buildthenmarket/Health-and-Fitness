@@ -1,5 +1,7 @@
 # Gut microbiome
 
+![Mutate and try again MEME](<static/Mutate and try again MEME.png>)
+
 mindless eating the 200 daily food decisions we overlook summary, relate it to research from gut microbiome influencing brain with hormones, or neuro-transmitters
 
 * The gut microbiome’s production of ghrelin and serotonin may amplify the effects of environmental cues, leading to increased food intake and reduced awareness of food choices.

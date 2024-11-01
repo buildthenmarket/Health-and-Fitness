@@ -1,5 +1,20 @@
 # Emotional regulation
 
+## Beware of Toxic Traits
+
+### Emotional Blackmail
+
+Emotional blackmail is a dysfunctional form of manipulation that people use to place demands and threaten victims to get what they want. The undertone of emotional blackmail is if you don't do what I want when I want it, you will suffer.
+
+The emotional blackmailer typically does not have any other coping or go-to methods for how to communicate and interact in a healthy manner. They fall back to stonewalling, slamming doors, threatening, and engaging in other damaging behaviors to get what they want. They typically do not have the tools available to understand how to convey their needs.
+
+#### Some examples
+
+- "If you ever stop loving me I will kill myself."
+- "I've already discussed this with our (pastor, therapist, friends, family) and they agree that you are being unreasonable."
+- "I'm taking this vacation with or without you."
+- "How can you say you love me and still be friends with them?"
+
 ## Sensitive
 
 ## Former Gifted Child Syndrome
