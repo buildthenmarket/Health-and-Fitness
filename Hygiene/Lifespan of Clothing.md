@@ -87,10 +87,21 @@ Polyester workout clothing typically lasts between 1 to 3 years,
 
 Based on the provided search results, here's a breakdown of the average lifespan for different types of footwear:
 
- Shoes: 8-12 months (according to podiatrists) or 2.5 years (for work shoes)
- Sneakers: 9-10 months (based on heavy trail running use) or variable (depending on individual usage and quality)
- Sandals: Not specifically mentioned in the search results, but generally considered to have a shorter lifespan (6-12 months) due to exposure to water, UV rays, and wear on straps and soles.
- Slides: Similar to sandals, slides typically have a shorter lifespan (6-12 months) due to their lightweight construction and frequent use.
+### Shoes
+
+8-12 months (according to podiatrists) or 2.5 years (for work shoes)
+
+### Sneakers
+
+9-10 months (based on heavy trail running use) or variable (depending on individual usage and quality)
+
+### Sandals
+
+Not specifically mentioned in the search results, but generally considered to have a shorter lifespan (6-12 months) due to exposure to water, UV rays, and wear on straps and soles.
+
+### Slides
+
+Similar to sandals, slides typically have a shorter lifespan (6-12 months) due to their lightweight construction and frequent use.
 
 Factors Affecting Lifespan
 
