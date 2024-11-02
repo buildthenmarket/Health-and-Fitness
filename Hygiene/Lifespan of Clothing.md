@@ -169,7 +169,7 @@ Keep in mind that this prediction is based on the fabric blend and microbial gro
 
 You can also learn how to prevent pilling on clothes, or at least reduce it, including how you wash and dry your fabrics. Read on to learn more about fabric pilling and prevention methods.
 
-![fabric pilling](image.png)
+![fabric pilling](<static/Fabric Pilling.png>)
 
 To prevent pilling, opt for sturdy fabrics that are tightly woven and made from durable materials. Clothes pilling is most common with looser, shorter fibers. Knitted fabrics tend to pill more than woven ones, and clothes made from wool, cotton, polyester, acrylic and other synthetics tend to develop pills more readily than silk, rayon, denim or linen.
 

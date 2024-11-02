@@ -1,3 +1,5 @@
+<video controls src="static/Nanoscopic Sizes.mp4" title="Nanoscopic Germs"></video>
+
 the survival time of microbes (germs) on socks depends on factors such as:
 
 * **Surface type**: Germs can live up to:

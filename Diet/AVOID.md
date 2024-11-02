@@ -1,5 +1,9 @@
 # Avoid
 
+## GMOs
+
+![GMO Names](<static/GMOs.png>)
+
 ## EMF
 
 ![EMF Range](<static/EMF Range.jpg>)
