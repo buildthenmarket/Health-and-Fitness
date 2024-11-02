@@ -1,3 +1,5 @@
+![Quiet vs Talkative](<static/Quiet vs Talkative.png>)
+
 - there is no love without sin, love is better measured by how much we forgive
 
 Bob Marley once said:

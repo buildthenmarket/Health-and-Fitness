@@ -1,3 +1,7 @@
+# Analysis Paralysis
+
+![Analysis Paralysis Meme](<static/Analysis Paralysis Meme.png>)
+
 Inductive reasoning and critical thinking are both essential cognitive processes, but they differ in their approaches and goals.
 
 Inductive reasoning involves drawing general conclusions from specific instances or observations. It's a "bottom-up" approach, where we start with individual facts and gradually build towards a broader understanding or hypothesis. Inductive reasoning is often used in scientific inquiry, where researchers gather data and make educated guesses about underlying patterns or laws.

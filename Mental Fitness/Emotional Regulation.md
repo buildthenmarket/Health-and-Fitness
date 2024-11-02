@@ -1,5 +1,7 @@
 # Emotional regulation
 
+![Lie vs Truth Meme](<static/Lie vs Truth Meme.png>)
+
 ## Beware of Toxic Traits
 
 ### Emotional Blackmail

@@ -75,6 +75,10 @@ For optimal healing, focus on a balanced diet rich in:
 
 **Remember:** While sugar may slow healing, it's not the sole factor. Consult a healthcare professional for personalized guidance on injury recovery and a healthy diet.
 
+## High Fructose Corn Syrup
+
+![HFCS](<static/High Fructose Corn Syrup.png>)
+
 ## Wrong Dietary Fat Sources
 
 ![Chick-Fil-A](<static/chick-fil-a ingredients.jpg>)
