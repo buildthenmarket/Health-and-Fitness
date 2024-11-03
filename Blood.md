@@ -1,5 +1,7 @@
 # Blood
 
+![composition of blood](<visualizing-the-composition-of-blood.png>)
+
 ## TSH test
 
 The TSH test is a blood test that measures the level of Thyroid-Stimulating Hormone (TSH) in the blood. TSH is a hormone produced by the pituitary gland, located in the brain, which regulates the production of thyroid hormones by the thyroid gland.

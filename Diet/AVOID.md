@@ -75,6 +75,10 @@ For optimal healing, focus on a balanced diet rich in:
 
 **Remember:** While sugar may slow healing, it's not the sole factor. Consult a healthcare professional for personalized guidance on injury recovery and a healthy diet.
 
+### Sugar Alternative
+
+![Monk Fruit](<static/Monk Fruit.png>)
+
 ## High Fructose Corn Syrup
 
 ![HFCS](<static/High Fructose Corn Syrup.png>)
@@ -100,6 +104,8 @@ For optimal healing, focus on a balanced diet rich in:
 ![Obesity Chart](<static/Trend in Dietary Fat Sources and Obesity in the US.jpg>)
 
 ## Glyphosate
+
+![glyphosate foods](<static/Glyphosate Foods.png>)
 
 Glyphosate’s use in the U.S. has skyrocketed since 1996, the year Monsanto introduced genetically engineered seeds that could survive being sprayed with higher quantities of herbicides.
 

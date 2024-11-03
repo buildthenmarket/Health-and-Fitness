@@ -1,5 +1,7 @@
 # HOOP
 
+![shot arc](<static/Shot Arc.png>)
+
 - inside leg w/ crossover [facebook reel](https://www.facebook.com/share/r/EFg7xsrMokG6zTxw/)
 
 ## screen / pick
