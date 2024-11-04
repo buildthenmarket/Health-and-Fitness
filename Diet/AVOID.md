@@ -128,6 +128,13 @@ Glyphosate’s use in the U.S. has skyrocketed since 1996, the year Monsanto int
 
 Toxic farming practices can significantly impact both the environment and human health, particularly in the context of fresh produce in the U.S. Here are some common practices:
 
+- Opting for organic produce
+- supporting local farms that practice sustainable methods
+
+### Sulfur Dioxide
+
+![grapes w sulfur dioxide](<static/Grapes w Sulfur Dioxide.png>)
+
 ### 1. **Pesticide Use**
 
 - **Synthetic Pesticides:** Many conventional farms use synthetic pesticides that can be harmful to human health and the ecosystem. These chemicals can remain on produce, leading to potential exposure.
@@ -165,10 +172,6 @@ Toxic farming practices can significantly impact both the environment and human 
 
 - **Exploitation of Workers:** Toxic farming practices often extend to labor conditions, where workers may be exposed to harmful chemicals without adequate protection.
 - **Health Risks:** Workers in these environments face serious health risks, which can indirectly affect the safety of the produce.
-
-### Conclusion
-
-Awareness of these toxic farming practices is crucial for consumers who want to make informed choices about their food. Opting for organic produce, supporting local farms that practice sustainable methods, and advocating for regulations that protect both the environment and public health can help mitigate these issues.
 
 ## Alcohol
 
