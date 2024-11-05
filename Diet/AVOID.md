@@ -1,5 +1,9 @@
 # Avoid
 
+## Endocrine Disruptors
+
+![End Disr](<static/Endocrine Disruptors.png>)
+
 ## GMOs
 
 ![GMO Names](<static/GMOs.png>)
@@ -124,6 +128,8 @@ Glyphosate’s use in the U.S. has skyrocketed since 1996, the year Monsanto int
 
 ## Toxic farming practices
 
+![agriculture crisis](<static/Agriculture Crisis.png>)
+
 - Fragrance of food is gone in industrialized america
 
 Toxic farming practices can significantly impact both the environment and human health, particularly in the context of fresh produce in the U.S. Here are some common practices:
@@ -172,16 +178,6 @@ Toxic farming practices can significantly impact both the environment and human 
 
 - **Exploitation of Workers:** Toxic farming practices often extend to labor conditions, where workers may be exposed to harmful chemicals without adequate protection.
 - **Health Risks:** Workers in these environments face serious health risks, which can indirectly affect the safety of the produce.
-
-## Alcohol
-
-Drinking calories
-
-### Comparison of Shots, Mixed Drinks, and IPAs
-
-- Shots: Typically 60-150 calories per 1.5-ounce serving, depending on proof.
-- Mixed drinks: Can range from 100-500 calories or more per serving, depending on the type and amount of mixers used.
-- IPAs: Generally 170-250 calories per 12-ounce serving, although some craft IPAs can have upwards of 300 calories.
 
 ## PFAs
 

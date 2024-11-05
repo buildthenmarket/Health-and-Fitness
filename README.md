@@ -1,5 +1,9 @@
 # Fitness, Diet, Health
 
+![5 Hobbies](<static/You need these five hobbies.png>)
+
+## CHOICES not FATE
+
 ![choices meme 2](<static/conscious Choices not victim of your genes.png>)
 
 ![choices not genes meme](<choices not genes meme.png>)

@@ -1,7 +1,19 @@
 # Quote
 
+- Some people are **investments** and some people are **bills**
 - Over time, we increase our enlightenment and stop doing more things that are wrong
 - The strong do what they can, And the weak suffer what they must
+
+## Two traps you need to Avoid
+
+1. caring what haters think
+2. thinking that frenemies care about you
+
+## I never Lack, I just transition
+
+### I lost the bag, I secured a bigger one
+
+### I lost a friend, I got a realer one
 
 ## make yourself misunderstood?
 
