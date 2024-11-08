@@ -2,6 +2,10 @@
 
 ![Lie vs Truth Meme](<static/Lie vs Truth Meme.png>)
 
+## Beware of Tricks
+
+![BITE Model](<static/BITE Model.png>)
+
 ## Beware of Toxic Traits
 
 ### Emotional Blackmail

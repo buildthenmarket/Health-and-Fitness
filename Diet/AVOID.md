@@ -90,15 +90,21 @@ For optimal healing, focus on a balanced diet rich in:
 
 ![Monk Fruit](<static/Monk Fruit.png>)
 
-## High Fructose Corn Syrup
+### High Fructose Corn Syrup
 
 ![HFCS](<static/High Fructose Corn Syrup.png>)
+
+## BREAD
+
+![bread](<static/Bread Ingredients.png>)
 
 ## Wrong Dietary Fat Sources
 
 ![Chick-Fil-A](<static/chick-fil-a ingredients.jpg>)
 
-### Vegetable and Seed Oils
+## Vegetable and Seed Oils
+
+![Consumption Chart](<static/Vegetable Oil Chart.png>)
 
 - BEEF MICROSPRAY
 - A common herbicide used in wheat farming. Residues can remain in processed wheat products.

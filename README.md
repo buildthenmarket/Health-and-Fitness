@@ -23,4 +23,6 @@
 
 ![BMI](<static/Body Fat Ranges.png>)
 
-![Cortisol vs T](image.png)
+![life expectancy](<static/Life Expectancy.png>)
+
+![Cortisol vs T](<static/Cortisol.png>)
