@@ -1,5 +1,7 @@
 # air fryers
 
+- Teflon
+
 PFAS (Per- and Polyfluoroalkyl Substances) are chemicals used in non-stick coatings, waterproofing, and other applications. Some kitchen appliances, including air fryers, may contain PFAS. Here's a breakdown of general categories and specific air fryer brands:
 
 **General Categories:**
@@ -22,6 +24,7 @@ Based on available information, some air fryer brands are PFAS-free:
 1. **KitchenAid**: KitchenAid's air fryer products are designed without PFAS.
 2. **Our Place**: Our Place's Wonder Oven air fryer is certified PFAS-free.
 3. **Other brands**: Some smaller, niche brands, like Sustainably Chic's top 9 non-toxic air fryers, prioritize PFAS-free materials.
+4. Ninja
 
 **What to Look for in Product Descriptions:**
 
