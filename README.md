@@ -1,5 +1,7 @@
 # Fitness, Diet, Health
 
+![Health Triangle](<static/The Health Triangle.png>)
+
 ![make time for health and wellness or make time for illness](<static/Lifestyle Change Meme.png>)
 
 ![5 Hobbies](<static/You need these five hobbies.png>)
@@ -8,7 +10,9 @@
 
 ![choices meme 2](<static/conscious Choices not victim of your genes.png>)
 
-![choices not genes meme](<choices not genes meme.png>)
+![choices not genes meme](<static/choices not genes meme.png>)
+
+![same age meme](<static/same age different choices MEME.png>)
 
 - **Counting backwards**: Start counting down from a high number during reps to focus on the contraction and avoid losing count.
 - **Plyometrics**: Incorporate explosive movements (e.g., jump squats) before lower-body workouts to improve power.

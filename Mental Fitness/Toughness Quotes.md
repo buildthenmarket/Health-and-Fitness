@@ -1,8 +1,11 @@
 # Quote
 
+![noone cares meme](<static/Noone Cares Meme.png>)
+
 - Some people are **investments** and some people are **bills**
 - Over time, we increase our enlightenment and stop doing more things that are wrong
 - The strong do what they can, And the weak suffer what they must
+- "Diamonds are formed under pressure" And "bread dough rises when you let it rest." We're all our own things. **What's motivating to you may be crippling to others.**
 
 ## Two traps you need to Avoid
 
