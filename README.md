@@ -1,5 +1,7 @@
 # Fitness, Diet, Health
 
+![make time for health and wellness or make time for illness](<static/Lifestyle Change Meme.png>)
+
 ![5 Hobbies](<static/You need these five hobbies.png>)
 
 ## CHOICES not FATE

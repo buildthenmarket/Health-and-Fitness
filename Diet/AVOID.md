@@ -1,5 +1,7 @@
 # Avoid
 
+![cheap is junk](<static/Food Affordability Meme.png>)
+
 ## Endocrine Disruptors
 
 ![End Disr](<static/Endocrine Disruptors.png>)
