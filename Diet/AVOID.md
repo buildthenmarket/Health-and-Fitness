@@ -14,6 +14,11 @@
 
 ![Cell Phone EMFs](<static/Cell Phone EMFs.png>)
 
+## Weird Meat nutrition labels
+
+- Raw or undercooked foods of animal origin
+- “Foods of animal origin” instead of meat
+
 ## Harmful Histamines in Meat
 
 ### Understanding Histamines

@@ -1,6 +1,12 @@
-# Abs
+# Core
 
-## Loaded Carries
+## Obliques
+
+[IG](https://www.instagram.com/reel/C5a8INMLO0d/)
+
+## Abs
+
+### Loaded Carries
 
 ### Farmer Walk
 

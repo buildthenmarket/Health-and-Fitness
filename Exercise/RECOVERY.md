@@ -1,5 +1,9 @@
 # Recovery
 
+## Lymph Massage
+
+[IG](https://www.instagram.com/reel/C5QhRLkoNBn/)
+
 ## Inflammation
 
 Turmeric: Turmeric contains a compound called curcumin, which has anti-inflammatory and antioxidant properties. Adding turmeric to your diet can help reduce inflammation and promote healing.
