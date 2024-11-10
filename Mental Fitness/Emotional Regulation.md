@@ -1,5 +1,7 @@
 # Emotional regulation
 
+## DEPRESSION IS SADNESS MONETIZED  
+
 ![Lie vs Truth Meme](<static/Lie vs Truth Meme.png>)
 
 ## Beware of Tricks

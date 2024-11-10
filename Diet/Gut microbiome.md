@@ -51,7 +51,7 @@ Overall, it advocates for a varied and balanced diet to foster long-term cogniti
 
 ## Gut microbiota
 
-## Alcohol's Impact on Gut Microbiome Composition
+### Alcohol's Impact on Gut Microbiome Composition
 
 * Excessive alcohol consumption can alter the gut microbiome, leading to dysbiosis (imbalance) and potentially pathogenic microbes dominating over beneficial ones (Wang et al., 2024; Zengler et al., 2024).
 * Chronic binge drinking can induce susceptibility to colonic inflammation, which is microbiome-dependent (Wang et al., 2024).

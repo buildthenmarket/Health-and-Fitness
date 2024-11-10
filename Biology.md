@@ -1,3 +1,7 @@
+## Organs
+
+![pancreas](<static/pancreas.jpeg>)
+
 ## Terms
 
 Staphylococcus aureus bacteria are commonly associated with both styes (hordeolum) and chalazia. Here's a summary of the key points:

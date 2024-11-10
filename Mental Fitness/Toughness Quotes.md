@@ -1,5 +1,11 @@
 # Mental Toughness
 
+## Failure
+
+If you FAlL, never give up because F.A.I.L. means" First Attempt In Learning."
+END is not the end. In fact, E.N.D. means "EFFORT NEVER DIES."
+It you get NO as an answer, remember NO means "NEXT OPPORTUNITY."
+
 ## Who's opinion are you most worried about?
 
 ![noone cares meme](<static/Noone Cares Meme.png>)
