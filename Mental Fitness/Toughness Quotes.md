@@ -38,3 +38,5 @@ Avoid conflict: In some situations, it may be advantageous to make yourself misu
 Encourage creativity: When working on creative projects, intentionally making yourself misunderstood can sometimes lead to unexpected or innovative ideas. By forcing yourself to think outside the box and approach problems from a different angle, you may come up with solutions or ideas that you wouldn't have considered otherwise.
 
 Of course, it's important to use this statement in a way that is authentic and appropriate for the situation at hand. In some cases, being clear and direct may be a better strategy, so it's important to evaluate each situation on its own merits.
+
+![debt trap](<static/the debt trap.jpeg>)

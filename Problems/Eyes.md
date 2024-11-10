@@ -118,6 +118,12 @@ While arcus senilis itself may not require treatment, making these lifestyle and
 
 ## stye
 
+![stye 6-11-2021](static/stye1.png)
+
+![6-13-2021](static/stye2.png)
+
+![6-14-2021](static/stye3.png)
+
 ### Stye and Chalazion: Overview
 
 **Stye** and **chalazion** are both common eyelid conditions that can cause discomfort and irritation. While they may look similar, they have different causes and characteristics.
