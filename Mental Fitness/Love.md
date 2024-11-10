@@ -1,3 +1,7 @@
+# L
+
+The person you marry is the biggest financial decision you make. The right person will lead to prosperity. The wrong person will lead to ruin
+
 ![Quiet vs Talkative](<static/Quiet vs Talkative.png>)
 
 - there is no love without sin, love is better measured by how much we forgive

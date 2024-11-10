@@ -1,5 +1,7 @@
 # Mental Toughness
 
+![dead on the inside meme](<static/dead on the inside meme.jpeg>)
+
 ## Failure
 
 If you FAlL, never give up because F.A.I.L. means" First Attempt In Learning."

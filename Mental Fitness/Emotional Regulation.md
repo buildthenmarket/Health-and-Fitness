@@ -25,6 +25,10 @@ The emotional blackmailer typically does not have any other coping or go-to meth
 
 ## Sensitive
 
+## Happiness
+
+- You're unhappy because you're not in alignment with who you are. Not because of what anyone else is doing. Now read that again.
+
 ## Former Gifted Child Syndrome
 
 Based on the provided search results, "Gifted Kids Syndrome" (also referred to as "Gifted Kid Burnout" or "Former Gifted Child Syndrome") appears to be a phenomenon where children who were previously identified as gifted or high-achieving in academics or extracurricular activities experience emotional exhaustion, apathy, and underachievement as they progress through adolescence and young adulthood.

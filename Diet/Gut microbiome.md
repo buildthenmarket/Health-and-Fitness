@@ -1,5 +1,7 @@
 # Gut microbiome
 
+the gut is nearly as powerful a force as the brain, affecting your physical and mental health right now-and into your future.
+
 ![Mutate and try again MEME](<static/Mutate and try again MEME.png>)
 
 mindless eating the 200 daily food decisions we overlook summary, relate it to research from gut microbiome influencing brain with hormones, or neuro-transmitters
