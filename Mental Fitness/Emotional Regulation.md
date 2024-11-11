@@ -1,5 +1,7 @@
 # Emotional regulation
 
+![cutting off people](<static/cutting off people.jpeg>)
+
 ## DEPRESSION IS SADNESS MONETIZED  
 
 ![Lie vs Truth Meme](<static/Lie vs Truth Meme.png>)

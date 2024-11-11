@@ -1,4 +1,6 @@
-# L
+# Love / Dating / Marriage
+
+![dating vs talking](<static/talking vs dating vs relationship.jpeg>)
 
 The person you marry is the biggest financial decision you make. The right person will lead to prosperity. The wrong person will lead to ruin
 
