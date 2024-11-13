@@ -1,8 +1,14 @@
 # air fryers
 
+![non tox brands](<static/air fryers - non-tox.JPG>)
+
 - Teflon
 
 PFAS (Per- and Polyfluoroalkyl Substances) are chemicals used in non-stick coatings, waterproofing, and other applications. Some kitchen appliances, including air fryers, may contain PFAS. Here's a breakdown of general categories and specific air fryer brands:
+
+### Best Buy Disclosure
+
+![forever chemicals](<static/air fryer - PFAs disclosure.png>)
 
 **General Categories:**
 
