@@ -116,19 +116,11 @@ While there is no direct cure for arcus senilis, certain lifestyle and dietary c
 
 While arcus senilis itself may not require treatment, making these lifestyle and dietary adjustments can improve overall eye health and help manage cholesterol levels. If you're concerned about arcus senilis or your cholesterol levels, consulting a healthcare professional is advisable for personalized advice and potential interventions.
 
-## stye
-
-![stye 6-11-2021](static/stye1.png)
-
-![6-13-2021](static/stye2.png)
-
-![6-14-2021](static/stye3.png)
-
-### Stye and Chalazion: Overview
+## Stye and Chalazion: Overview
 
 **Stye** and **chalazion** are both common eyelid conditions that can cause discomfort and irritation. While they may look similar, they have different causes and characteristics.
 
-#### Stye (Hordeolum)
+### Stye (Hordeolum)
 
 * **Description**: A stye is a red, painful lump that forms on the edge of the eyelid, typically caused by a bacterial infection of the oil glands or hair follicles.
 * **Symptoms**:
@@ -136,14 +128,36 @@ While arcus senilis itself may not require treatment, making these lifestyle and
   * Tenderness or pain
   * Possible discharge
   * Sensitivity to light
+* Caused by Staphylococcus aureus infection of the eyelid's oil gland or eyelash follicle
+* Typically painful and swollen, with a pus-filled abscess
+* May require drainage by a doctor if it doesn't resolve with warm compresses
+* Home treatment involves applying warm compresses to encourage the stye to rupture and drain naturally
 
-#### Chalazion
+### Chalazion
 
 * **Description**: A chalazion is a painless lump that forms within the eyelid due to a blocked oil gland. It can develop after a stye.
 * **Symptoms**:
   * Swelling in the eyelid
   * Firm, round bump
   * Generally painless, but can become tender if inflamed
+* Caused by obstruction of the oil gland's opening, leading to inflammation and swelling
+* Not infected, unlike styes, and typically painless
+* May be caused by staphylococcal infection, although it's not always the case
+* Treatment may involve draining the fluid through a small incision or injecting steroids to reduce swelling and inflammation
+
+**Shared Factors:**
+
+* Both styes and chalazia can be caused by Staphylococcus aureus bacteria
+* Good hygiene and avoiding sharing makeup or makeup brushes can help prevent staphylococcal infections
+* Warm compresses can be used to treat both styes and chalazia, although styes may require drainage by a doctor
+
+**Key Differences:**
+
+* Pain: Styes are typically painful, while chalazia are usually painless
+* Infection: Styes are infected, while chalazia are not
+* Appearance: Styes are characterized by a pus-filled abscess, while chalazia appear as a firm, painless nodule
+
+It's essential to note that while staphylococcal bacteria are often involved, not all styes and chalazia are caused by Staphylococcus aureus. Other factors, such as meibomian gland obstruction, can also contribute to the development of chalazia. If you're experiencing symptoms, it's best to consult an eye care professional for proper diagnosis and treatment.
 
 ### Natural Remedies to Resolve Stye and Chalazion
 

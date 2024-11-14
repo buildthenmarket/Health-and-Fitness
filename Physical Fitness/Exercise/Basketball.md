@@ -8,6 +8,10 @@
 
 - wedge
 
+## Passing
+
+- the faster you pass the ball, you'll give the offensive player an extra quarter second before the defender catches up, shooting percentages go up
+
 ## Pace
 
 <https://youtube.com/shorts/kR7FVsmkZ30?si=ZYWJO5SgonWPT808>

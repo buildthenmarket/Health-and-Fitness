@@ -10,15 +10,19 @@
 - Compression socks
 - Bombas socks
 
-## Rub feet epsom salt
+## Foot Wash
 
-### bath recipe
+### Rub feet epsom salt
+
+### bath recipe 1
 
 - tea tree oil 60 drops
 - bay tree essential oil 40 drops
 - Palmarosa oil 30 drops
 - Lavender Oil 30 Drops
 - 2x / day
+
+### vinegar
 
 ### recipe 2?
 

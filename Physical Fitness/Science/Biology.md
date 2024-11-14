@@ -8,34 +8,6 @@
 
 Staphylococcus aureus bacteria are commonly associated with both styes (hordeolum) and chalazia. Here's a summary of the key points:
 
-**Styes (Hordeolum):**
-
-* Caused by Staphylococcus aureus infection of the eyelid's oil gland or eyelash follicle
-* Typically painful and swollen, with a pus-filled abscess
-* May require drainage by a doctor if it doesn't resolve with warm compresses
-* Home treatment involves applying warm compresses to encourage the stye to rupture and drain naturally
-
-**Chalazia:**
-
-* Caused by obstruction of the oil gland's opening, leading to inflammation and swelling
-* Not infected, unlike styes, and typically painless
-* May be caused by staphylococcal infection, although it's not always the case
-* Treatment may involve draining the fluid through a small incision or injecting steroids to reduce swelling and inflammation
-
-**Shared Factors:**
-
-* Both styes and chalazia can be caused by Staphylococcus aureus bacteria
-* Good hygiene and avoiding sharing makeup or makeup brushes can help prevent staphylococcal infections
-* Warm compresses can be used to treat both styes and chalazia, although styes may require drainage by a doctor
-
-**Key Differences:**
-
-* Pain: Styes are typically painful, while chalazia are usually painless
-* Infection: Styes are infected, while chalazia are not
-* Appearance: Styes are characterized by a pus-filled abscess, while chalazia appear as a firm, painless nodule
-
-It's essential to note that while staphylococcal bacteria are often involved, not all styes and chalazia are caused by Staphylococcus aureus. Other factors, such as meibomian gland obstruction, can also contribute to the development of chalazia. If you're experiencing symptoms, it's best to consult an eye care professional for proper diagnosis and treatment.
-
 Staphylococcus epidermidis is a Gram-positive, coagulase-negative bacterium that is a normal inhabitant of human skin and mucous membranes. It is part of the human microbiota, typically found on the skin and less commonly in mucosal surfaces and marine sponges. Despite lacking recognized virulence factors, S. epidermidis can cause infection, often on the surface of indwelling medical devices.
 
 **Dual Lifestyle: Skin Health and Infection**
