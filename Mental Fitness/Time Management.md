@@ -1,4 +1,6 @@
-# Time Mgmt
+# Time Management
+
+![strategy for each personality](<static/Time Management Strategy by Personality Type.png>)
 
 ![3 Hobbies you must have](<static/3 Hobbies you must have.png>)
 

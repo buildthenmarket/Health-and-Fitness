@@ -1,4 +1,6 @@
-# air fryers
+# Cooking
+
+## air fryers
 
 ![non tox brands](<static/air fryers - non-tox.JPG>)
 

@@ -220,7 +220,7 @@ In summary, the BC measurement in a contact lens prescription is a critical para
 
 ## Skin Carotenoid Score
 
-![Pharmanex® BioPhotonic Scanner](image-1.png)
+![Pharmanex® BioPhotonic Scanner](static/image-1.png)
 
 ### Your score is: 26000
 

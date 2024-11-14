@@ -1,6 +1,6 @@
 # Blood
 
-![composition of blood](<visualizing-the-composition-of-blood.png>)
+![composition of blood](<static/visualizing-the-composition-of-blood.png>)
 
 ## TSH test
 
