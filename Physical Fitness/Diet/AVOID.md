@@ -67,14 +67,6 @@ Based on scientific evidence, the following ultraprocessed foods have been linke
 6. Sugary yogurts (e.g., Dannon, Yoplait)
 7. Flavored instant noodles (e.g., Ramen, Cup Noodles)
 
-### Healthy Alternatives
-
-1. Whole grains (e.g., brown rice, quinoa, whole-wheat bread)
-2. Fresh fruits and vegetables
-3. Lean proteins (e.g., poultry, fish, beans, lentils)
-4. Healthy fats (e.g., avocado, nuts, olive oil)
-5. Low-fat dairy products (e.g., milk, Greek yogurt, cottage cheese)
-
 ### Conclusion
 
 Ultraprocessed foods are a significant contributor to chronic diseases, including obesity, diabetes, and cancer. By limiting or avoiding these foods and focusing on whole, nutrient-dense foods, you can reduce your risk of developing these conditions and promote overall health and well-being.

@@ -87,3 +87,25 @@ Key characteristics:
 3. **The Socratic method can enhance inductive reasoning**: By encouraging critical examination of assumptions and evidence, the Socratic method can improve the quality of inductive reasoning and reduce the risk of errors.
 
 In summary, while inductive reasoning and critical thinking are distinct cognitive processes, they can inform and complement each other. The Socratic method is a specific approach to critical thinking that emphasizes questioning, dialogue, and understanding, and can be used to enhance both inductive reasoning and critical thinking.
+
+## Habits
+
+It takes an average of 18 to 254 days for a person to build a habit
+
+![Starfish Model for Building Better Habits](<static/Starfish Model for Building Better Habits.png>)
+
+In [The Power of Habit](http://dwight.eisenhower.me/l/fzy0DWYWTgTsDN8CwevfWw/8P892grZMjxyeTVslwwI8921TQ/763SrCH892w6zqpgjiosuagQGw "‌"), The New York Times bestselling author, Charles Duhigg gets into the science of habit formation in our lives and how to break a bad habit.
+
+**It takes three steps to identify and break a bad habit:**
+
+1. **Cue**: When, where, with whom, or after which activity do you feel the urge for your habit?
+2. **Reward**: What craving are you trying to satisfy?
+3. **Routine**: Can you train yourself to do something else that satisfies the same need?
+
+From there on remind yourself of each habit to end in your _Don’t Do_ quadrant. Duhigg even recommends a full sentence like “When (Cue), I will (Routine) because it provides me with (Reward)**”** to reprogram your brain.
+
+Obviously, changing some habits can be more difficult than others, but these three steps provide a way to start. Be patient with yourself. Sometimes it will require different approaches until you find a working replacement routine that is good for you.
+
+**Give it a try now with your worst habit** — one that really eats up lots of your valuable time or one that is negatively affecting your health.
+
+Quitting might never have been easier!

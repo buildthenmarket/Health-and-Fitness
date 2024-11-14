@@ -39,6 +39,16 @@ The emotional blackmailer typically does not have any other coping or go-to meth
 
 - You're unhappy because you're not in alignment with who you are. Not because of what anyone else is doing. Now read that again.
 
+**self-agency** (or personal agency) as the power individuals have over their own lives. It emphasizes that self-agency reflects the degree of control one feels over their actions and environment, influencing overall happiness. 
+
+recognize your own inherent agency and work towards enhancing it for a better quality of life.
+
+- **Types of Agency**: Most people have low to medium agency, with high agency individuals being rare (less than 1% of the population).
+- **Subjective Measure**: Agency is subjective and cannot be precisely quantified; it's based on personal perception.
+- **Improving Agency**: Individuals can enhance their agency by reducing reliance on artificial stimulants and focusing on productivity.
+- **Self-Control Connection**: There is a direct correlation between self-control and agency; higher self-control typically leads to higher agency.
+- **Agency Theory**: This theory explores why different people have varying levels of agency and how they can improve it.
+
 ## Former Gifted Child Syndrome
 
 Based on the provided search results, "Gifted Kids Syndrome" (also referred to as "Gifted Kid Burnout" or "Former Gifted Child Syndrome") appears to be a phenomenon where children who were previously identified as gifted or high-achieving in academics or extracurricular activities experience emotional exhaustion, apathy, and underachievement as they progress through adolescence and young adulthood.

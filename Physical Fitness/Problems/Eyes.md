@@ -70,7 +70,16 @@ IOP, a major risk factor for glaucoma, exhibits a complex relationship with age.
 
 In conclusion, the relationship between IOP and aging is complex and may vary depending on the population and study design. While some studies suggest a decrease in IOP with age, others report an increase or no significant change. Further research is needed to fully understand the effects of aging on IOP and its implications for glaucoma risk assessment and management.
 
-## arcus senilis
+## Arcus senilis, also known as corneal arcus
+
+a harmless condition characterized by lipid deposits that form a ring or arc around the cornea, the clear outer layer of the eye. It is a common finding in older adults, often associated with aging and high cholesterol levels.
+
+**Causes:**
+
+1. **Aging**: Arcus senilis is a natural consequence of aging, as the cornea's lipid metabolism changes over time.
+2. **High cholesterol**: Elevated cholesterol levels in the blood can contribute to lipid deposits in the cornea.
+3. **Genetic factors**: Familial hyperlipidemia, a genetic condition, can cause arcus senilis to develop at a younger age.
+
 
 ### Arcus Senilis: Overview
 

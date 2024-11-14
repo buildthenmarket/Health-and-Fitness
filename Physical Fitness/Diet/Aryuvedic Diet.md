@@ -12,15 +12,20 @@
 
 [Thermogenics](https://www.instagram.com/reel/C8ICAxLOgwg/)
 
-## Arcus senilis, also known as corneal arcus
 
-a harmless condition characterized by lipid deposits that form a ring or arc around the cornea, the clear outer layer of the eye. It is a common finding in older adults, often associated with aging and high cholesterol levels.
+### Healthy Alternatives
 
-**Causes:**
+1. Whole grains (e.g., brown rice, quinoa, whole-wheat bread)
+2. Fresh fruits and vegetables
+3. Lean proteins (e.g., poultry, fish, beans, lentils)
+4. Healthy fats (e.g., avocado, nuts, olive oil)
+5. Low-fat dairy products (e.g., milk, Greek yogurt, cottage cheese)
 
-1. **Aging**: Arcus senilis is a natural consequence of aging, as the cornea's lipid metabolism changes over time.
-2. **High cholesterol**: Elevated cholesterol levels in the blood can contribute to lipid deposits in the cornea.
-3. **Genetic factors**: Familial hyperlipidemia, a genetic condition, can cause arcus senilis to develop at a younger age.
+## Fresh fruits
+
+### Pomegranate
+
+- Clean Your Arteries
 
 **Ayurvedic Remedies:**
 
