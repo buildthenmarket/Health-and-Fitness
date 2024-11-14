@@ -2,6 +2,14 @@
 
 ![cutting off people](<static/cutting off people.jpeg>)
 
+## stages of crisis
+
+1. feeling locked in to a current bad situation
+2. rising need to escape
+3. things boil, action is taken
+4. re-building, a new life aligns
+5. settling in to a new life
+
 ## DEPRESSION IS SADNESS MONETIZED  
 
 ![Lie vs Truth Meme](<static/Lie vs Truth Meme.png>)

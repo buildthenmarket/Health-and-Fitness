@@ -2,9 +2,17 @@
 
 ![strategy for each personality](<static/Time Management Strategy by Personality Type.png>)
 
+## Rule of thumb
+
+![Heuristics](<static/Rules of Time Mgmt.png>)
+
 ![3 Hobbies you must have](<static/3 Hobbies you must have.png>)
 
-8 annual goals is good number
+## Ultra Time Mgmt
+
+![Ultra Time Mgmt](<static/Ultra Time Mgmt.png>)
+
+## 8 annual goals is good number
 
 PRIORITIZE tasks, delegate
 

@@ -33,6 +33,23 @@ When faced with troubles, AQ determines who will give up, who will abandon their
 
 ### Maturity other areas of life than just Academics, working manual labor jobs, Sports and Arts. Develop your IQ, as well as your EQ, SQ and AQ. You should become a multifaceted human being able to do things independently of your parents. Parents are not supposed prepare the road for their children, they prepare their children for the road.
 
+## Attitude Intention Behavior
+
+![Attitude and Behavior](<static/Attitude Intention Behavior.png>)
+
+## Self-Reflection
+
+**Self-reflection** is the process of looking inward to examine one's thoughts, feelings, behaviors, and motivations. It involves taking time to understand oneself better by analyzing past experiences, current actions, and future goals.
+
+**Key elements of self-reflection include:**
+
+- **Introspection:** Looking inward to explore one's inner world.
+- **Evaluation:** Assessing one's thoughts, feelings, and actions.
+- **Learning:** Gaining insights and understanding from the reflection process.
+- **Growth:** Using insights to make positive changes.
+
+Essentially, self-reflection is a tool for personal growth and development. It helps individuals to understand themselves better, make informed decisions, and build stronger relationships.
+
 ## Analysis Paralysis
 
 ![Analysis Paralysis Meme](<static/Analysis Paralysis Meme.png>)
