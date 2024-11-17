@@ -1,5 +1,23 @@
 # Fasting
 
+2 kinds of fasting
+
+Don’t eat for 16hrs
+Eat for 8hrs
+
+Long term water only fasting
+Controlled setting
+
+![Fasting Cheat Sheet](image-3.png)
+
+## Intermittent Fasting
+
+![IF](image-2.png)
+
+## AVOID SOS
+
+Salt, oil, sugar
+
 ## gradually increase your fasting duration
 
 Based on the provided search results, here's a step-by-step guide to gradually increase your fasting duration:

@@ -1,5 +1,11 @@
 # Plant
 
+## Cruciferous vegetables
+
+Cruciferous vegetables, such as broccoli, cauliflower, and Brussels sprouts, contain compounds that can help detoxify the liver and reduce the risk of liver cancer.
+
+![greens](image.png)
+
 ## Seasonal
 
 - apricots and asparagus in the **spring**,

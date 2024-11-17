@@ -159,6 +159,64 @@ For optimal healing, focus on a balanced diet rich in:
 
 ![bread](<static/Bread Ingredients.png>)
 
+Based on the article "Ranking The Healthiest Breads, From Best To Worst" from HuffPost and additional information regarding bread and inflammation, we can classify breads into two groups: **Super-Healthy Breads** and **Not Healthy Breads**.
+
+### Super-Healthy Breads
+
+1. **Whole Grain Bread**
+   * **Nutritional Benefits:** Contains all parts of the grain, providing fiber, vitamins, and minerals.
+   * **Inflammation Impact:** Whole grains are associated with reduced inflammation and lower risk of chronic diseases (Harvard Health).
+
+2. **Whole Wheat Bread**
+   * **Nutritional Benefits:** Similar to whole grain, it retains nutrients from the wheat kernel.
+   * **Inflammation Impact:** When labeled as 100% whole wheat, it can help manage inflammation (American Heart Association).
+
+3. **Sprouted Grain Bread (Ezekiel)**
+   * **Nutritional Benefits:** Higher protein and fiber due to sprouting process; lower sodium.
+   * **Inflammation Impact:** Whole grains and legumes in sprouted bread can help reduce inflammation (Journal of Nutrition).
+
+4. **Sourdough Bread**
+   * **Nutritional Benefits:** Fermented, aiding in better nutrient absorption; lower glycemic index.
+   * **Inflammation Impact:** Fermentation may lower inflammatory responses compared to regular bread (Nutrients Journal).
+
+5. **Rye Bread**
+   * **Nutritional Benefits:** Good for gut health and high in fiber.
+   * **Inflammation Impact:** Rye can help reduce inflammatory markers in the body (European Journal of Clinical Nutrition).
+
+6. **Pumpernickel Bread**
+   * **Nutritional Benefits:** Contains whole rye berries, rich in fiber.
+   * **Inflammation Impact:** Can lower harmful gut bacteria and reduce inflammation (American Journal of Clinical Nutrition).
+
+### Not Healthy Breads
+
+1. **White Sandwich Bread**
+   * **Nutritional Drawbacks:** Low in fiber and nutrients; primarily made from refined flour.
+   * **Inflammation Impact:** Refined carbs can spike blood sugar and promote inflammation (Cleveland Clinic).
+
+2. **Bagels**
+   * **Nutritional Drawbacks:** Very dense; equivalent to consuming multiple slices of bread.
+   * **Inflammation Impact:** High in refined carbs, leading to potential inflammation (Harvard Health).
+
+3. **Brioche**
+   * **Nutritional Drawbacks:** High in calories and refined flour.
+   * **Inflammation Impact:** Contributes to spikes in blood sugar and inflammation (Nutrition Reviews).
+
+4. **Flour Tortillas**
+   * **Nutritional Drawbacks:** Often made with refined flour and may contain preservatives.
+   * **Inflammation Impact:** Similar to white bread, their low nutritional value can lead to inflammation (Journal of the Academy of Nutrition and Dietetics).
+
+5. **Potato Bread**
+   * **Nutritional Drawbacks:** Limited nutritional value, similar to white bread.
+   * **Inflammation Impact:** Contains refined flour which can lead to inflammation (Mayo Clinic).
+
+6. **White Pita**
+   * **Nutritional Drawbacks:** Similar to white sandwich bread in terms of nutrient loss.
+   * **Inflammation Impact:** Low in fiber, leading to potential blood sugar spikes and inflammation (American Heart Association).
+
+### Conclusion
+
+Choosing breads that are whole grain or sprouted can provide significant health benefits and help manage inflammation. In contrast, breads made from refined flours should be consumed sparingly, as they can contribute to inflammation and other health issues. Always look for whole grain options to ensure you are making a healthier choice.
+
 ## Wrong Dietary Fat Sources
 
 ![Chick-Fil-A](<static/chick-fil-a ingredients.jpg>)
