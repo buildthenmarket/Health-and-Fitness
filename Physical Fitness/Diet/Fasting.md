@@ -8,6 +8,8 @@ Eat for 8hrs
 Long term water only fasting
 Controlled setting
 
+![Types of Fasting](image-4.png)
+
 ![Fasting Cheat Sheet](image-3.png)
 
 ## Intermittent Fasting

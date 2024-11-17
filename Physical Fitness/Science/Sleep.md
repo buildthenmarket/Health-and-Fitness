@@ -1,5 +1,8 @@
 # Sleep
 
+- **chronobiology**
+- irregularity in sleep timing and duration have been linked to metabolic abnormalities and higher cardiovascular disease risk
+
 ![Circadian Rhythm](<static/Circadian Rhythm.png>)
 
 - **Combine Exercise with Relaxation Techniques**: Pair exercise with relaxation techniques like deep breathing, progressive muscle relaxation, or meditation to enhance the sleep-promoting effects.
@@ -16,3 +19,15 @@
 - **Impact of Sleep Loss**: One week of sleep restriction to 5 hours per night can lower testosterone levels in young men by the same amount as aging 10 to 15 years. (4)
 
 In summary, sleep plays a crucial role in regulating testosterone levels in men. Adequate sleep duration and quality are essential for maintaining normal testosterone production, while sleep disruptions and deprivation can lead to decreased testosterone levels.
+
+## Ultradian Cycle
+
+The ultradian cycle refers to a recurrent biological rhythm or pattern that occurs more than once within a 24-hour period. It is a term used in the field of chronobiology, which is the study of biological rhythms and their effects on various physiological processes.
+
+Unlike the circadian rhythm, which has a period of approximately 24 hours and governs daily cycles such as sleep-wake patterns, the ultradian cycle has a shorter duration and repeats multiple times within a day. Ultradian rhythms are observed in various biological processes, including hormone secretion, brain activity, and physiological functions.
+
+One well-known example of an ultradian cycle is the sleep cycle. During sleep, individuals go through distinct stages, including rapid eye movement (REM) sleep and non-rapid eye movement (NREM) sleep. These sleep stages alternate throughout the night in a cyclical pattern, with each cycle typically lasting around 90-120 minutes.
+
+Other examples of ultradian cycles include fluctuations in heart rate, respiratory rate, body temperature, and hormone levels. These cycles can influence different aspects of our physiological and psychological states, including energy levels, cognitive performance, and mood.
+
+It's important to note that while there are common patterns and average durations for ultradian cycles, individual variations exist. Factors such as age, health, lifestyle, and environmental cues can influence the timing and characteristics of ultradian rhythms.

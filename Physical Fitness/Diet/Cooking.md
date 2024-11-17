@@ -2,6 +2,8 @@
 
 ## air fryers
 
+![Cooking Times & Temps](image-5.png)
+
 ![non tox brands](<static/air fryers - non-tox.JPG>)
 
 - Teflon
