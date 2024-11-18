@@ -2,6 +2,10 @@
 
 ![cheap is junk](<static/Food Affordability Meme.png>)
 
+## Honey
+
+- honey is sometimes adulterated with plain water and other sugars including hfcs (high fructose corn syrup)
+
 ## Endocrine Disruptors
 
 Xenoestregens (BPA/BPS), Phtalates, Plastic, Parabens, PVC
