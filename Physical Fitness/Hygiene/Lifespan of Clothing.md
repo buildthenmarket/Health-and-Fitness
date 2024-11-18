@@ -1,5 +1,57 @@
 # average lifespan of clothing
 
+![laundry science](image-1.png)
+
+Clothing, cleaning tools (e.g. cleaning cloths) and linens readily become contaminated with bodily fluids, dirt and food debris that can contain—and/or become—food sources for pathogenic bacteria, fungi and viruses. Clothing may be contaminated with a wide range of pathogens and serve as vehicles in their transmission.
+
+- It has been shown that pathogens can be expected to be present in clothing
+
+[PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/)
+
+## Outbreaks of pathogens associated with textiles
+
+| Microorganism | References |
+| :-- |  :-- |
+| *Salmonella typhimurium* | Steere et al. ([1975](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0059)) |
+| *Salmonella hadar* | Standaert et al. ([1994](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0058)) |
+| *Microsporum canis* | Shah et al. ([1988](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0055)) |
+| *Sacroptes scabiei* | Fijan and Turk ([2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0019)) |
+| Acinetobacter | Weernink et al. ([1995](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0061)) |
+| MRSA | Bloomfield et al. ([2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0008)) |
+| *Staphylococcus* spp. | Payne ([1959](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0047)) |
+| *Bacillus cereus* | Fijan and Turk ([2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0019)) |
+| *Clostridioides difficile* | Owen and Laird ([2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0046)) |
+| Hepatitis A virus | Keeffe ([2004](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0036)) |
+| Vaccinia---smallpox | England ([1982](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0018)) |
+| Respiratory infections | Bloomfield et al. ([2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0008)) |
+| *Neisseria gonorrhoea* | Goodyear‐Smith ([2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0027)) |
+| Hepatitis B virus | Kim and Ahn ([1993](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0038)) |
+
+## Viral pathogens detected in laundry
+
+| Virus | Reference |
+| :-- |  :-- |
+| Rotavirus | Fijan and Turk ([2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0019)) |
+| :-- |  :-- |
+| Hepatitis A | Keeffe ([2004](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0036)) |
+| Papillomavirus | Bergeron et al. ([1990](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0006)) |
+| Hepatitis B | Bloomfield et al. ([2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0008)) |
+| Adenovirus | Russell et al. ([2006](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0051)); Da Silva et al. ([2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0017)) |
+| Rhinovirus | Gralton et al. ([2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0028)) |
+| Influenza | Phan et al. ([2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0048)) |
+| Coronavirus | Ahn et al. ([2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0003)) |
+| Parainfluenza (assumed) | Phan et al. ([2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0048)) |
+| RSV (assumed) | Phan et al. ([2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC9290578/#jam15273-bib-0048)) |
+
+## Vomit
+
+- respiratory pathogens
+- advanced, enzymatic detergents
+- enteric pathogens
+- risk targets, risk reduction
+- quantitative microbial risk assessment (QMRA)
+
+
 ## Men's Underwear
 
 The frequency of replacing polyester boxer briefs can depend on several factors, including hygiene, usage, and personal comfort. Here are some considerations based on microbial science:
