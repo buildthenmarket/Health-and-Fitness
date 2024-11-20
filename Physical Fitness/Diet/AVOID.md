@@ -2,6 +2,13 @@
 
 ![cheap is junk](<static/Food Affordability Meme.png>)
 
+## Skin, pores, free radicals
+
+- lotions
+- soaps
+- cleaning agents
+- gloves
+
 ## Honey
 
 - honey is sometimes adulterated with plain water and other sugars including hfcs (high fructose corn syrup)
