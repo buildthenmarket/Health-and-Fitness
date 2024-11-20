@@ -2,11 +2,22 @@
 
 ![dead on the inside meme](<static/dead on the inside meme.jpeg>)
 
+- Life is 10 percent what happens to you and 90 percent how you react to it.
+
 ## Failure
 
 If you FAlL, never give up because F.A.I.L. means" First Attempt In Learning."
 END is not the end. In fact, E.N.D. means "EFFORT NEVER DIES."
 It you get NO as an answer, remember NO means "NEXT OPPORTUNITY."
+
+### when you're lamenting about what went wrong, crystalize in your mind two distinct choices you have for how to view it. Here are some examples:
+
+- Did the day weaken you to the point of ruin or make you stronger in some ways?
+- Did the day cause irreparable damage or was it a minor setback you can recover from?
+- Did the day cause others to truly doubt you or merely you to doubt yourself?
+- Did the day highlight what a complete loser you are or simply that you've gotten a gift--something you can work on to improve?
+
+You get the idea. Forcing granularity of two choices at opposite ends of the spectrum forces you to see there are two choices, at opposite ends of the spectrum. You'll instinctively want to migrate to the positive end.
 
 ## Who's opinion are you most worried about?
 
