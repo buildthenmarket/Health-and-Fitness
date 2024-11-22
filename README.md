@@ -28,3 +28,5 @@
 ![life expectancy](<static/Life Expectancy.png>)
 
 ![Cortisol vs T](<static/Cortisol.png>)
+
+western health over-emphasizes only germs and genes. metabolic health is ignored
