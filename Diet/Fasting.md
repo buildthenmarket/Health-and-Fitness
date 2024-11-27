@@ -1,5 +1,9 @@
 # Fasting
 
+![benefits by hours](image-9.png)
+
+![6 Stages of Fasting Benefits by Hours](image-8.png)
+
 2 kinds of fasting
 
 Don’t eat for 16hrs

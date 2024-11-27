@@ -7,6 +7,10 @@
 - HP food motivation and intake and identify specific subjective and neuroendocrine responses that may play a role in HP snacking with implications for weight gain and obesity risk.
 - biobehavioral processes that may promote HP food craving and intake.
 
+## Wal-mart great value brand
+
+[fish in great value brand products](https://www.instagram.com/reel/C2qs-bHrDYQ/)
+
 ## Soy Protein Isolates
 
 Foods to Avoid with Soy Isolate

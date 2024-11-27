@@ -1,3 +1,14 @@
+## Lose weight + Build Muscle
+
+- 20 min into a workout reserve of glycogen
+- 3 min to liquefy lean muscle vs 5 hrs to burn fat
+- for the workout your body will start digesting your own lean muscle
+- recovery > build it back
+
+[IG](https://www.instagram.com/p/C40VXl-Caan/?img_index=2)
+
+## Grip Strength
+
 Though your impetus to improve your grip strength might be as simple as wanting to be able to stay on the pull-up bar longer during a conditioning workout, **science says grip strength might even be more important than just for gaining serious pull-up prowess**.
 
 Though your impetus to improve your grip strength might be as simple as wanting to be able to stay on the pull-up bar longer during a conditioning workout, **science says grip strength might even be more important than just for gaining serious pull-up prowess**.
