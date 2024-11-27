@@ -1,8 +1,21 @@
 # Mental Toughness
 
+- You can’t change the people around you but you can change the people around you
+
+## Misery loves company
+
+The saying "misery loves company" means that people who are unhappy or going through a difficult time often seek out the company of others who are also unhappy. There are a few reasons for this:
+
+* **Validation:** Sharing their problems with others who understand can make their own problems feel more validated and less isolating.
+* **Empathy:** Knowing that others are going through similar experiences can provide comfort and empathy.
+* **Distraction:** Talking about their problems can temporarily distract them from their own misery.
+* **Shared Misery:** In some cases, people may take comfort in knowing that they are not alone in their suffering, even if it doesn't improve their situation.
+
+It's important to note that while seeking company can be helpful, it's also important to find healthy ways to cope with negative emotions and seek support from positive people.
+
 ![dead on the inside meme](<static/dead on the inside meme.jpeg>)
 
-- Life is 10 percent what happens to you and 90 percent how you react to it.
+* Life is 10 percent what happens to you and 90 percent how you react to it.
 
 ## Failure
 
@@ -12,10 +25,10 @@ It you get NO as an answer, remember NO means "NEXT OPPORTUNITY."
 
 ### when you're lamenting about what went wrong, crystalize in your mind two distinct choices you have for how to view it. Here are some examples:
 
-- Did the day weaken you to the point of ruin or make you stronger in some ways?
-- Did the day cause irreparable damage or was it a minor setback you can recover from?
-- Did the day cause others to truly doubt you or merely you to doubt yourself?
-- Did the day highlight what a complete loser you are or simply that you've gotten a gift--something you can work on to improve?
+* Did the day weaken you to the point of ruin or make you stronger in some ways?
+* Did the day cause irreparable damage or was it a minor setback you can recover from?
+* Did the day cause others to truly doubt you or merely you to doubt yourself?
+* Did the day highlight what a complete loser you are or simply that you've gotten a gift--something you can work on to improve?
 
 You get the idea. Forcing granularity of two choices at opposite ends of the spectrum forces you to see there are two choices, at opposite ends of the spectrum. You'll instinctively want to migrate to the positive end.
 
@@ -23,11 +36,11 @@ You get the idea. Forcing granularity of two choices at opposite ends of the spe
 
 ![noone cares meme](<static/Noone Cares Meme.png>)
 
-- Some people are **investments** and some people are **bills**
-- Over time, we increase our enlightenment and stop doing more things that are wrong
-- The strong do what they can, And the weak suffer what they must
-- "Diamonds are formed under pressure" And "bread dough rises when you let it rest." We're all our own things. **What's motivating to you may be crippling to others.**
-- Ships don't **sink** because of the water **around** them. Ships *sink* because of the water that gets **IN** them. (Don't let what's happening around you get inside you & weigh you down)
+* Some people are **investments** and some people are **bills**
+* Over time, we increase our enlightenment and stop doing more things that are wrong
+* The strong do what they can, And the weak suffer what they must
+* "Diamonds are formed under pressure" And "bread dough rises when you let it rest." We're all our own things. **What's motivating to you may be crippling to others.**
+* Ships don't **sink** because of the water **around** them. Ships *sink* because of the water that gets **IN** them. (Don't let what's happening around you get inside you & weigh you down)
 
 ## Two traps you need to Avoid
 

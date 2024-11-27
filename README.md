@@ -1,5 +1,7 @@
 # Fitness, Diet, Health
 
+- a person needs just three things to be truly happy in this world: someone to love, something to do, and something to hope for.
+
 ![Health Triangle](<static/The Health Triangle.png>)
 
 ![make time for health and wellness or make time for illness](<static/Lifestyle Change Meme.png>)

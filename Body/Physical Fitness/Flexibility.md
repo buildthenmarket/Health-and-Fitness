@@ -1,5 +1,7 @@
 # Flexibility
 
+proper preparation prevents poor performance
+
 ## Stretching
 
 ### Static vs Dynamic

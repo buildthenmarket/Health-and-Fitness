@@ -1,5 +1,9 @@
 # HOOP
 
+## Precision beats power, timing beats speed
+
+## Shot
+
 ![shot arc](<static/Shot Arc.png>)
 
 - inside leg w/ crossover [facebook reel](https://www.facebook.com/share/r/EFg7xsrMokG6zTxw/)

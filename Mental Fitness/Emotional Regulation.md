@@ -1,5 +1,7 @@
 # Emotional regulation
 
+## humans suck at managing their emotions
+
 ![cutting off people](<static/cutting off people.jpeg>)
 
 ## stages of crisis
@@ -39,7 +41,7 @@ The emotional blackmailer typically does not have any other coping or go-to meth
 
 - You're unhappy because you're not in alignment with who you are. Not because of what anyone else is doing. Now read that again.
 
-**self-agency** (or personal agency) as the power individuals have over their own lives. It emphasizes that self-agency reflects the degree of control one feels over their actions and environment, influencing overall happiness. 
+**self-agency** (or personal agency) as the power individuals have over their own lives. It emphasizes that self-agency reflects the degree of control one feels over their actions and environment, influencing overall happiness.
 
 recognize your own inherent agency and work towards enhancing it for a better quality of life.
 
@@ -76,4 +78,4 @@ To overcome Gifted Kids Syndrome, it is essential to recognize the signs and sym
  Promoting relaxation and leisure activities
  Providing mental health support and resources
 
-* Normalizing imperfection and acknowledging that it's okay to make mistakes
+- Normalizing imperfection and acknowledging that it's okay to make mistakes
