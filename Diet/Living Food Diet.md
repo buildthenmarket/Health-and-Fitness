@@ -1,6 +1,8 @@
 # Raw Vegan Diet
 
-The garden of Eden didn’t come with nutrition labels
+- The garden of Eden didn’t come with nutrition labels
+- raw diet, it’s a completely anti-inflammatory diet.
+- collagen is too big to be absorbed by GI tract
 
 <https://www.rawlivingspirulina.com/a-living-foods-diet-what-you-need-to-know/>
 

@@ -2,6 +2,37 @@
 
 ![cheap is junk](<static/Food Affordability Meme.png>)
 
+## highly palatable (HP) foods
+
+- HP food motivation and intake and identify specific subjective and neuroendocrine responses that may play a role in HP snacking with implications for weight gain and obesity risk.
+- biobehavioral processes that may promote HP food craving and intake.
+
+## Soy Protein Isolates
+
+Foods to Avoid with Soy Isolate
+
+Based on the provided search results, here's a summary of foods to avoid or be cautious with when consuming Soy Protein Isolates (SPI) due to potential heavy metal contamination:
+
+1. **Plant-based protein powders**: SPI is often found in plant-based protein powders, particularly those made from soybeans. A study by the Clean Label Project found that 40% of 134 plant-based protein powders tested contained elevated levels of heavy metals, including lead, mercury, cadmium, and arsenic.
+2. **Certified organic products**: Surprisingly, certified organic products were twice as likely to contain high levels of heavy metals as non-organic products. This may be due to the use of contaminated soil or water in organic farming practices.
+3. **Whey protein powders with plant ingredients**: Whey protein powders that contain plant ingredients, such as soy or pea protein, may also be contaminated with heavy metals. A study found that 5 out of 5 top-rated whey protein powders with plant ingredients contained low levels of heavy metals.
+4. **Foods with hexane processing**: SPI is often produced using hexane, a solvent that can leave behind residues of heavy metals like aluminum and other chemicals. Foods that contain SPI, such as protein bars or supplements, may be contaminated with these residues.
+
+The science behind the potential harm of heavy metals in SPI is as follows:
+
+- **Toxicity**: Heavy metals like lead, mercury, cadmium, and arsenic are toxic to the human body and can cause a range of health problems, including kidney damage, neurological disorders, and cancer.
+- **Bioaccumulation**: Heavy metals can accumulate in the body over time, leading to increased exposure and potential harm.
+- **Phytates**: SPI contains phytates, which can reduce the body's ability to absorb essential minerals like iron and zinc.
+
+To minimize exposure to heavy metals from SPI, consider the following:
+
+- Choose whey protein powders without plant ingredients or those that have undergone rigorous testing for heavy metal contamination.
+- Opt for products from reputable manufacturers that use non-hexane processing methods.
+- Limit your consumption of plant-based protein powders and choose certified non-GMO and non-organic options.
+- Consider consulting with a healthcare professional or registered dietitian for personalized guidance on protein powder selection.
+
+Remember that individual tolerance to heavy metals can vary, and it's essential to prioritize your overall health and well-being by making informed choices about your diet and supplement use.
+
 ## Skin, pores, free radicals
 
 - lotions
@@ -96,10 +127,48 @@ Frozen foods can be convenient, but they often come with potential health risks.
 - **Preservation**: Many frozen foods, especially processed ones like frozen dinners, pizzas, and snacks, are high in sodium. Sodium is often used as a preservative and flavor enhancer.
 - **Health Risks**: High sodium intake can lead to increased blood pressure, cardiovascular disease, and other health issues. The American Heart Association recommends limiting sodium intake to less than 2,300 mg per day, ideally around 1,500 mg for most adults.
 
-### 2. Added Sugars and Unhealthy Fats
+## 2. Added Sugars and Unhealthy Fats
 
 - **Flavor Enhancement**: To improve taste, many frozen foods contain added sugars and unhealthy fats, including trans fats, which are linked to heart disease.
 - **Caloric Density**: These added ingredients can make frozen foods calorie-dense without providing essential nutrients.
+
+### Hydrogenated fats
+
+Hydrogenated fats are conclusively shown to increase mortality rates in population studies. It's important that consumers read the ingredient label on their packaged food products, because many popular consumer brands of products like peanut butter contain hydrogenated fats," says Paul, who advises avoiding these fats entirely.
+
+## metabolic disease
+
+Foods with Added Sugars to Avoid
+
+Consuming foods with added sugars has been linked to an increased risk of metabolic disease, including insulin resistance, type 2 diabetes, and metabolic syndrome. Here are some common foods to limit or avoid:
+
+- **Processed meats**: Cured meats like hot dogs, bacon, and deli meats are high in sodium, which contributes to high blood pressure, and often contain added sugars.
+- **Packaged foods**: Many processed foods, such as packaged snacks, frozen meals, and instant soups, contain added sugars, refined carbohydrates, and unhealthy fats.
+- **Fast food**: Fast food meals often combine high amounts of sugar, salt, and unhealthy fats, increasing the risk of metabolic disease.
+- **Baked goods**: Cakes, muffins, cookies, and pastries are high in added sugars and refined carbohydrates, which can lead to insulin resistance and metabolic problems.
+- **Sweetened beverages**: Soda, sports drinks, and sweetened teas and coffee drinks are major sources of added sugars in the diet.
+- **Fruit juices**: While fruit is a healthy choice, fruit juices are often high in sugar and lack the fiber found in whole fruit.
+- **Granola and energy bars**: Many commercial granola and energy bars contain added sugars, making them a poor choice for those seeking to reduce sugar intake.
+
+**Why Added Sugars Contribute to Metabolic Disease**
+
+Consuming high amounts of added sugars can:
+
+- Disrupt insulin signaling and lead to insulin resistance
+- Increase inflammation and oxidative stress
+- Contribute to weight gain and obesity
+- Raise blood pressure and cholesterol levels
+- Increase the risk of developing type 2 diabetes, metabolic syndrome, and cardiovascular disease
+
+**Tips for Reducing Added Sugars**
+
+1. **Read labels**: Check food labels for added sugars, which may be listed as "sugar," "high fructose corn syrup," "honey," or "maple syrup."
+2. **Choose whole foods**: Focus on whole, unprocessed foods like fruits, vegetables, whole grains, lean proteins, and healthy fats.
+3. **Limit processed foods**: Avoid or limit packaged and processed foods, which often contain added sugars.
+4. **Cook from scratch**: Prepare meals from scratch using whole ingredients to control sugar content.
+5. **Gradually reduce sugar intake**: If you're used to consuming high amounts of sugar, gradually reduce your intake to give your taste buds time to adjust.
+
+By avoiding or limiting foods with added sugars and focusing on whole, nutrient-dense foods, you can reduce your risk of metabolic disease and promote overall health.
 
 ### 3. Preservatives and Additives
 

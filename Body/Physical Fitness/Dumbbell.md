@@ -1,5 +1,8 @@
 # Dumbbell
 
+6. Biceps curl
+5. Floor chest press
+
 ## FLYs
 
 

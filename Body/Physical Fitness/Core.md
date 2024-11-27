@@ -1,6 +1,12 @@
 # Core
 
+## Plank
+
+Two to three sets of 10-20 second hard holds
+
 ## Obliques
+
+3. Side plank
 
 [IG](https://www.instagram.com/reel/C5a8INMLO0d/)
 

@@ -1,12 +1,18 @@
 # Plant
 
+## Fruits
+
+### Citrus Fruits
+
+- Oranges, grapefruits, and lemons are good sources of vitamin C, an antioxidant that helps protect the cornea, the outer layer of the eye.
+
 ## Cruciferous vegetables
 
 Cruciferous vegetables, such as broccoli, cauliflower, and Brussels sprouts, contain compounds that can help detoxify the liver and reduce the risk of liver cancer.
 
 ![greens](image.png)
 
-## Seasonal
+### Seasonal
 
 - apricots and asparagus in the **spring**,
 - blackberries and blueberries in the **summer**,
@@ -15,7 +21,7 @@ Cruciferous vegetables, such as broccoli, cauliflower, and Brussels sprouts, con
 
 - <https://www.joyfulbelly.com/>
 
-## Types
+### Types
 
 Type | definition
 ---|---
