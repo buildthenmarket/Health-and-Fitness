@@ -3,6 +3,12 @@
 - hot showers
 - Nutrient Deficiencies
 
+## Aztec Clay
+
+[![YouTube Shorts](https://img.youtube.com/vi/Aa8AMqLtd0A/0.jpg)](https://www.youtube.com/watch?v=shorts/Aa8AMqLtd0A)
+
+[![9min YouTube Video](https://img.youtube.com/vi/sjpWYltqYDw/0.jpg)](https://www.youtube.com/watch?v=sjpWYltqYDw)
+
 ## Dry Skin Causes
 
 - [vitamin A](https://www.medicalnewstoday.com/articles/219486)

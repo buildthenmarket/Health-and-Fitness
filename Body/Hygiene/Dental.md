@@ -24,7 +24,7 @@ The mouth microbiome is a complex ecosystem of bacteria, viruses, and fungi that
 - **Porphyromonas gingivalis:** This bacteria is found in the gums and can cause gum disease.
 - **Prevotella intermedia:** This bacteria is found in the saliva and can contribute to bad breath.
 
-### Hygiene Best Practices
+## Hygiene Best Practices
 
 - Brush your teeth twice a day with a toothpaste.
 - Floss once a day to remove plaque and food particles from between your teeth.
@@ -36,6 +36,37 @@ The mouth microbiome is a complex ecosystem of bacteria, viruses, and fungi that
 - Replace your toothbrush every three months.
 - Consider using a tongue scraper to remove bacteria from your tongue.
 - Drink plenty of water to help keep your mouth moist.
+
+## AVOID
+
+Toxic Toothpaste Ingredients to Avoid
+
+1. **Titanium Dioxide**: Classified as a possible carcinogen by the Environmental Working Group (EWG). It's added as a colorant to make toothpaste white, but doesn't provide any oral benefits.
+2. **Triclosan**: Linked to endocrine (hormone) disruption and potential carcinogenicity. It's an antibacterial agent used in some toothpastes, but its use has been largely discontinued due to health concerns.
+3. **Hydrogen Peroxide**: While safe in small concentrations, excessive use can lead to enamel damage and tooth sensitivity.
+
+### Toothpastes with Triclosan
+
+Based on the provided search results, the following toothpaste uses triclosan:
+
+- Colgate Total toothpaste (pre-2022 formulation): According to the 2016 New York Times article and the 2023 publication, Colgate Total toothpaste contained triclosan as its active ingredient until its reformulation in 2022.
+- Colgate Total toothpaste (pre-2022 formulation, specific details): The 2023 publication and the 2022 PMC article mention that Colgate Total toothpaste contained 10 mM triclosan, an anti-bacterial agent, along with a copolymer that retained the triclosan on the tooth surface for up to 12 hours.
+
+Please note that Colgate has since reformulated Colgate Total toothpaste to remove triclosan, as reported in the 2022 article. The current formulation uses stannous fluoride as the active ingredient instead.
+
+**Organic Alternatives:**
+
+1. **Hydroxyapatite (HAp) Toothpaste**: A natural, non-toxic alternative for preventing tooth decay and rebuilding tooth structure. Look for brands like Boka, which uses HAp as a primary ingredient.
+2. **Natural Whitening Agents**: Instead of hydrogen peroxide, some toothpastes use natural whitening agents like baking soda, essential oils (e.g., tea tree oil), or plant-based extracts (e.g., chamomile).
+
+**How to Avoid Carcinogenic Ingredients:**
+
+1. **Read Labels**: Check the ingredient list for titanium dioxide, triclosan, and hydrogen peroxide. Opt for toothpastes with natural, organic ingredients.
+2. **Choose EU Ecolabel Products**: The EU Ecolabel certification ensures products meet certain environmental standards, including the avoidance of harmful chemicals like triclosan and parabens.
+3. **Support Brands with Transparent Ingredients**: Look for companies that disclose their ingredients and manufacturing processes. This can help you make informed decisions about the products you use.
+4. **Consult with Your Dentist**: If you're concerned about the ingredients in your toothpaste, consult with your dentist or hygienist for personalized recommendations.
+
+Remember to always prioritize your oral health and well-being by choosing natural, non-toxic products and consulting with a healthcare professional if you have any concerns.
 
 ## Timelines for replacing oral hygiene tools
 
