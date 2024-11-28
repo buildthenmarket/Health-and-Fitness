@@ -1,6 +1,7 @@
 # Time Management
 
-"Perfection is not attainable, but if we chase perfection, we can catch excellence." – Vince Lombardi
+- Activity gets you busy. But productivity gets you free.
+- "Perfection is not attainable, but if we chase perfection, we can catch excellence." – Vince Lombardi
 
 ![passage of time Meme](<static/passage of time Meme.png>)
 
