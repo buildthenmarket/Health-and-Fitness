@@ -1,6 +1,6 @@
 # average lifespan of clothing
 
-![laundry science](image-1.png)
+![laundry science](static/Laundering%20Clothes.png)
 
 Clothing, cleaning tools (e.g. cleaning cloths) and linens readily become contaminated with bodily fluids, dirt and food debris that can contain—and/or become—food sources for pathogenic bacteria, fungi and viruses. Clothing may be contaminated with a wide range of pathogens and serve as vehicles in their transmission.
 

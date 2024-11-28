@@ -1,6 +1,6 @@
 # Bad Microbes
 
-![flu vax fail](image.png)
+![flu vax fail](static/vax meme.png)
 
 <video controls src="static/Nanoscopic Sizes.mp4" title="Nanoscopic Germs"></video>
 
