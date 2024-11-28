@@ -1,8 +1,8 @@
 # Fasting
 
-![benefits by hours](image-9.png)
+![benefits by hours](static/fasting-9.png)
 
-![6 Stages of Fasting Benefits by Hours](image-8.png)
+![6 Stages of Fasting Benefits by Hours](static/fasting-8.png)
 
 2 kinds of fasting
 
@@ -12,13 +12,13 @@ Eat for 8hrs
 Long term water only fasting
 Controlled setting
 
-![Types of Fasting](image-4.png)
+![Types of Fasting](static/fasting-4.png)
 
-![Fasting Cheat Sheet](image-3.png)
+![Fasting Cheat Sheet](static/fasting-3.png)
 
 ## Intermittent Fasting
 
-![IF](image-2.png)
+![IF](static/fasting-2.png)
 
 ## AVOID SOS
 

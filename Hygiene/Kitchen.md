@@ -11,7 +11,7 @@ made after 2013 are made without polytetrafluoroethylene (PTFE) and perfluorooct
 
 ## air fryers
 
-![Cooking Times & Temps](image-5.png)
+![Cooking Times & Temps](static/kitchen-5.png)
 
 ![non tox brands](<static/air fryers - non-tox.JPG>)
 
