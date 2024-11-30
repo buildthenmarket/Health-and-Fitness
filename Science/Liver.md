@@ -1,0 +1,1 @@
+Oily fish: Oily fish, such as salmon, mackerel, and sardines, are rich in omega-3 fatty acids, which can help reduce inflammation and improve liver function.

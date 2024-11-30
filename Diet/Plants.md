@@ -8,6 +8,8 @@
 
 ## Cruciferous vegetables
 
+![mustard greens](image-2.png)
+
 Cruciferous vegetables, such as broccoli, cauliflower, and Brussels sprouts, contain compounds that can help detoxify the liver and reduce the risk of liver cancer.
 
 ![greens](image.png)

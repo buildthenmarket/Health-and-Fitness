@@ -1,5 +1,18 @@
 # Biology Terms
 
+![vegan animals are strong](image-2.png)
+
+Gorilla vs Human Teeth
+
+![comparative anatomy](image-1.png)
+
+**Gorilla Teeth:** Gorillas have large canine teeth, which are thought to be used for display and defense, rather than primarily for meat consumption. Their teeth are adapted for grinding tough plant material, such as twigs and bark, indicating an herbivorous diet.
+
+**Human Teeth:** Humans have flat molars and short, blunt canines, which are more similar to those of herbivores than carnivores. Our jaw structure allows for side-to-side and front-to-back movements, ideal for grinding and crushing plant-based foods. Additionally, our salivary amylase activity is high, indicating an ability to digest starchy foods, characteristic of herbivores or frugivores. Our digestive system is also more similar to that of herbivores, with a longer small intestine and smaller stomach capacity, suggesting a diet primarily composed of plant-based foods.
+
+In summary, while gorillas have large canine teeth, their diet is primarily herbivorous. Humans, on the other hand, have teeth and a digestive system more adapted to a herbivorous or frugivorous diet, with a focus on plant-based foods.
+
+
 ## low glycemic index
 
 ## Muscle Protein Synthesis: Exercise vs. Diet
