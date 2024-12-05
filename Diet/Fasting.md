@@ -16,10 +16,6 @@ Controlled setting
 
 ![Fasting Cheat Sheet](static/fasting-3.png)
 
-## Intermittent Fasting
-
-![IF](static/fasting-2.png)
-
 ## AVOID SOS
 
 Salt, oil, sugar
@@ -47,3 +43,9 @@ Additional Tips
 * Be patient and flexible, as adapting to longer fasting durations may take time.
 
 Remember, gradual progression is key to successful and safe extended fasting. Listen to your body and adjust your approach as needed.
+
+## Intermittent Fasting
+
+![IF](static/fasting-2.png)
+
+### (OMAD) One Meal A Day

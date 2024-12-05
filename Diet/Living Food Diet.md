@@ -1,4 +1,10 @@
-# Raw Vegan Diet
+# Alkaline
+
+![Alkaline](image-4.png)
+
+## Raw Vegan Diet
+
+![food pyramid](image-5.png)
 
 - The garden of Eden didn’t come with nutrition labels
 - raw diet, it’s a completely anti-inflammatory diet.

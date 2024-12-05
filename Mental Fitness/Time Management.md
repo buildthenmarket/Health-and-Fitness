@@ -19,8 +19,6 @@
 
 ![Time Blocking](<static/Time Blocking.png>)
 
-
-
 ## Ultra Time Mgmt
 
 ![Ultra Time Mgmt](<static/Ultra Time Mgmt.png>)

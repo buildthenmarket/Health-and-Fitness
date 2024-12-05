@@ -84,3 +84,48 @@ Visceral fat - damaging your internal organs, belly, heart disease, stroke, diab
 ## Protein
 
 ![Vegan Protein](image-1.png)
+
+## Cholesterol
+
+* unhealthy cholesterol in our blood, known as LDL
+* good cholesterol, HDL.
+
+## Monoglycerides and diglycerides
+
+Monoglycerides and diglycerides are types of fats that play a role in food processing and metabolism.
+
+**Monoglycerides**
+
+A monoglyceride is a type of fat molecule that consists of one fatty acid chain attached to a glycerol molecule. They are found naturally in some foods, such as milk fat and butterfat, and are also produced commercially through the process of glycerolysis.
+
+**Diglycerides**
+
+A diglyceride is a type of fat molecule that consists of two fatty acid chains attached to a glycerol molecule. They are also found naturally in some foods and are produced commercially through the same process as monoglycerides.
+
+**Uses in Food**
+
+Monoglycerides and diglycerides are commonly used as food additives, particularly as emulsifiers. Emulsifiers help to mix oil and water-based ingredients, preventing them from separating. This makes them useful in a variety of food products, including:
+
+* Bread and baked goods
+* Margarine and butter
+* Ice cream and frozen desserts
+* Chocolate and candy
+* Salad dressings and sauces
+* Mayonnaise
+
+**Health Considerations**
+
+Monoglycerides and diglycerides are generally considered safe for consumption. They are naturally occurring fats and are broken down in the body in the same way as other fats. However, as with any type of fat, it is important to consume them in moderation as part of a balanced diet.
+
+**Sources of Monoglycerides and Diglycerides**
+
+Monoglycerides and diglycerides can be found in a variety of foods, including:
+
+* Dairy products, such as milk, butter, and cheese
+* Meat and poultry
+* Vegetable oils, such as olive oil and soybean oil
+* Nuts and seeds
+
+It is important to note that the amount of monoglycerides and diglycerides in these foods varies.
+
+Overall, monoglycerides and diglycerides are safe and common food additives that play an important role in the food industry. They help to improve the texture, stability, and shelf life of many food products.

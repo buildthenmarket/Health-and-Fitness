@@ -2,7 +2,7 @@
 
 ![vegan animals are strong](image-2.png)
 
-Gorilla vs Human Teeth
+## Gorilla vs Human Teeth
 
 ![comparative anatomy](image-1.png)
 
@@ -12,6 +12,7 @@ Gorilla vs Human Teeth
 
 In summary, while gorillas have large canine teeth, their diet is primarily herbivorous. Humans, on the other hand, have teeth and a digestive system more adapted to a herbivorous or frugivorous diet, with a focus on plant-based foods.
 
+![Are Humans Omnivores?](image-5.png)
 
 ## low glycemic index
 

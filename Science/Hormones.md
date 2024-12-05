@@ -58,6 +58,7 @@ Maintaining hormonal balance is crucial for men's health, and avoiding certain f
 
 ## Ghrelin - Hunger hormone
 
+- Starving after 3 hrs means you have an imbalance in your body that you taught it to feed off of carbs
 - hunger 48hrs
 - it affects your sleep/wake cycle, reward-seeking behavior, taste sensation, and carbohydrate metabolism
 - people with obesity may have an overly active ghrelin receptor, known as GHS-R, which leads to increased calorie intake
@@ -75,4 +76,8 @@ Here are some additional points:
 - Habitual Eating: Repeatedly indulging in cravings can form strong habits, making it even more challenging to resist them in the future.
 Overall, understanding the interplay between ghrelin and dopamine can help you make informed choices about your eating habits. By being mindful of these hunger cues and cravings, you can develop strategies to manage them and make healthier food choices.
 
-## glycemic index
+### glycemic index
+
+## IGF-1
+
+- similar to growth hormone

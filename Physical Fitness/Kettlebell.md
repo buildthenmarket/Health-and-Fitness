@@ -1,0 +1,6 @@
+- Single-arm kettlebell clean
+- Double-arm kettlebell swing
+- Single-arm snatch
+- Double kettlebell swings
+- Double kettlebell snatches
+- Kettlebell deadlift
