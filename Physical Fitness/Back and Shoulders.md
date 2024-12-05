@@ -4,19 +4,53 @@
 
 ## Shoulders
 
-2. cable diagonal raise
-3. bent arm lateral raise
-4. dumbbell front raise
-5. ropes
-6. barbell upright row
-7. push-up
-8. dips
-10. seated rear lateral raise
+1. cable diagonal raise
+1. bent arm lateral raise
+1. dumbbell front raise
+1. ropes
+1. barbell upright row
+1. push-up
+1. dips
+1. seated rear lateral raise
+
+## rhomboids
+
+**Dumbbell Exercises:**
+
+* **Bent-Over Rows:**
+  * Hold dumbbells with a neutral grip (palms facing each other).
+  * Hinge at your hips, keeping your back flat.
+  * Row the dumbbells towards your chest, squeezing your shoulder blades together.
+* **Chest-Supported Rows:**
+  * Lie face down on an incline bench, holding dumbbells.
+  * Row the dumbbells towards your chest, squeezing your shoulder blades together.
+
+**Calisthenics Exercises:**
+
+* **Inverted Rows:**
+  * Find a sturdy bar, like a pull-up bar or a sturdy table.
+  * Hang from the bar with your arms straight, feet on the ground.
+  * Pull your chest towards the bar, squeezing your shoulder blades together.
+* **Scapular Push-ups:**
+  * Start in a push-up position.
+  * Lower your body towards the ground, then push back up, focusing on squeezing your shoulder blades together at the top.
+* **Pull-ups (if possible):**
+  * Pull-ups are a great compound exercise that works the rhomboids, along with other back muscles.
+
+**Additional Tips:**
+
+* **Focus on Squeezing Your Shoulder Blades:** This is the key to activating your rhomboids.
+* **Maintain Proper Form:** Avoid rounding your back, as this can lead to injury.
+* **Start with Lighter Weights or Easier Variations:** Gradually increase the difficulty as you get stronger.
+* **Incorporate These Exercises into Your Workout Routine:** Aim for 2-3 times per week.
+* **Listen to Your Body:** If you experience any pain, stop the exercise and consult a healthcare professional.
+
+By consistently performing these exercises, you can strengthen your rhomboids and improve your posture.
 
 ### Deltoid Heads
 
-- Anterior deltoid (front)
-  - 1. dumbbell shoulder press
-- middle deltoid
-  - 9. 45 degree incline row
-- Posterior deltoid (back)
+* Anterior deltoid (front)
+  * 1. dumbbell shoulder press
+* middle deltoid
+  * 9. 45 degree incline row
+* Posterior deltoid (back)

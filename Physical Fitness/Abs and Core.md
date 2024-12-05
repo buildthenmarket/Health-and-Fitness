@@ -4,20 +4,26 @@
 
 "The muscles in our core that engage when we place lateral loads onto our core and midsection, they don't get trained very well with other common sagittal plane [front-to-back movement] exercises," Filly says. To build up that part of your core, flip onto your side for a plank.
 
-Just make sure that your form is on point. Filly cautions against compensating by bending your hips and rolling your top shoulder forward. Again, a straight line is what you want. Really want to work? Tap your hip to the ground or add some weight. 
+Just make sure that your form is on point. Filly cautions against compensating by bending your hips and rolling your top shoulder forward. Again, a straight line is what you want. Really want to work? Tap your hip to the ground or add some weight.
 
 Two to three sets of 10-20 second hard holds
 
 - Side Plank Variations and Hip Taps
 - Copenhagen plank
 
-easy [![](https://img.youtube.com/vi/CYfcIXEA78s/0.jpg)](https://www.youtube.com/watch?v=shorts/CYfcIXEA78s)
+easy [![easy](https://img.youtube.com/vi/CYfcIXEA78s/0.jpg)](https://www.youtube.com/watch?v=shorts/CYfcIXEA78s)
 
 [![https://www.youtube.com/shorts/AiYzzRoXOEY](https://img.youtube.com/vi/AiYzzRoXOEY/0.jpg)](https://www.youtube.com/watch?v=shorts/AiYzzRoXOEY)
 
+## Turkish getup
+
+"This move puts the regular situp to shame," says Filly of this offshoot of [the Turkish getup](https://apple.news/AbSkkGF9QRu-lDHdNHU2QBA "‌"), which gives your core and your shoulder some work. Work your way up to using a weight.
+
+"As you do this exercise, you need to be sure that you initiate from the floor by pressing up hard through the kettlebell and/or the dumbbell," he says. "This is going to engage a muscle called the [serratus anterior](https://apple.news/A8juVG4unSSSr58IrGQbJFg "‌")."
+
 ## Obliques
 
-3. Side plank
+1. Side plank
 
 [IG](https://www.instagram.com/reel/C5a8INMLO0d/)
 
