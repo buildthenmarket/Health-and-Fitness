@@ -1,3 +1,5 @@
+-   **High omega-6 polyunsaturated fat intake**: That's one of the reasons why your proportion of omega-3 to omega-6 is so important, and why you should stay away from most vegetable oils.
+
 ## Bacon
 
 - **Cholesterol**

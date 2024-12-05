@@ -36,3 +36,6 @@ Potassium bromate is a chemical compound that has been linked to several health 
 * **Support Regulations:** Advocate for stricter regulations on food additives and encourage the banning of potassium bromate.
 
 It's important to note that while the scientific evidence suggests a link between potassium bromate and health risks, more research is needed to fully understand the extent of these risks in humans. However, given the potential dangers, it's advisable to limit exposure to this chemical by making informed choices about the food you consume.
+
+-   **Prolamins and agglutinins**: These harmful and [inflammatory proteins are found in grains](https://michaelkummer.com/why-avoid-grains/) such as wheat, rye, barley, oats and corn.
+-   **Digestive enzyme inhibitors**: Certain grains, such as wheat, [can significantly lower the amounts of digestive enzymes](https://www.ncbi.nlm.nih.gov/pubmed/22878393). Yet another reason to avoid grains in your diet.

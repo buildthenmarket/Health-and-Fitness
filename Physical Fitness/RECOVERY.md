@@ -1,4 +1,8 @@
-# Recovery
+# Inactivity and overtraining
+
+Neither inactivity nor overtraining are beneficial for your gut, so find the right balance and exercise at moderate intensity as often as you can. For fanatics, holding back is not always easy but it's necessary.
+
+## Recovery
 
 Restore: In two styles, Yin and Flow Yoga, we offer recovery classes that help you feel relaxed, lengthened and centred. These slow-paced sessions are a time to reflect and listen to your body as we move through postures and feel our edges.
 

@@ -1,3 +1,7 @@
+# Emulsifiers, preservatives and additives
+
+Try to stay away from processed foods, and eat fresh, organic and raw food instead.
+
 ## Butylated Hydroxyanisole (BHA)
 
 Butylated Hydroxyanisole (BHA) is a synthetic antioxidant commonly used as a preservative in various products, including:

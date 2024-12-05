@@ -7,6 +7,8 @@
 * Function: Aid in growth, development, and overall health.
 * Source: Primarily found in fruits, vegetables, and fortified foods.
 
+### Vitamin synthesis
+
 **Antioxidants**
 
 * Substances that protect cells from damage caused by harmful molecules called free radicals.
@@ -20,6 +22,8 @@
 * Examples: Polyphenols, carotenoids, phytosterols
 * Function: Can have various effects, such as reducing inflammation, lowering cholesterol, and boosting the immune system.
 * Source: Found in a wide range of plant-based foods, including fruits, vegetables, herbs, spices, and tea.
+
+### Phytochemical absorption
 
 **Key Differences:**
 

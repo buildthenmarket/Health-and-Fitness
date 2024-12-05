@@ -1,0 +1,1 @@
+-   **Casein and soy protein**: Casein, a protein found in most dairy and soy, can negatively impact the tight junctions in your gut (thus causing a leaky gut).
