@@ -1,13 +1,16 @@
 # Dumbbell
 
-6. Biceps curl
-5. Floor chest press
+## Squats
+
+1. [![Dumbbell Squat Clean & Press](https://img.youtube.com/vi/bO0k19mG3sA/0.jpg)](https://www.youtube.com/watch?v=bO0k19mG3sA)
+
+Keeping your chest tall and core tight, hold a pair of dumbbells and throw your hips back, then pop your hips forward and clean the weight up to your shoulders. Squat down until your hips are parallel to the floor, then drive through the heels and explode up. Use the momentum of the squat to press the weight up, then lower it back down to starting position before performing another rep.
+
+## Biceps curl
+
+## Floor chest press
 
 ## FLYs
-
-
-
-## Squats
 
 ## Abs
 

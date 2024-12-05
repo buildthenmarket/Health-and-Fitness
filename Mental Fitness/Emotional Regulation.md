@@ -1,5 +1,7 @@
 # Emotional regulation
 
+[![EQ in dating](https://img.youtube.com/vi/HDQ3wEUC-0A/0.jpg)](https://www.youtube.com/watch?v=shorts/HDQ3wEUC-0A)
+
 ## humans suck at managing their emotions
 
 ![cutting off people](<static/cutting off people.jpeg>)
