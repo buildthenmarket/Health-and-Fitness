@@ -389,3 +389,8 @@ Acrylamide is linked to an increased risk of cancer in some studies, although ot
 Some people choose to limit their [acrylamide intake](https://www.healthline.com/nutrition/acrylamide-in-coffee) as much as possible ([40Trusted Source](https://www.fda.gov/food/chemical-contaminants-food/acrylamide-and-diet-food-storage-and-food-preparation)).
 
 Some olive varieties -- especially ripe black olives -- may contain high amounts of acrylamide as a result of processing ([41Trusted Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7555664/), [42Trusted Source](https://pubmed.ncbi.nlm.nih.gov/25989363/), [43Trusted Source](http://www.fda.gov/food/foodborneillnesscontaminants/chemicalcontaminants/ucm053549.htm), [44Trusted Source](https://www.ncbi.nlm.nih.gov/pubmed/25110929)). Olive producers are investigating ways to reduce the amount of acrylamide that forms during processing.
+
+
+mycotoxins, which are toxic substances produced by certain molds that can grow on grains like barley.
+
+ 

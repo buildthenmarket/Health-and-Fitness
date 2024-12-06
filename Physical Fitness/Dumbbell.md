@@ -2,17 +2,37 @@
 
 ## Squats
 
-1. [![Dumbbell Squat Clean & Press](https://img.youtube.com/vi/bO0k19mG3sA/0.jpg)](https://www.youtube.com/watch?v=bO0k19mG3sA)
+[![Dumbbell Squat Clean & Press](https://img.youtube.com/vi/bO0k19mG3sA/0.jpg)](https://www.youtube.com/watch?v=bO0k19mG3sA)
 
 Keeping your chest tall and core tight, hold a pair of dumbbells and throw your hips back, then pop your hips forward and clean the weight up to your shoulders. Squat down until your hips are parallel to the floor, then drive through the heels and explode up. Use the momentum of the squat to press the weight up, then lower it back down to starting position before performing another rep.
+
+### Side Lunges
+
+aka Alternating Dumbbell Lateral Lunge & Curl
+
+[![Youtube - Clench Fitness](https://img.youtube.com/vi/PM4PMHEIjmM/0.jpg)](https://www.youtube.com/watch?v=PM4PMHEIjmM)
 
 ## Biceps curl
 
 ## Floor chest press
 
-## FLYs
+## FLYs / Rows
+
+### Bent-Over Row
+
+[![Well+Good](https://img.youtube.com/vi/LZxoUZV8seY/0.jpg)](https://www.youtube.com/watch?v=LZxoUZV8seY)
+
+### Renegade Row
+
+[![basic](https://img.youtube.com/vi/Q28cLuweLv4/0.jpg)](https://www.youtube.com/watch?v=Q28cLuweLv4)
+
+[![advanced variations](https://img.youtube.com/vi/4qEIChzM4ZA/0.jpg)](https://www.youtube.com/watch?v=4qEIChzM4ZA)
 
 ## Abs
+
+### Russian Twist
+
+[![Russian Twist](https://img.youtube.com/vi/BA-uP_-bVE8/0.jpg)](https://www.youtube.com/watch?v=shorts/BA-uP_-bVE8)
 
 ### Wood Chop
 

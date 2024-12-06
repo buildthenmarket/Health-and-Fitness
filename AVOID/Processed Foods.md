@@ -1,3 +1,5 @@
+# PROCESSED FOODS
+
 ## Trisodium phosphate (TSP)
 
 Trisodium phosphate (TSP) is a food additive commonly found in processed foods. While the FDA considers it safe for consumption in small amounts, there are growing concerns about the potential health risks of consuming too much TSP.

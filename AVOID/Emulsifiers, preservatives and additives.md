@@ -2,6 +2,16 @@
 
 Try to stay away from processed foods, and eat fresh, organic and raw food instead.
 
+## excitotoxins
+
+### Excitotoxins are substances that overstimulate nerve cells, potentially leading to cell death.
+
+- excitotoxins are added to make them *tastier*
+- aspartame and monosodium glutamate (MSG).
+- increases the free radicals and lipid peroxidation products in the walls of their arteries, the increase lasted for what would be the equivalent of decades in humans.” In addition, these chemicals can cross the placental barrier, possibly harming the brains of unborn children.
+- 1981, the FDA’s own doctors recommended that aspartame shouldn’t be approved based on the studies of mice exhibiting brain tumors. Dr. Adrian Gross, former FDA toxicologist, testified before the Senate on the aspartame issue, stating, “It is clear beyond any shadow of a doubt that aspartame has caused cancer in laboratory animals.” Unfortunately, it didn’t make a difference. The recommendation fell on deaf ears.
+
+
 ## Butylated Hydroxyanisole (BHA)
 
 Butylated Hydroxyanisole (BHA) is a synthetic antioxidant commonly used as a preservative in various products, including:
