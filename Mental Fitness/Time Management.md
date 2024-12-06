@@ -2,6 +2,7 @@
 
 - Activity gets you busy. But productivity gets you free.
 - "Perfection is not attainable, but if we chase perfection, we can catch excellence." – Vince Lombardi
+- There are decades where nothing happens, and weeks where decades happen
 
 ![passage of time Meme](<static/passage of time Meme.png>)
 
