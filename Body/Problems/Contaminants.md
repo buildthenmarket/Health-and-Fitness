@@ -1,5 +1,0 @@
-# pollutants
-
-## sulfates
-
-## trichloroethylene
