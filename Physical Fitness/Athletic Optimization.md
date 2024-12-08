@@ -75,24 +75,44 @@ This one is a fairly higher level movement, but if you have the strength, toss a
 
 - Work up to 3 to 5 sets of a rep range that's appropriate for your strength level.
 
-Things you can physically do EVERYDAY Bare Minimum 	
+Things you can physically do EVERYDAY Bare Minimum:
+
 -minimum 1 hour walk everyday/run
+
 -grooming 		
+
 -brush teeth twice daily 
+
 -mewing       
+
 -pullups/pushups/BSS/Planks little bit everyday
+
 -stretch everyday/mobility work;Kelly starett
+
 -2 healthy protein shakes everyday in morning
+
 -sleep early wake up early
+
 -good diet/whole foods
+
 -dentist check-ups 
+
 -laundry weekly
+
 -foam roller
+
 -Avoid smoking 
+
 -inversion table/decompress spine 
+
 -regular haircuts
+
 Workout  
+
 diet 
+
 sleep 
+
 supplements 
+
 Strength/Stretch/Cardio 
