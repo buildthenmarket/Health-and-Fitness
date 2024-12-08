@@ -1,5 +1,20 @@
-
 # Lifting
+
+## Protein Powder
+
+Protein powders are essentially concentrated forms of protein, usually derived from sources like whey, casein, soy, pea, or even the more exotic cricket flour. A quick, easy source of protein that can help with muscle repair and growth.
+
+- **Manufacturing**: Protein powders go through processes like filtration or ion exchange to isolate the protein from other milk components if we're talking about whey. This leaves you with a fine powder that's supposed to be chock-full of amino acids, the building blocks of muscle.
+
+- **Oxidation**: Now, here's where your protein might start to go bad. Oxidation is like the protein's version of rusting. When exposed to air (oxygen), light, or heat, proteins can degrade. This process can lead to off-flavors, a change in color, or even a decrease in nutritional quality. It's like your protein powder is slowly turning into a sad, less effective version of itself.
+  - **How to Spot It**: If your protein powder smells like it's been through a chemical warfare or looks like it's been sunbathing without sunscreen, it's probably time to let it go.
+
+### "Real Muscle" vs. "Water Weight" Debate
+
+- **Muscle Gain**: Protein is crucial for muscle repair and growth post-workout. When you lift weights, you tear your muscle fibers (in a good way, I hope), and proteins help in repairing and sometimes even making those muscles bigger. You need consistent training, adequate rest, and a balanced diet.
+
+- **Water Retention**: Here's where the water weight comes in. Some protein powders, especially those high in sodium or containing certain amino acids like glutamine, can lead to water retention. Your body holds onto water, making you look puffier rather than more muscular. It's like your muscles are doing a temporary impersonation of a sponge.
+  - **The Myth**: Critics argue that since a lot of the initial "gain" can be water weight, protein powders don't contribute to "real" muscle. But this is a bit like saying your car doesn't move because it's on gas and not rocket fuel. Yes, some of it might be water weight initially, but with proper training and diet, you're also building muscle tissue.
 
 ## Rep Ranges
 
