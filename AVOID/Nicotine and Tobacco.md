@@ -6,6 +6,3 @@
 - vascular constriction
 - collagen, elastin
 - craving
-Weed
-Alcohol
-Porn
