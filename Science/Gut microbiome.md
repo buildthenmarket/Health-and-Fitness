@@ -2,7 +2,7 @@
 
 ![good vs bad](static/Good vs Bad Gut Bacteria.png)
 
-- It's home to about 3.3 million genes, as compared to the approximately 23,000 human genes.
+- It's home to about 3.3 million genes, as compared to the approximately 20,000 to 25,000 human genes.
 - It's composed of bacteria, archaeabacteria (which are similar to bacteria), viruses, and yeast-like single-cell eukaryotes. These microorganisms are colonized in the Gastrointestinal (GI) tract
 - You can find 400 to 1,500 different species in a healthy digestive tract.
 - There are around 35,000 microbial species across all of mankind.
