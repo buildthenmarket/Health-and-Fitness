@@ -1,5 +1,7 @@
 # Habits
 
+ Habits are learned behaviors that become automatic over time. They involve a cue, a routine, and a reward. Understanding the habit loop can help us break bad habits and form new, positive ones.
+
 ![Effective](static/7%20Habits%20of%20Effective%20People.png)
 
 ![7 good](static/7%20Habits%20Illustrated.png)
