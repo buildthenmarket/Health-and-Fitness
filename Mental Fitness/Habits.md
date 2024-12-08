@@ -1,10 +1,10 @@
 # Habits
 
-![Effective](image-2.png)
+![Effective](static/7%20Habits%20of%20Effective%20People.png)
 
-![7 good](image-3.png)
+![7 good](static/7%20Habits%20Illustrated.png)
 
-![15 bad habits](image-1.png)
+![15 bad habits](static/15%20bad%20habits%20to%20avoid.png)
 
 ## "we do not rise to the level of our goals, we fall to the level of our systems.”
 

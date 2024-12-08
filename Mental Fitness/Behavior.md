@@ -89,33 +89,33 @@ Understanding these four mindsets can help individuals recognize their own motiv
 
 Self-agency, also known as phenomenal will, is the sense that our actions are self-generated and under our control. It's the feeling of being the author of our own choices and behaviors.
 
-This concept has been explored in various fields, including psychology, neuroscience, and philosophy. Researchers have studied how our brains process information and generate actions, and how this relates to our sense of agency. 
+This concept has been explored in various fields, including psychology, neuroscience, and philosophy. Researchers have studied how our brains process information and generate actions, and how this relates to our sense of agency.
 
 **Key aspects of self-agency:**
 
-* **Intentionality:** The ability to form and carry out plans.
-* **Control:** The belief that we can influence our environment and outcomes.
-* **Responsibility:** The acknowledgment of the consequences of our actions.
-* **Autonomy:** The freedom to make our own choices.
+- **Intentionality:** The ability to form and carry out plans.
+- **Control:** The belief that we can influence our environment and outcomes.
+- **Responsibility:** The acknowledgment of the consequences of our actions.
+- **Autonomy:** The freedom to make our own choices.
 
 **Importance of self-agency:**
 
 A strong sense of self-agency is crucial for our mental and emotional well-being. It empowers us to:
 
-* **Take initiative:** To pursue our goals and dreams.
-* **Cope with challenges:** To bounce back from setbacks and adversity.
-* **Build self-esteem:** To feel confident in our abilities.
-* **Develop meaningful relationships:** To connect with others on a deeper level.
+- **Take initiative:** To pursue our goals and dreams.
+- **Cope with challenges:** To bounce back from setbacks and adversity.
+- **Build self-esteem:** To feel confident in our abilities.
+- **Develop meaningful relationships:** To connect with others on a deeper level.
 
 **How to develop self-agency:**
 
 While self-agency is a complex concept, there are practical steps you can take to cultivate it:
 
-* **Set goals:** Having clear objectives gives you a sense of direction and purpose.
-* **Make choices:** Take control of your life by making conscious decisions.
-* **Practice self-discipline:** Develop the ability to resist temptations and stay focused.
-* **Learn from mistakes:** View failures as opportunities for growth and improvement.
-* **Challenge yourself:** Step outside your comfort zone and embrace new experiences.
-* **Cultivate mindfulness:** Pay attention to the present moment and your thoughts and feelings.
+- **Set goals:** Having clear objectives gives you a sense of direction and purpose.
+- **Make choices:** Take control of your life by making conscious decisions.
+- **Practice self-discipline:** Develop the ability to resist temptations and stay focused.
+- **Learn from mistakes:** View failures as opportunities for growth and improvement.
+- **Challenge yourself:** Step outside your comfort zone and embrace new experiences.
+- **Cultivate mindfulness:** Pay attention to the present moment and your thoughts and feelings.
 
 By understanding and nurturing your sense of self-agency, you can unlock your full potential and live a more fulfilling life.
