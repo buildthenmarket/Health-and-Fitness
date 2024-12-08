@@ -61,9 +61,9 @@ It detoxifies your liver naturally, adding alternative grains like millets, buck
 
 ## Fatty Liver Disease
 
-![FL Diet](image-6.png)
+![FL Diet](static/Fatty Liver Diet.png)
 
-![avoid foods](image-8.png)
+![avoid foods](static/Fatty Liver Avoid.png)
 
 ![drink detox](image-9.png)
 

@@ -2,4 +2,4 @@
 
 https://www.instagram.com/reel/C2KsdHRoCBJ/
 
-![storage](image-7.png)
+![storage](static/How to store your Groceries.png)

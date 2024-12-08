@@ -276,7 +276,7 @@ Toxic farming practices can significantly impact both the environment and human 
 - Opting for organic produce
 - supporting local farms that practice sustainable methods
 
-![dirty dozen, clean 15](image-6.png)
+![dirty dozen, clean 15](static/EWG - Dirty Dozen.png)
 
 ### Sulfur Dioxide
 
@@ -324,36 +324,11 @@ Toxic farming practices can significantly impact both the environment and human 
 
 ![PFAs](static/PFAs.jpg)
 
-## Microplastics and Nanoplastics
-
-![nanoplastics](static/Nanoplastics.jpg)
-
-- Microplastics: Popular brands of bottled water contain up to 100 times more nanoplastics — even tinier flecks of the material than microplastics — than previously thought, a monumental study found earlier this year. We now know that these plastic bits have made their way into many parts of our bodies, where they may trigger inflammation, metabolic changes, reproductive issues and Parkinson’s disease-related brain changes. And it’s not just drinking bottled water that exposes us to microplastics. “Nine out of 10 plastic bottles end up in the environment where they disintegrate into microplastics and nanoplastics that cause global pollution and adverse health effects on living organisms including humans,” Rolf Halden, director of Arizona State University’s Biodesign Center for Environmental Health Engineering, tells Yahoo Life.
-- Phthalates: These chemicals are used to make plastics more flexible and durable. They can be found in everything from cosmetic products to food, flooring and bottled water. Phthalates are known as “endocrine disruptors” because they interfere with the endocrine system, which regulates hormones. The chemicals have been linked to reproductive health issues, low IQ in children and metabolic changes.
-- PFAS: Best known as forever chemicals, per- and polyfluoroalkyl substances are synthetics used to treat products including carpets and nonstick pans to make them heat-resistant. It can take hundreds or thousands of years for PFAS to break down in the environment and up to a decade for them to leave the human body. And while they’re already in our bodies, high levels of PFAS may contribute to higher cholesterol levels, liver enzyme changes, preeclampsia during pregnancy, low birth weights and greater testicular and kidney cancer risks. They may also contribute to obesity and metabolic issues.
-- BPA: Bisphenol A, or BPA, is a chemical used to make food packaging stronger and less vulnerable to corrosion or breaking down. But like phthalates, it disrupts hormones and has been linked to higher risks of infertility, PCOS, diabetes, cardiovascular disease and breast and prostate cancer. However, the Food and Drug Administration considers BPA levels in food packaging safe, and stated after a four-year review that safety standards don’t need to be changed.
-
 ## Laundry
 
 Guppyfriend washing bag: These specialized bags capture microplastics during washing, preventing them from entering the wastewater system. You can find these online or at eco-friendly stores.
 
 - When washed, polyester fabrics can shed microplastics, tiny plastic fibers that can enter water systems and potentially harm wildlife.
-
-## Caffiene
-
-![caffiene](static/Caffiene.png)
-
-So how does caffeine wake you up? Your body naturally produces a chemical called adenosine. It builds up in your body during the day.
-
-“The sleepiness you feel at the end of the day—that’s adenosine,” explains Dr. Sergi Ferre, a brain scientist at NIH. Its buildup tells your brain when it’s time to rest.
-
-Caffeine blocks adenosine from working on brain cells. This prevents you from feeling sleepy. “But the body adapts,” Ferre says. If you regularly consume caffeine, your body produces more adenosine. So people need more caffeine over time to get the same wakeful feeling.
-
-Adenosine also makes it unpleasant to quit caffeine suddenly, says Ferre. If you take away the caffeine, extra adenosine in the body can cause feelings of withdrawal for a while. These include headaches and increased sleepiness.
-
-Caffeine also interacts with other chemicals in the brain. If you consume more than normal, some of these interactions are what make you feel “overcaffeinated.” Your heart may race, or you can feel anxious or sick to your stomach.
-
-But caffeine doesn’t affect everyone the same way. That’s because people’s bodies can break it down at different speeds.
 
 ### Aflatoxins
 

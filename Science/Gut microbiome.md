@@ -1,6 +1,6 @@
 # Gut microbiome
 
-![good vs bad](image-11.png)
+![good vs bad](static/Good vs Bad Gut Bacteria.png)
 
 - It's home to about 3.3 million genes, as compared to the approximately 23,000 human genes.
 - It's composed of bacteria, archaeabacteria (which are similar to bacteria), viruses, and yeast-like single-cell eukaryotes. These microorganisms are colonized in the Gastrointestinal (GI) tract
@@ -10,7 +10,7 @@
 - Diversity is the number one defining feature of a healthy microbiome.
 - the "gut brain" contains around 200 million neurons. That's incredible, considering that [the brain functions properly with "only" 86 billion neurons](https://onlinelibrary.wiley.com/doi/full/10.1002/cne.21974).
 
-![pesticides](image-10.png)
+![pesticides - Bad Food Altering Gut Microbiota](static/Bad Food Altering Gut Microbiota.png)
 
 [pubmed](https://pmc.ncbi.nlm.nih.gov/articles/PMC10026936/)
 
@@ -39,7 +39,7 @@ Understanding the gut microbiome and its interactions with the human host is an 
 
 the gut is nearly as powerful a force as the brain, affecting your physical and mental health right now-and into your future.
 
-![serotonin](image-12.png)
+![serotonin](static/serotonin.png)
 
 For example, Bifidobacterium species in the human gut produce a neurotransmitter called gamma-aminobutyric acid (GABA), which is an inhibitory neurotransmitter that may have an analgesic effect and [may even reduce abdominal pain from a neuronal perspective](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195897/).
 

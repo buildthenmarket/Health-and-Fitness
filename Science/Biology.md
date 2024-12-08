@@ -1,6 +1,6 @@
 # Biology Terms
 
-![vegan animals are strong](image-2.png)
+![vegan animals are strong](static/Strong Herbivore Animals.png)
 
 ## Gorilla vs Human Teeth
 
