@@ -74,3 +74,25 @@ Place two DBs on their ends and pick them up by their head. Hold a farmer carry 
 This one is a fairly higher level movement, but if you have the strength, toss a towel over the bar and hold onto the towel as you pull your chin over the bar into a pull-up. The [Rope Towel Pull Ups movement is demonstrated here](https://breakingmuscle.com/rope-towel-pull-ups/) as part of the [Breaking Muscle Movement Library](https://breakingmuscle.com/tag/movement-library/).
 
 - Work up to 3 to 5 sets of a rep range that's appropriate for your strength level.
+
+Things you can physically do EVERYDAY Bare Minimum 	
+-minimum 1 hour walk everyday/run
+-grooming 		
+-brush teeth twice daily 
+-mewing       
+-pullups/pushups/BSS/Planks little bit everyday
+-stretch everyday/mobility work;Kelly starett
+-2 healthy protein shakes everyday in morning
+-sleep early wake up early
+-good diet/whole foods
+-dentist check-ups 
+-laundry weekly
+-foam roller
+-Avoid smoking 
+-inversion table/decompress spine 
+-regular haircuts
+Workout  
+diet 
+sleep 
+supplements 
+Strength/Stretch/Cardio 
