@@ -109,3 +109,5 @@ Obviously, changing some habits can be more difficult than others, but these thr
 **Give it a try now with your worst habit** — one that really eats up lots of your valuable time or one that is negatively affecting your health.
 
 Quitting might never have been easier!
+
+Brain>thoughts/feelings/impulses>actions/habit>destiny>bolster your intuition
