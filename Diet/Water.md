@@ -4,6 +4,8 @@
 - body can absorb 10oz every 20min
 - it's ok to urinate more frequently > detoxing
 
+![water %age](static/body%20composition%20water.png)
+
 ## Hard Water
 
 ![hard water stain](static/water-6.png)

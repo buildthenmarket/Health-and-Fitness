@@ -148,6 +148,14 @@ Maintenance Tips for Longer Life:
 
 Let me provide a comprehensive guide for improving dental health, including scientific factors and natural approaches.
 
+## Teeth Cleaning Costs With and Without Insurance
+
+ |**Type of Cleaning** | **Estimated Cost with insurance** | **Estimated Cost without insurance** |
+ |--- | --- | --- |
+ |Adult Teeth Cleaning  | $0 | $100 - $200 |
+ |Scaling and Root planning (for the entire mouth) | $400 - $900  | $1,000 - $1,800 |
+ |Periodontal Maintenance  | Varies | $150 - $300 |
+
 ## Key Factors Affecting Dental Health
 
 1. Smoking and Tobacco
