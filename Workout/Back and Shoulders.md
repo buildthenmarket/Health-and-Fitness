@@ -1,5 +1,7 @@
 # Back
 
+### Superman
+
 [![floor supermans](https://img.youtube.com/vi/CvTC75KRay4/0.jpg)](https://www.youtube.com/watch?v=CvTC75KRay4)
 
 ## Shoulders
@@ -12,6 +14,8 @@
 1. push-up
 1. dips
 1. seated rear lateral raise
+1. [![Half kneeling landmine press](https://img.youtube.com/vi/fx6lSVNvu-4/0.jpg)](https://www.youtube.com/watch?v=fx6lSVNvu-4)
+1. [![Barbell Romanian Deadlift (RDL) ](https://img.youtube.com/vi/d-hn_0sEpRQ/0.jpg)](https://www.youtube.com/watch?v=shorts/d-hn_0sEpRQ)
 
 ## rhomboids
 
