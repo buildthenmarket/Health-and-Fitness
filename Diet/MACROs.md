@@ -87,6 +87,7 @@ Visceral fat - damaging your internal organs, belly, heart disease, stroke, diab
 
 ## Cholesterol
 
+* estimated average daily cholesterol intake of 300 milligrams recommended by some experts.
 * unhealthy cholesterol in our blood, known as LDL
 * good cholesterol, HDL.
 
