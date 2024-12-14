@@ -1,5 +1,11 @@
 # strength, stamina, speed
 
+## ideal body fat percentage
+
+### 15% ideal body fat to see abs and sustainable
+
+[![15% ideal body fat to see abs and sustainable](https://img.youtube.com/vi/zG2ux0MQRhM/0.jpg)](https://www.youtube.com/watch?v=shorts/zG2ux0MQRhM)
+
 ## Lose weight + Build Muscle
 
 - 20 min into a workout reserve of glycogen
