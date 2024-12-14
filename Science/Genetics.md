@@ -12,7 +12,7 @@ the range of 20,000 to 25,000 human genes reflects both our current best estimat
 
 4. **Gene Overlaps**: Sometimes, different genes can overlap on the same strand of DNA, sharing some sequences. Deciding whether to count these as one or multiple genes adds to the ambiguity.
 
-5. **Sequencing and** Assembly Errors: The human genome's sequence is massive and complex. Despite advancements, there can be errors or gaps in genome assembly, leading to uncertainties in gene annotation, especially in repetitive or structurally complex regions.
+5. **Sequencing andAssembly Errors**: The human genome's sequence is massive and complex. Despite advancements, there can be errors or gaps in genome assembly, leading to uncertainties in gene annotation, especially in repetitive or structurally complex regions.
 
 6. **Population Variability**: Humans aren't genetically identical. There's natural variation in gene numbers across individuals due to genetic polymorphisms, insertions, deletions, or duplications. This variability means the "average" number of genes can fluctuate.
 

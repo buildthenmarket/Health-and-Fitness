@@ -2,9 +2,25 @@
 
 ![It is what it is](<static/It is what it is.png>)
 
-## i don't want the same things now that i've become a different animal
+- you can't get too high, you can't get too low
+- i don't want the same things now that i've become a different animal
 
-## Apply for that job. Date that person. Buy that plane ticket. Move to that city. Do all the things that scare you, because they're worth it.
+## Aging
+
+- “I am grateful for the gift of each new day.”
+- “My age is a testament to my strength and resilience.”
+- “I embrace the wisdom that comes with each passing year.”
+- “I am surrounded by love and support from family and friends.”
+- “My experiences have shaped me into a resilient and capable individual.”
+- “No matter what my age is, every day is a new opportunity to change my life.”
+- “By taking care of my body and mind, I am setting myself up to enjoy my retirement and make decisions I can be proud of.”
+- “I am an interesting and valuable person, and people want to be my friend.”
+- “I have wisdom and learned experience that younger people do not, and that means I can make important and unique contributions to the world as a senior.”
+- “I have learned and grown in many ways as I have entered my golden years. I am proud of the changes I have made and the person I have become.”
+
+---
+
+Apply for that job. Date that person. Buy that plane ticket. Move to that city. Do all the things that scare you, because they're worth it.
 
 **Confidence and Self-Esteem**
 

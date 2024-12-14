@@ -1,0 +1,237 @@
+﻿<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="768px" width="1024px" version="1.1" preserveAspectRatio="none" viewBox="0 0 1024 768">
+<title>Adult Male Obesity 20-74 in the United States</title>
+<desc>Translations are included for Arabic, Chinese, Czech, Danish, English, French, German, Italian, Japanese, Korean, Russian, and Spanish. Other languages can easily be added.</desc>
+<!-- background -->
+<rect width="100%" fill="#fff" height="100%"/>
+
+<!--
+     ORDER OF TRANSFORMATIONS:
+     (1)     Shift origin from (x, y) to (0, 0) (e.g., from [2004, 0] to [0, 0])
+     (2)     Scale as appropriate
+     (3)     Shift back to viewport's origin
+     (4)     Shift away from edge as desired
+     In working out your calculations, opt for a number that divides nicely into 100s (e.g., 1, 2, 2.5, 5, 10, 20, 25, etc.)
+     CALCULATIONS:
+     Horizontal     =     Width/Range
+                    =     800/ 2013-1996
+                    ~      39
+     Vertical     =     [-1 * Height]/Range
+                    =     -600 / (350 - 0)
+                    ~     -1.4
+-->
+<g font-family="Verdana, Tahoma, sans-serif" transform="translate(100 -35)" text-anchor="middle">
+<!-- The lines in the graph are scaled significantly. Make sure the stroke width is set appropriately. -->
+     <g stroke="#333" transform="translate(0 740) scale(17 -6.5) translate(-1962)">
+<!-- Horizontal gridlines -->
+          <g stroke-width="0.1">
+          <path d="m 1962 10 h 52"/>
+          <path d="m 1962 20 h 52"/>
+          <path d="m 1962 30 h 52"/>
+          <path d="m 1962 40 h 52"/>
+          <path d="m 1962 50 h 52"/>
+          <path d="m 1962 60 h 52"/>
+          <path d="m 1962 70 h 52"/>
+          <path d="m 1962 80 h 52"/>
+          <path d="m 1962 90 h 52"/>
+          <path d="m 1962 100 h 52"/>
+
+          <!-- Extreme obesity -->
+          <path fill="#bf0000" d="
+     M	1962	0
+     L	1962	49.7
+     L	1974	54.4
+     L	1980	53.0
+     L	1994	62.6
+     L	2000	70.2
+     L	2002	73.7
+     L	2004	74.1
+     L	2006	77.8
+     L	2008	76.3
+     L	2010	78.5
+     L	2012	75.7
+     L	2014	79.4
+V 0 z" />
+
+          <!-- Obese -->
+          <path fill="#ff8000" d="
+     M	1962	0
+     L	1962	49.4
+     L	1974	53.8
+     L	1980	52.6
+     L	1994	60.8
+     L	2000	66.9
+     L	2002	69.8
+     L	2004	71.1
+     L	2006	73.5
+     L	2008	71.9
+     L	2010	73.9
+     L	2012	71.2
+     L	2014	73.7
+V 0 z" />
+
+          <!-- Overweight -->
+          <path fill="#ffff00" d="
+     M	1962	0
+     L	1962	38.7
+     L	1974	41.7
+     L	1980	39.9
+     L	1994	40.3
+     L	2000	39.2
+     L	2002	41.5
+     L	2004	39.4
+     L	2006	39.7
+     L	2008	39.4
+     L	2010	38.0
+     L	2012	37.3
+     L	2014	38.2
+V 0 z" />
+
+<!-- X axis -->
+          <path d="m1962 0h52"/>
+
+          </g>
+<!-- Vertical ticks -->
+          <g stroke-width="0.1">
+          <path d="m1962 100v-100"/>
+          <path d="m1965 0v-1"/>
+          <path d="m1970 0v-1"/>
+          <path d="m1975 0v-1"/>
+          <path d="m1980 0v-1"/>
+          <path d="m1985 0v-1"/>
+          <path d="m1990 0v-1"/>
+          <path d="m1995 0v-1"/>
+          <path d="m2000 0v-1"/>
+          <path d="m2005 0v-1"/>
+          <path d="m2010 0v-1"/>
+          <path d="m2014 100v-100"/>
+          </g>
+     </g>
+<!-- Text can't be scaled or it goes strange. Its location must be calculated directly. -->
+<!-- Title -->
+     <g font-size="24" transform="translate(440 70)" style="stroke:black">
+       <switch>
+          <text systemLanguage="ar">الكبار ذكر السمنة 20-74 في الولايات المتحدة</text>
+          <text systemLanguage="cs">Dospělý muž Obezita 20-74 ve Spojených státech</text>
+          <text systemLanguage="da">Voksen Mand Fedme 20-74 i USA</text>
+          <text systemLanguage="de">Adult Male Obesity 20-74 in den Vereinigten Staaten</text>
+          <text systemLanguage="es">La obesidad varón adulto 20-74 en los Estados Unidos</text>
+          <text systemLanguage="fr">20-74 mâle adulte obésité aux Etats-Unis</text>
+          <text systemLanguage="it">Maschio adulto obesità 20-74 negli Stati Uniti</text>
+          <text systemLanguage="ja">米国では成人男性の肥満20から74</text>
+          <text systemLanguage="ko">미국에서 성인 남성 비만 20-74</text>
+          <text systemLanguage="nl">Volwassen Mannelijke Obesitas 20-74 in de Verenigde Staten</text>
+          <text systemLanguage="ru">Взрослых мужчин с ожирением 20-74 в Соединенных Штатах</text>
+          <text systemLanguage="sv">Vuxen Manlig fetma 20-74 i USA</text>
+          <text systemLanguage="zh">成年男性肥胖20-74在美國</text>
+          <text>Adult Male Obesity 20-74 in the United States</text>
+       </switch>
+     </g>
+<!-- Y-axis -->
+     <g font-size="20" transform="translate(-63 400) rotate(270)" style="stroke:black">
+     <switch>
+          <text systemLanguage="ar">نسبه مئويه</text>
+          <text systemLanguage="cs">Procento</text>
+          <text systemLanguage="da">Procent</text>
+          <text systemLanguage="de">Prozent</text>
+          <text systemLanguage="es">Por ciento</text>
+          <text systemLanguage="fr">Pour cent</text>
+          <text systemLanguage="it">Per cento</text>
+          <text systemLanguage="ja">パーセント</text>
+          <text systemLanguage="ko">퍼센트</text>
+          <text systemLanguage="nl">Procent</text>
+          <text systemLanguage="ru">Процент</text>
+          <text systemLanguage="sv">Procent</text>
+          <text systemLanguage="zh">百分</text>
+          <text>Percent</text>
+     </switch>
+     </g>
+     <g id="percentage_numbers" font-size="20px" text-anchor="end" transform="translate(-19)">
+          <text y="96">100</text>
+          <text y="161">90</text>
+          <text y="226">80</text>
+          <text y="291">70</text>
+          <text y="356">60</text>
+          <text y="421">50</text>
+          <text y="486">40</text>
+          <text y="551">30</text>
+          <text y="616">20</text>
+          <text y="681">10</text>
+          <text y="746">0</text>
+     </g>
+<!-- X-axis -->
+     <g id="x_axis_numbers" font-size="20" transform="translate(-20 775)">
+          <text x="71">1965</text>
+          <text x="156">1970</text>
+          <text x="241">1975</text>
+          <text x="326">1980</text>
+          <text x="411">1985</text>
+          <text x="496">1990</text>
+          <text x="581">1995</text>
+          <text x="666">2000</text>
+          <text x="751">2005</text>
+          <text x="836">2010</text>
+     </g>
+<!-- Legend -->
+     <g font-size="24" transform="translate(80 116)" text-anchor="start" style="stroke:black;stroke-width:1">
+     <g transform="translate(0 64)">
+             <rect x="-30" y="-18" width="20" height="20" style="fill:#bf0000"/>
+         <switch>
+             <text systemLanguage="ar">السمنة الشديدة</text>
+             <text systemLanguage="cs">Extrémní obezita</text>
+             <text systemLanguage="da">Ekstrem fedme</text>
+             <text systemLanguage="de">Extreme Fettleibigkeit</text>
+             <text systemLanguage="es">La obesidad extrema</text>
+             <text systemLanguage="fr">L'obésité extrême</text>
+             <text systemLanguage="it">Obesità estrema</text>
+             <text systemLanguage="ja">極度の肥満</text>
+             <text systemLanguage="ko">극단적 인 비만</text>
+             <text systemLanguage="nl">Extreem overgewicht</text>
+             <text systemLanguage="ru">Экстремальные ожирения</text>
+             <text systemLanguage="sv">Extrem fetma</text>
+             <text systemLanguage="zh">極度肥胖</text>
+             <text>Extreme obesity</text>
+         </switch>
+     </g>
+     <g transform="translate(0 96)">
+             <rect x="-30" y="-18" width="20" height="20" style="fill:#ff8000"/>
+         <switch>
+             <text systemLanguage="ar">بدين</text>
+             <text systemLanguage="cs">Obézní</text>
+             <text systemLanguage="da">Fede</text>
+             <text systemLanguage="de">Fettleibig</text>
+             <text systemLanguage="es">Obeso</text>
+             <text systemLanguage="fr">Obèse</text>
+             <text systemLanguage="it">Obeso</text>
+             <text systemLanguage="ja">肥満しました</text>
+             <text systemLanguage="ko">뚱뚱한</text>
+             <text systemLanguage="nl">Zwaarlijvig</text>
+             <text systemLanguage="ru">Тучный</text>
+             <text systemLanguage="sv">Fet</text>
+             <text systemLanguage="zh">肥胖</text>
+             <text>Obese</text>
+         </switch>
+     </g>
+     <g transform="translate(0 128)">
+             <rect x="-30" y="-18" width="20" height="20" style="fill:#ffff00"/>
+         <switch>
+             <text systemLanguage="ar">وزن زائد</text>
+             <text systemLanguage="cs">Nadváha</text>
+             <text systemLanguage="da">Overvægtig</text>
+             <text systemLanguage="de">Übergewicht</text>
+             <text systemLanguage="es">Exceso de peso</text>
+             <text systemLanguage="fr">En surpoids</text>
+             <text systemLanguage="it">Sovrappeso</text>
+             <text systemLanguage="ja">太り過ぎ</text>
+             <text systemLanguage="ko">초과 중량</text>
+             <text systemLanguage="nl">Te zwaar</text>
+             <text systemLanguage="ru">Избыточный вес</text>
+             <text systemLanguage="sv">Övervikt</text>
+             <text systemLanguage="zh">超重</text>
+             <text>Overweight</text>
+         </switch>
+     </g>
+     </g>
+
+</g>
+</svg>
