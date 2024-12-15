@@ -1,6 +1,8 @@
 # Habits
 
- Habits are learned behaviors that become automatic over time. They involve a cue, a routine, and a reward. Understanding the habit loop can help us break bad habits and form new, positive ones.
+![Billionaire Habits](static/billionaire%20habits.png)
+
+Habits are learned behaviors that become automatic over time. They involve a cue, a routine, and a reward. Understanding the habit loop can help us break bad habits and form new, positive ones.
 
 ![Effective](static/7%20Habits%20of%20Effective%20People.png)
 
