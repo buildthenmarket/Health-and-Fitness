@@ -1,5 +1,9 @@
 # Microplastics and Nanoplastics
 
+## Car Tires
+
+- number 1 source of microplastic exposure is being near roads and inhaling microplastics from burning rubber
+
 ![nanoplastics](static/Nanoplastics.jpg)
 
 - Microplastics: Popular brands of bottled water contain up to 100 times more nanoplastics — even tinier flecks of the material than microplastics — than previously thought, a monumental study found earlier this year. We now know that these plastic bits have made their way into many parts of our bodies, where they may trigger inflammation, metabolic changes, reproductive issues and Parkinson’s disease-related brain changes. And it’s not just drinking bottled water that exposes us to microplastics. “Nine out of 10 plastic bottles end up in the environment where they disintegrate into microplastics and nanoplastics that cause global pollution and adverse health effects on living organisms including humans,” Rolf Halden, director of Arizona State University’s Biodesign Center for Environmental Health Engineering, tells Yahoo Life.

@@ -280,6 +280,31 @@ Toxic farming practices can significantly impact both the environment and human 
 
 ![dirty dozen, clean 15](static/EWG - Dirty Dozen.png)
 
+### Mono-crop agriculture
+
+the practice of growing a single crop species over a large area, has several significant biological harms:
+
+- **Reduced Biodiversity:**
+  - **Loss of Habitat:** Large monoculture fields eliminate natural habitats for a wide range of organisms, including insects, birds, small mammals, and even larger animals.
+  - **Limited Food Sources:** The lack of diverse plant life reduces food availability for many species, disrupting the entire food chain.
+  - **Increased Vulnerability to Pests and Diseases:** When a single crop dominates, it creates ideal conditions for pests and diseases to thrive and spread rapidly. This often leads to increased reliance on harmful pesticides.
+
+- **Soil Degradation:**
+  - **Nutrient Depletion:** Continuously growing the same crop depletes specific soil nutrients, making the land less fertile over time.
+  - **Erosion:** Monoculture often involves practices like tilling, which can increase soil erosion, leading to loss of topsoil and reduced water retention.
+  - **Reduced Soil Microbiome:** The lack of diverse plant roots and organic matter in monoculture systems can negatively impact the beneficial soil microorganisms that are crucial for healthy soil.
+
+- **Water Pollution:**
+  - **Nutrient Runoff:** Excessive use of fertilizers in monoculture can lead to nutrient runoff into waterways, causing algal blooms and oxygen depletion, harming aquatic life.
+  - **Pesticide Contamination:** Pesticides used in monoculture can contaminate water sources, posing risks to both human and wildlife health.
+
+- **Increased Reliance on Pesticides:**
+  - **Pest and Disease Outbreaks:** As mentioned, monoculture increases the risk of pest and disease outbreaks.
+  - **Pesticide Resistance:** The overuse of pesticides can lead to the evolution of pesticide-resistant pests, requiring even stronger and more harmful chemicals.
+
+- **Reduced Pollinator Health:**
+  - **Lack of Diverse Pollen Sources:** Monoculture landscapes often lack the diverse floral resources that pollinators like bees and butterflies need for survival and reproduction.
+
 ### Sulfur Dioxide
 
 ![grapes w sulfur dioxide](<static/Grapes w Sulfur Dioxide.png>)
@@ -367,7 +392,4 @@ Some people choose to limit their [acrylamide intake](https://www.healthline.co
 
 Some olive varieties -- especially ripe black olives -- may contain high amounts of acrylamide as a result of processing ([41Trusted Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7555664/), [42Trusted Source](https://pubmed.ncbi.nlm.nih.gov/25989363/), [43Trusted Source](http://www.fda.gov/food/foodborneillnesscontaminants/chemicalcontaminants/ucm053549.htm), [44Trusted Source](https://www.ncbi.nlm.nih.gov/pubmed/25110929)). Olive producers are investigating ways to reduce the amount of acrylamide that forms during processing.
 
-
 mycotoxins, which are toxic substances produced by certain molds that can grow on grains like barley.
-
- 
