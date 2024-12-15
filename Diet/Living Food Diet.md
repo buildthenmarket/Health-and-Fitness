@@ -1,5 +1,7 @@
 # Alkaline
 
+![Alkaline Meat Replacements](static/Alkaline%20Meat%20Replacements.jpeg)
+
 ![Alkaline](image-4.png)
 
 ## Raw Vegan Diet

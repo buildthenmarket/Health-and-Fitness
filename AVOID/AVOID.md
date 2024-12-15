@@ -1,5 +1,7 @@
 # Avoid
 
+![Lies](static/Lies.jpeg)
+
 ![cheap is junk](<static/Food Affordability Meme.png>)
 
 ## highly palatable (HP) foods

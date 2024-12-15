@@ -1,4 +1,8 @@
-# bioactive compounds that may be beneficial
+# Detoxification
+
+![DETOX](static/Detox.jpeg)
+
+## bioactive compounds that may be beneficial
 
 **Fatty Liver**
 
