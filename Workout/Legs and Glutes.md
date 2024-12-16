@@ -1,5 +1,9 @@
 # Legs
 
+## Wedges
+
+[![Squat Wedges Variations](https://img.youtube.com/vi/IkGSkPXlYfI/0.jpg)](https://www.youtube.com/watch?v=shorts/IkGSkPXlYfI)
+
 ## Squats
 
 1. Front squat

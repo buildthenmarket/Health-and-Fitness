@@ -43,10 +43,8 @@ Pilates-inspired movements against decreasing intervals.
 
 HIIT, but not as you know it. Through bursts of high intensity activity, our workout gets progressively more challenging. This dynamic circuit style workout results in total body cardio-conditioning.
 
-## Kettlebell
+## Cable
 
-- Rack carry?
-- Single arm row
-- Sumo squat
-- Overhead press
-- swing
+### Pallof press variations
+
+[![Pallof press variations](https://img.youtube.com/vi/B6BjYZP2QdY/0.jpg)](https://www.youtube.com/watch?v=shorts/B6BjYZP2QdY)
