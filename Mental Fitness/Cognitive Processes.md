@@ -111,3 +111,62 @@ Obviously, changing some habits can be more difficult than others, but these thr
 Quitting might never have been easier!
 
 Brain>thoughts/feelings/impulses>actions/habit>destiny>bolster your intuition
+
+## Confirmation bias
+
+Confirmation bias is a cognitive bias that refers to the tendency of individuals to favor information or evidence that confirms their existing beliefs or preconceptions while disregarding or downplaying information that contradicts those beliefs. It can lead people to seek out and interpret information in a way that supports their existing views, while disregarding or dismissing information that challenges or contradicts their beliefs.
+
+Confirmation bias can occur in various aspects of life, including personal beliefs, political opinions, and even scientific research. It can affect decision-making processes, as individuals may selectively consider information that aligns with their preexisting views, leading to potentially biased or incomplete judgments.
+
+To mitigate the influence of confirmation bias, it's important to be aware of its existence and actively seek out diverse perspectives and information that challenges one's own beliefs. Engaging in critical thinking, being open to alternative viewpoints, and practicing skepticism can help reduce the impact of confirmation bias on decision-making processes. Additionally, seeking out multiple sources of information and considering evidence from different angles can help create a more balanced and informed perspective.
+
+## Think Before You Speak
+
+Research in psychology and linguistics has shed light on the cognitive processes involved in thinking before you speak. Here are some key findings:
+
+1. **Planning units**: Studies at the Max Planck Institute for Psycholinguistics suggest that speakers use different planning strategies depending on the situation. In simple situations, speakers tend to form a complex thought structure before speaking, while in more complex situations, they focus on one aspect and plan the rest later (Kamide et al., 2003).
+2. **Temporal coordination**: The same research found that speakers' eye movements can reveal how they plan their utterances. In languages where the verb comes at the beginning of the sentence, speakers tend to determine the action before focusing on the agent (Kamide et al., 2003).
+3. **Language influence on thinking**: Linguistics and psycholinguistics investigate how language structures influence our thinking. Research suggests that speakers' choices of planning units and linguistic structures can affect their thinking and communication (Levelt, 1989).
+4. **Brain regions involved**: Neuroimaging studies have identified the brain regions involved in language processing, including the left inferior frontal gyrus (Broca's area) and the left posterior middle temporal gyrus (Wernicke's area). These regions are active during both language production and comprehension (Indurkhya, 2014).
+
+**Practical Applications**
+
+1. **Pause and reflect**: Take a brief pause (e.g., count to three) before responding to allow yourself to think before speaking. This can help prevent misunderstandings and reduce the likelihood of regrettable statements (Fisher, 2020).
+2. **Active listening**: Practice active listening by focusing on the speaker, maintaining eye contact, and summarizing what they say. This can help prevent miscommunications and promote more effective conversations (Sabla, 2020).
+3. **Mindfulness**: Cultivate mindfulness by being more aware of your thoughts and feelings before speaking. This can help you recognize and manage your emotions, leading to more thoughtful and considerate communication (Weiss, 2020).
+4. **Language awareness**: Develop an awareness of language structures and how they influence your thinking. This can help you choose words and phrases more carefully, leading to more effective and respectful communication.
+
+**Conclusion**
+
+Thinking before you speak is a crucial aspect of effective communication. By understanding the cognitive processes involved and applying practical strategies, you can improve your ability to think before speaking. This can lead to more meaningful conversations, stronger relationships, and a reduced likelihood of regrettable statements.
+
+References:
+
+Fisher, W. (2020). How to (Really) Think Before You Speak. Headspace.
+
+Indurkhya, B. (2014). Language and Cognition. Routledge.
+
+Kamide, N., van der Meer, E., & Schriefers, H. (2003). The role of the listener's perspective in sentence production. Journal of Memory and Language, 49(2), 221-244.
+
+Levelt, W. J. M. (1989). Speaking: From intention to articulation. MIT Press.
+
+Sabla, P. (2020). How to Listen and Be Heard. Headspace.
+
+Weiss, L. (2020). The Power of Listening. Stanford Graduate School of Business.
+
+### Chinese people are more quieter than americans
+
+In summary, the combination of cultural values, social etiquette, education system, historical and societal factors, and individual differences all contribute to the perception that Chinese people are generally quieter than Americans. However, it's crucial to recognize that these are general trends and not universal truths.
+
+**Cultural Values**: In China, there is a saying, "the more you talk, the more mistakes you make." This emphasizes the importance of humility and avoiding unnecessary conversation. In contrast, Western cultures, including the United States, often value assertiveness and outspokenness. This cultural difference contributes to the perception that Chinese people are quieter.
+
+**Social Etiquette**: In China, maintaining harmony and avoiding conflict is crucial. This leads to a tendency to avoid speaking up or expressing opinions loudly, as it may be perceived as confrontational. In contrast, American culture tends to prioritize individuality and self-expression, which can result in more vocal and assertive interactions.
+
+**Education System**: In China, the education system emphasizes rote learning and respect for authority. This can lead to a focus on listening and observing rather than actively participating in class discussions. In contrast, American schools often encourage student participation and debate, which can foster a more vocal and expressive environment.
+
+**Historical and Societal Factors**: China's collectivist society, where group harmony is valued over individual expression, may also contribute to the quieter nature of Chinese people. Additionally, the country's recent rapid modernization and economic growth have brought about significant social and cultural changes, which may have influenced communication styles.
+
+**Individual Differences**: It's essential to note that these are general trends and not all Chinese people are quiet, just as not all Americans are loud. There is always a range of personalities and communication styles within any population.
+
+**Comparison in Different Contexts**: The search results also highlight that quietness can have different implications in different contexts. For example, in Asian-dominant preschools, quiet children may have fewer school problems and be more engaged in learning, whereas in American schools, quiet children may struggle more.
+

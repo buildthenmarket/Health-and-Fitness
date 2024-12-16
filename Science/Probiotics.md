@@ -1,1 +1,3 @@
-![Probiotics](probiotics.png)
+# Probiotics
+
+![Probiotics](static/probiotics.png)

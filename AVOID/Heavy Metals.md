@@ -50,3 +50,5 @@ To minimize exposure to heavy metals from SPI, consider the following:
 - Consider consulting with a healthcare professional or registered dietitian for personalized guidance on protein powder selection.
 
 Remember that individual tolerance to heavy metals can vary, and it's essential to prioritize your overall health and well-being by making informed choices about your diet and supplement use.
+
+## thimerisal

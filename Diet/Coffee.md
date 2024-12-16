@@ -17,3 +17,29 @@ Key points include:
 5. **Conclusion**: Paying attention to the bubbles during brewing can provide insights into the coffee's freshness and brewing quality, allowing for adjustments to achieve the best flavor.
 
 Overall, the article emphasizes that the initial moments of brewing are crucial for achieving an optimal cup of coffee.
+
+## Coffee Freshness
+
+Here are some ideas to improve homemade coffee freshness:
+
+**1. Buy smaller bags**: Purchasing smaller bags of coffee beans ensures you use them within a shorter period, reducing the likelihood of staleness.
+
+**2. Use whole beans**: Grinding your own whole beans just before brewing preserves the coffee's natural oils and flavors, resulting in a fresher taste.
+
+**3. Store coffee beans properly**: Keep beans in airtight containers, such as ceramic or glass jars with tight-fitting lids, to prevent exposure to air, light, and moisture.
+
+**4. Store in a cool, dark place**: Avoid storing coffee beans near heat sources, ovens, or direct sunlight, as these can cause degradation and staleness.
+
+**5. Freeze for longer storage**: If you can't use up your coffee beans quickly, consider freezing them in airtight containers or freezer bags to preserve freshness for up to 6-12 months.
+
+**6. Use a grinder with a built-in scale**: Grinders with scales allow you to grind exactly the amount you need, reducing waste and preserving freshness.
+
+**7. Grind immediately before brewing**: Grinding just before brewing ensures the coffee is as fresh as possible, as grinding exposes the beans to oxygen and light, which can cause staleness.
+
+**8. Consider a coffee bean subscription**: Many coffee roasters offer subscription services, which ensure a regular supply of fresh beans and can help you avoid stale coffee.
+
+**9. Use a coffee canister with a one-way valve**: These canisters allow carbon dioxide to escape while keeping oxygen out, preserving the coffee's natural flavors and aromas.
+
+**10. Monitor the "Roasted on" date**: Check the roast date on your coffee beans and aim to use them within 2-4 weeks for filter brews and 1-6 weeks for espresso, depending on the roast level and type.
+
+By implementing these ideas, you can significantly improve the freshness and flavor of your homemade coffee.
