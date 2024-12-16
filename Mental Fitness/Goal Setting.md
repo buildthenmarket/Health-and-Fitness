@@ -1,5 +1,7 @@
 # Goal Setting
 
+![don't chase](static/Instead Chase.jpeg)
+
 ## Strategies for Success
 
 1. **Make the Time**: track how much time you devote to each new healthy habit
