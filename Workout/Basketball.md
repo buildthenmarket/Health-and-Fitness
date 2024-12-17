@@ -1,11 +1,16 @@
 # HOOP
 
-## Precision beats power, timing beats speed
-
 ## Shot
+
+- Precision beats power, timing beats speed
 
 ![shot arc](<static/Shot Arc.png>)
 
+## Handles / Dribbling
+
+- [IG](https://www.instagram.com/reel/C2qkcrPv74a/)
+- [IG](https://www.instagram.com/reel/C74Z_tkpZKj/)
+- [IG](https://www.instagram.com/reel/C8GN85LPmGK/)
 - inside leg w/ crossover [facebook reel](https://www.facebook.com/share/r/EFg7xsrMokG6zTxw/)
 
 ## screen / pick

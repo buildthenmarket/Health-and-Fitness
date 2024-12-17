@@ -60,3 +60,5 @@ Butterfly sit-ups remove your hips from the equation, fully loading your ab musc
 ## Farmer's Walk
 
 [![Farmer's Walk](https://img.youtube.com/vi/ZH9dZEiLiqA/0.jpg)](https://www.youtube.com/watch?v=ZH9dZEiLiqA)
+
+[Incline Variations](https://www.instagram.com/reel/C7J8kO8ule6/)

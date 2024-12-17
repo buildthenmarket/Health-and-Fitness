@@ -12,3 +12,5 @@
 4. Curtsy lunge
 
 ## Quads
+
+[![youtube.com/shorts](https://img.youtube.com/vi/CT13o7qlN2w/0.jpg)](https://www.youtube.com/watch?v=shorts/CT13o7qlN2w)

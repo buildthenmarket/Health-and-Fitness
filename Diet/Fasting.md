@@ -14,6 +14,24 @@ Controlled setting
 
 ![Types of Fasting](static/fasting-4.png)
 
+## Distilled water fast
+
+For water fasting, both distilled and purified water can be used, but they have some differences. **Distilled water** is water that has undergone a distillation process to remove impurities and contaminants. **Purified water**, on the other hand, is water that has been treated to remove chemicals, minerals, and microbes, but may not necessarily undergo distillation.
+
+For water fasting, distilled water is often recommended due to its extremely low total dissolved solids (TDS) content, typically less than 10 parts per million (ppm). This is because distilled water has been stripped of all minerals and electrolytes, which can be beneficial during a fast as it allows the body to focus on detoxification and cellular cleansing.
+
+In contrast, purified water may still contain some minerals and electrolytes, albeit in small amounts, which could potentially interfere with the body's natural detoxification processes during a fast.
+
+However, it's essential to note that some experts recommend drinking water with electrolytes and minerals during a fast, as the body may lose these essential nutrients during the fasting period. In this case, purified water with added electrolytes or minerals might be a better option.
+
+Ultimately, the choice between distilled and purified water for water fasting depends on individual preferences and goals. If you prioritize a complete removal of impurities and minerals, distilled water might be the better choice. If you prefer water with some minerals and electrolytes, purified water could be a better option.
+
+**Key Takeaways:**
+
+* Distilled water is often recommended for water fasting due to its extremely low TDS content.
+* Purified water may still contain some minerals and electrolytes, which could potentially interfere with the body's natural detoxification processes during a fast.
+* Some experts recommend drinking water with electrolytes and minerals during a fast, making purified water with added electrolytes or minerals a viable option.
+
 ![Fasting Cheat Sheet](static/fasting-3.png)
 
 ## AVOID SOS

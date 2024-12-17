@@ -1,5 +1,10 @@
 # Positive affirmations
 
+## Quotes
+
+- Health is wealth. You don’t want to be the richest man in the graveyard
+- Never get too hungry lonely angry or tired
+
 ![It is what it is](<static/It is what it is.png>)
 
 - you can't get too high, you can't get too low

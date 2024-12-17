@@ -1,5 +1,13 @@
 # Arms
 
+## Bicep
+
+- Brachialis
+- short head
+- long head
+
+[IG](https://www.instagram.com/reel/C9k4M6LN_0G/)
+
 ## Triceps
 
 ### Overhead triceps extension
