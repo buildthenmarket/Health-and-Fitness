@@ -6,13 +6,11 @@
 
 Confusion arises from the interaction between an individual's cognitive biases, emotional states, and social context. In complex social situations, people may experience confusion due to:
 
-1. **Uncertainty about social standing**: When individuals are unsure about their position within a social hierarchy, they may feel anxious and uncertain, leading to confusion.
+1. **Uncertainty**
 2. **Coalitional psychology**: The tendency to categorize others as allies or competitors can lead to confusion, especially in situations where group memberships or alliances are ambiguous.
 3. **Error management theory**: When individuals are faced with uncertain information, they may employ error management strategies to minimize the risk of making costly mistakes. This can lead to confusion and increased scrutiny of others' behaviors.
 
 **Irrationality**
-
-Irrational thinking and behavior can be understood through various psychological mechanisms:
 
 1. **Cognitive biases**: Distortions in perception, attention, and memory can lead to irrational thoughts and decisions.
 2. **Emotional influences**: Strong emotions, such as anxiety or fear, can override rational thinking and lead to irrational behavior.
