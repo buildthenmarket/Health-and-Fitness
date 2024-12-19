@@ -1,4 +1,13 @@
-# average lifespan of clothing
+# Laundry
+
+## Problem: Washing Machine has some water in the drum
+
+- happens when the load is overfilled.
+- need to leave 1-2 inch gap from the top, this is MAXIMUM capacity
+
+### Solution: run the rinse / spin cycle in order to run the drain
+
+## average lifespan of clothing
 
 ![laundry science](static/Laundering%20Clothes.png)
 
