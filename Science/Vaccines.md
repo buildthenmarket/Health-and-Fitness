@@ -8,14 +8,32 @@
 
 ## types of vaccines
 
-* Live, attenuated vaccines fight viruses and bacteria. These vaccines contain a version of the living virus or bacteria that has been weakened so that it does not cause serious disease in people with healthy immune systems. Because live, attenuated vaccines are the closest thing to a natural infection, they are good teachers for the immune system. Examples of live, attenuated vaccines include measles, mumps, and rubella vaccine (MMR) and varicella (chickenpox) vaccine. Even though they are very effective, not everyone can receive these vaccines. Children with weakened immune systems—for example, those who are undergoing chemotherapy—cannot get live vaccines.
-* Non-live vaccines also fight viruses and bacteria. These vaccines are made by inactivating, or killing, the germ during the process of making the vaccine. The inactivated polio vaccine is an example of this type of vaccine. Often, multiple doses are necessary to build up and/or maintain immunity.
-* Toxoid vaccines prevent diseases caused by bacteria that produce toxins (poisons) in the body. In the process of making these vaccines, the toxins are weakened so they cannot cause illness. Weakened toxins are called toxoids. When the immune system receives a vaccine containing a toxoid, it learns how to fight off the natural toxin. The DTaP vaccine contains diphtheria and tetanus toxoids.
-* Subunit vaccines include only parts of the virus or bacteria, or subunits, instead of the entire germ. Because these vaccines contain only the essential antigens and not all the other molecules that make up the germ, side effects are less common. The pertussis (whooping cough) component of the DTaP vaccine is an example of a subunit vaccine.
-* Conjugate vaccines fight a type of bacteria that has antigens. These bacteria have antigens with an outer coating of sugar-like substances called polysaccharides. This type of coating disguises the antigen, making it hard for a young child’s immature immune system to recognize it and respond to it. Conjugate vaccines are effective for these types of bacteria because they connect (or conjugate) the polysaccharides to antigens that the immune system responds to very well. This linkage helps the immature immune system react to the coating and develop an immune response. An example of this type of vaccine would be the Haemophilus influenzae type B (Hib) vaccine and the mRNA COVID-19 vaccine.
+### Live, attenuated vaccines
+
+fight viruses and bacteria. These vaccines contain a version of the living virus or bacteria that has been weakened so that it does not cause serious disease in people with healthy immune systems. Because live, attenuated vaccines are the closest thing to a natural infection, they are good teachers for the immune system. Examples of live, attenuated vaccines include measles, mumps, and rubella vaccine (MMR) and varicella (chickenpox) vaccine. Even though they are very effective, not everyone can receive these vaccines. Children with weakened immune systems—for example, those who are undergoing chemotherapy—cannot get live vaccines.
+
+### Non-live vaccines
+
+also fight viruses and bacteria. These vaccines are made by inactivating, or killing, the germ during the process of making the vaccine. The inactivated polio vaccine is an example of this type of vaccine. Often, multiple doses are necessary to build up and/or maintain immunity.
+
+### Toxoid vaccines
+
+prevent diseases caused by bacteria that produce toxins (poisons) in the body. In the process of making these vaccines, the toxins are weakened so they cannot cause illness. Weakened toxins are called toxoids. When the immune system receives a vaccine containing a toxoid, it learns how to fight off the natural toxin. The DTaP vaccine contains diphtheria and tetanus toxoids.
+
+### Subunit vaccines
+
+ include only parts of the virus or bacteria, or subunits, instead of the entire germ. Because these vaccines contain only the essential antigens and not all the other molecules that make up the germ, side effects are less common. The pertussis (whooping cough) component of the DTaP vaccine is an example of a subunit vaccine.
+
+### Conjugate vaccines
+
+fight a type of bacteria that has antigens. These bacteria have antigens with an outer coating of sugar-like substances called polysaccharides. This type of coating disguises the antigen, making it hard for a young child’s immature immune system to recognize it and respond to it. Conjugate vaccines are effective for these types of bacteria because they connect (or conjugate) the polysaccharides to antigens that the immune system responds to very well. This linkage helps the immature immune system react to the coating and develop an immune response. An example of this type of vaccine would be the Haemophilus influenzae type B (Hib) vaccine and the mRNA COVID-19 vaccine.
 
 ![schedule](image-2.png)
 
 ### Antigen presentation
 
 immune system provides cues in the forms of chemical signals (cytokines) or degraded products of infectious organisms (antigens) to activate the adaptive immune system, using a process known as “antigen presentation”. Without these cues, the adaptive immune system cannot be activated.
+
+## Terms
+
+The term inoculation is often used as a synonym for vaccination or immunization.
