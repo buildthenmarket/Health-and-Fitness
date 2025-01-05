@@ -4,7 +4,7 @@
 
 - It's home to about 3.3 million genes, as compared to the approximately 20,000 to 25,000 human genes.
 - It's composed of bacteria, archaeabacteria (which are similar to bacteria), viruses, and yeast-like single-cell eukaryotes. These microorganisms are colonized in the Gastrointestinal (GI) tract
-- You can find 400 to 1,500 different species in a healthy digestive tract.
+- You can find 400 to 1,500 different species in a healthy digestive tract. [over 2000 species, including protozoa, fungi, bacteria and viruses](https://pubmed.ncbi.nlm.nih.gov/30158926/)
 - There are around 35,000 microbial species across all of mankind.
 - 99% of your gut microbes are from 30 to 40 species.
 - Diversity is the number one defining feature of a healthy microbiome.
@@ -18,6 +18,7 @@
 
 - Without our gut microbiota we wouldn’t be able to digest and metabolize fiber, starches and sugars (carbohydrates), protein or fat.
 - Our bodies only have 17 so-called carbohydrate-active enzymes (CAZymes). The remaining 10,000+ come from the bacteria in our gut, such as Bacteroides, and they’re important for digesting carbs. The main byproducts of that carb metabolism are short-chain fatty acids — including acetate, propionate and butyrate — that play vital roles in reducing inflammation, blood-sugar control, fat metabolism and more.
+- [Contributions of intestinal bacteria to nutrition and metabolism](https://pubmed.ncbi.nlm.nih.gov/21787967/)
 
 The gut microbiome refers to the diverse community of microorganisms that inhabit the gastrointestinal tract, particularly the stomach and intestines. These microorganisms, including bacteria, viruses, fungi, and other microbes, form a symbiotic relationship with the human host. The gut microbiome is considered to be a complex ecosystem that plays a crucial role in digestion, immunity, metabolism, and overall health.
 
