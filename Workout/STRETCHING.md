@@ -1,5 +1,9 @@
 # Stretching / Yoga
 
+![Stretching Methods](<static/stretching methods.png>)
+
+<https://www.slideshare.net/ShvetikaKaul/physiology-of-stretching>
+
 ## Middle Split Variations
 
 [IG](https://www.instagram.com/reel/C1JEetJP4q2/)

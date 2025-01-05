@@ -2,6 +2,34 @@
 
 ![gunas](<static/three gunas.png>)
 
+**Fruits:**
+
+- **Mango:** Sweet, juicy, and packed with vitamins.
+- **Papaya:** Rich in enzymes, vitamins, and minerals.
+- **Pineapple:** Sweet and tangy, contains bromelain.
+- **Coconut Water:** Refreshing and hydrating.
+- **Pomegranate:** High in antioxidants and vitamin C.
+- **Banana:** A good source of potassium and fiber.
+- **Guava:** Rich in vitamin C and antioxidants.
+- **Lychee:** Sweet and refreshing, low in calories.
+- **Jackfruit:** Versatile and can be used in sweet or savory dishes.
+
+**Vegetables:**
+
+- **Spinach:** Leafy green, high in iron and vitamins.
+- **Kale:** Another leafy green, rich in vitamins and minerals.
+- **Beet Greens:** Nutritious and often discarded, but delicious.
+- **Swiss Chard:** Versatile and can be used in many ways.
+- **Cucumber:** Hydrating and refreshing.
+- **Ginger:** A powerful anti-inflammatory.
+- **Turmeric:** A potent anti-inflammatory and antioxidant.
+- **Mint:** Refreshing and adds a unique flavor.
+- **Cilantro:** Aromatic and adds a fresh flavor.
+- **Fenugreek Leaves (Methi):** Slightly bitter, but packed with nutrients.
+- **Bottle Gourd (Lauki):** Mild flavor, high in water content.
+- **Bitter Gourd (Karela):** Strong flavor, but highly nutritious.
+- **Drumstick Leaves (Moringa):** Rich in vitamins and minerals.
+
 ![S R T](<static/Sattvic Rajasic Tamasic.png>)
 
 ![comparison](<static/compare S R T.png>)
@@ -11,7 +39,6 @@
 ## TAMASIC
 
 [Thermogenics](https://www.instagram.com/reel/C8ICAxLOgwg/)
-
 
 ### Healthy Alternatives
 

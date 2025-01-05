@@ -10,6 +10,7 @@ Two to three sets of 10-20 second hard holds
 
 - Side Plank Variations and Hip Taps
 - Copenhagen plank
+- [![body saw](https://img.youtube.com/vi/FGLRgxgG084/0.jpg)](https://www.youtube.com/watch?v=FGLRgxgG084)
 
 easy [![easy](https://img.youtube.com/vi/CYfcIXEA78s/0.jpg)](https://www.youtube.com/watch?v=shorts/CYfcIXEA78s)
 
@@ -42,3 +43,7 @@ easy [![easy](https://img.youtube.com/vi/CYfcIXEA78s/0.jpg)](https://www.youtube
 Filly loves hanging variations to train the core. (Not sure how to hang properly for proper tension? Check out our [Form Check guide](https://apple.news/Apg_OEUdJTfKloUl41g1mcg "‌") for some tips on the first part of this move.)
 
 Before you jump to the L-hang, Filly recommends starting with a tuck hang for 30 seconds, then adding weight between your legs. No pullup bar? No problem. Use some parallettes instead.
+
+## Hollow Body Hold
+
+[![7min video](https://img.youtube.com/vi/uZqTUwq96iU/0.jpg)](https://www.youtube.com/watch?v=uZqTUwq96iU)
