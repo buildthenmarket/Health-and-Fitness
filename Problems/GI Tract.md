@@ -1,0 +1,4 @@
+# GASTROINTESTINAL
+
+- Diarrhea
+- Constipation

@@ -12,6 +12,7 @@
 - [IG](https://www.instagram.com/reel/C74Z_tkpZKj/)
 - [IG](https://www.instagram.com/reel/C8GN85LPmGK/)
 - inside leg w/ crossover [facebook reel](https://www.facebook.com/share/r/EFg7xsrMokG6zTxw/)
+- [Push Cross Spin](https://www.instagram.com/reel/C5HupGngPYh/)
 
 ## screen / pick
 

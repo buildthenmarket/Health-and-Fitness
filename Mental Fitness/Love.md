@@ -1,5 +1,9 @@
 # Love / Dating / Marriage
 
+## Wife
+
+[![wife material lifting while pregnant](https://img.youtube.com/vi/NkicUHwkMWU/0.jpg)](https://www.youtube.com/watch?v=shorts/NkicUHwkMWU)
+
 ## Dating
 
 [youtube](https://m.youtube.com/@sadiapsychology)
