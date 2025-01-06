@@ -69,3 +69,21 @@
 3. **Rasayana** (rejuvenation): Ayurvedic rejuvenation therapies and practices can help promote overall health and eye health.
 
 **Important Note:** While Ayurvedic remedies can complement conventional treatment, it is essential to consult with an Ayurvedic practitioner or a qualified healthcare professional before making any significant changes to your diet or lifestyle. Additionally, if you experience any vision changes or discomfort, consult an eye care professional for proper evaluation and treatment.
+
+<https://www.sattvicrecipe.com/>
+
+- quinoa
+- Vegetable bowl with chickpeas and tahini sauce
+- Vegan Mushroom Bean Burger
+- Spinach
+- Mushroom Bok Choy Pho
+- Creamy Chargrilled Pepper and Mushroom Pasta
+- Couscous with Olives and Sun-Dried Tomato
+- Vegan Pancakes
+- Wild Mushroom Tartlets with Onion Sauce
+- Butternut Squash Risotto
+- Amuse Bouche: Avocado Bruschetta
+- Hors d’Œuvres: Butternut Squash Curry
+- Soup: Creamy Tomato Soup
+- Main Course: Mushroom Stroganoff
+- chickpeas

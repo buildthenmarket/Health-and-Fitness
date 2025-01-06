@@ -6,16 +6,6 @@
 
 ![water %age](static/body%20composition%20water.png)
 
-## Hard Water
-
-![hard water stain](static/water-6.png)
-
-![hard water stain](static/water-7.png)
-
-![PFAs](<static/water - forever chemicals.jpeg>)
-
-## Flouridated Water
-
 ## Purified vs Distilled
 
 ![purified water](<static/Purified Water Ingredients.png>)

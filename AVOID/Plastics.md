@@ -1,5 +1,7 @@
 # Microplastics and Nanoplastics
 
+[There are Microplastics in Your Testicles - Here's What You Can Do About it](https://youtu.be/ATGW8kvEUDo?si=cKuxdYJxuKsjqTRI)
+
 ## Car Tires
 
 - number 1 source of microplastic exposure is being near roads and inhaling microplastics from burning rubber
