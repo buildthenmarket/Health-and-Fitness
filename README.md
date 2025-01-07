@@ -8,8 +8,6 @@
 
 ![make time for health and wellness or make time for illness](<static/Lifestyle Change Meme.png>)
 
-![baby stesp](<static/iterative approach.jpeg>)
-
 ![5 Hobbies](<static/You need these five hobbies.png>)
 
 ## CHOICES not FATE
@@ -65,11 +63,7 @@ Behavioral health is a vital aspect of overall health and well-being. It emphasi
 
 <https://madmuscles.com/step-goal>
 
-![BMI](<static/Body Fat Ranges.png>)
-
 ![life expectancy](<static/Life Expectancy.png>)
-
-![Cortisol vs T](<static/Cortisol.png>)
 
 ## Links
 

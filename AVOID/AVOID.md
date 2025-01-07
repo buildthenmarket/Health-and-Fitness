@@ -44,6 +44,10 @@ Frozen foods can be convenient, but they often come with potential health risks.
 - **Flavor Enhancement**: To improve taste, many frozen foods contain added sugars and unhealthy fats, including trans fats, which are linked to heart disease.
 - **Caloric Density**: These added ingredients can make frozen foods calorie-dense without providing essential nutrients.
 
+## Coloring
+
+[carmine color, natural red 4, cochineal extract](https://www.facebook.com/reel/1206039707134669)
+
 ## Diet Soda
 
 - Phenylalanine is one of the breakdown products of aspartame, an artificial sweetener commonly used in diet sodas.

@@ -57,3 +57,13 @@ Based on the provided search results, here are the key findings:
 4. **Preservation of enzymes**: To preserve the enzymes and bio-benefits, it is recommended to consume manuka honey raw, without heating or prolonged exposure to high temperatures (Manuka Honey in Hot Water, Tea, Coffee. Heat-sensitive., 2019).
 
 In summary, the evidence suggests that putting manuka honey into hot coffee can ruin its probiotic enzyme benefits due to the destruction of the enzymes by high heat. To maintain the bio-benefits, it is recommended to consume manuka honey raw, at a temperature below 47°C (116°F).
+
+## Traveling to countries with bad sanitation
+
+When traveling, especially to places with different sanitation standards, it's important to maintain gut health and support digestion. Here are some over-the-counter (OTC) solutions that can help manage digestive issues caused by unfamiliar or potentially contaminated foods:
+
+* **Gut Enzymes**: These supplements help break down food more effectively, which can be particularly useful when eating unfamiliar foods. They can reduce bloating, gas, and other digestive discomforts. For instance, you might take them during meals to aid in the digestion of proteins, fats, and carbohydrates.
+
+* **Probiotics**: Probiotic supplements, such as Culturelle or Florastor, are beneficial for maintaining a healthy gut microbiome. They can help prevent digestive issues like traveler's diarrhea by supporting the balance of good bacteria in your gut. Probiotics are especially useful when you're exposed to new environments and different types of bacteria.
+
+Both gut enzymes and probiotics can be taken as part of a travel health kit to help manage digestive issues and maintain overall gut health while traveling.

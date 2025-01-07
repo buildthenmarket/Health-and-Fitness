@@ -14,6 +14,14 @@
 - inside leg w/ crossover [facebook reel](https://www.facebook.com/share/r/EFg7xsrMokG6zTxw/)
 - [Push Cross Spin](https://www.instagram.com/reel/C5HupGngPYh/)
 
+### Misdirection dribble move
+
+[IG](https://www.instagram.com/reel/C26K9SmNjKk/)
+
+### Gather Step
+
+[IG](https://www.instagram.com/reel/C4vYJWvs8mk/)
+
 ## screen / pick
 
 - wedge
@@ -28,10 +36,6 @@
 
 [sombor shuffle](https://youtu.be/qiwMKkSBBiY?si=nB9Nk_uJA-fYcD_A)
 
-## Misdirection dribble move
+## Zone D
 
-[IG](https://www.instagram.com/reel/C26K9SmNjKk/)
-
-## Gather Step
-
-[IG](https://www.instagram.com/reel/C4vYJWvs8mk/)
+![Zone D](<static/1-3-1 zone defense.jpg>)

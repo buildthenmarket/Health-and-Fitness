@@ -1,6 +1,6 @@
 # Hormones
 
-![happy hormones](image.png)
+![happy hormones](Science/static/Happy%20Hormones.png)
 
 ## Important Hormones for Men's Health
 
@@ -32,6 +32,10 @@ Testosterone levels in men can be influenced by various lifestyle factors and be
 8. Prescription Medications: Some prescription medications, such as opioids, corticosteroids, and certain antidepressants, may lower testosterone levels. If you're concerned about the impact of medications on testosterone, consult with a healthcare professional.
 
 It's important to note that while these lifestyle factors and behaviors can influence testosterone levels, they may not be the sole cause of low testosterone. If you suspect low testosterone levels, it's best to consult with a healthcare professional who can evaluate your specific situation and provide appropriate guidance and treatment options.
+
+### Cortisol vs T
+
+![Cortisol vs T](<static/Cortisol.png>)
 
 ### Foods to Avoid
 

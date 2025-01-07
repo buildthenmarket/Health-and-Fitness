@@ -1,5 +1,9 @@
 # Vax
 
+## Drug Discovery Process
+
+![Drug Discovery Process](static/Understanding-the-drug-discovery-process.webp)
+
 ![doses](<static/VACCINE%20DOSES%20for%20U.S.%20CHILDREN.jpg>)
 
 ![history](<static/A%20HISTORY%20OF%20VACCINES.jpg>)

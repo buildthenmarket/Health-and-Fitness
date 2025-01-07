@@ -15,6 +15,10 @@
 
 the estimated population of the United States for ages 20-74 is approximately 156 million.
 
+## Body Fat Percentage
+
+![BMI](<static/Body%20Fat%20Ranges.png>)
+
 | Weight Category | Percent | Estimated Population |
 | --- | --- | --- |
 | Obese | 42.4% | 66,142,400 |
