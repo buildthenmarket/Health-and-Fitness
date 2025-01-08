@@ -1,6 +1,6 @@
 # Autophagy
 
-![timeline](image-3.png)
+![timeline](static/image-3.png)
 
 ## 72hrs of fasting
 
@@ -34,7 +34,7 @@ In contrast to zombie cells, cancer cells are highly proliferative and invasive,
 
 ### Shared Property
 
-* Both zombie cells and cancer cells can reprogram their microenvironment, influencing the behavior of surrounding cells. However, cancer cells can do so more effectively, converting healthy cells into malignant ones through secreted biomolecules like exosomes and apoptotic bodies.
+- Both zombie cells and cancer cells can reprogram their microenvironment, influencing the behavior of surrounding cells. However, cancer cells can do so more effectively, converting healthy cells into malignant ones through secreted biomolecules like exosomes and apoptotic bodies.
 
 In summary, zombie cells are damaged cells that fail to die, while cancer cells are abnormal cells that grow uncontrollably and invade surrounding tissues. While both types of cells exhibit abnormal behavior, cancer cells are more aggressive and harmful to the body.
 

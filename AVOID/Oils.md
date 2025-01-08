@@ -10,10 +10,10 @@
 - Endocrine Disruptors
 - GMO soy
 
-![Seed Oils](<static/Seed Oils.jpg>)
+![Seed Oils](<static/Seed%20Oils.jpg>)
 
-![soybean oil](image-1.png)
+![soybean oil](static/image-1.png)
 
-### CANOLA OIL
+## CANOLA OIL
 
 There's not a canola plant, but you can still find this all-purpose cooking oil in many a pantry. It comes from the rapeseed plant, but that's a loaded name to try to sell. Canadian scientists made the rapeseed oil better suited for cooking, and now you can purchase "Canada Oil, Low Acid."

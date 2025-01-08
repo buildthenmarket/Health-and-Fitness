@@ -32,6 +32,19 @@
 
 ![S R T](<static/Sattvic Rajasic Tamasic.png>)
 
+## Avoid Root Vegetables
+
+there are numerous health benefits of both onion and garlic,  In Ayurveda, onion and garlic are more like medicine than food items.
+
+root vegetables
+alliaceous vegetables - onion plant group
+
+### Avoidance of Root Vegetables and Alliaceous Plants
+
+1. **Root Vegetables**: Root vegetables like potatoes, yams, and beets are generally not considered sattvic because they are believed to be heavy and grounding, which can disrupt the body's balance. However, this is a matter of interpretation and not all Ayurvedic practitioners agree on this point. Some may include root vegetables in moderation as part of a balanced diet.
+
+2. **Alliaceous Plants**: Alliaceous plants, which include onions and garlic, are often avoided in sattvic diets because they are considered rajasic or tamasic, meaning they can cause agitation and dullness. These plants are believed to have strong heating properties and can disrupt the body's natural balance, leading to digestive issues and other health problems.
+
 ![comparison](<static/compare S R T.png>)
 
 ![Plants over Meats](<static/Plants over Meats.png>)
