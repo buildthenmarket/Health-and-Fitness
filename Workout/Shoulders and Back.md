@@ -10,16 +10,25 @@
 
 ## Shoulders
 
+### Arnold Press
+
+- [![Arnold Press](https://img.youtube.com/vi/Y5wWKbmzOUc/0.jpg)](https://www.youtube.com/watch?v=Y5wWKbmzOUc)
+
 1. cable diagonal raise
-1. bent arm lateral raise
-1. dumbbell front raise
 1. ropes
 1. barbell upright row
 1. push-up
 1. dips
-1. seated rear lateral raise
 1. [![Half kneeling landmine press](https://img.youtube.com/vi/fx6lSVNvu-4/0.jpg)](https://www.youtube.com/watch?v=fx6lSVNvu-4)
 1. [![Barbell Romanian Deadlift (RDL) ](https://img.youtube.com/vi/d-hn_0sEpRQ/0.jpg)](https://www.youtube.com/watch?v=shorts/d-hn_0sEpRQ)
+
+### Dumbbell Lateral Raise
+
+[![Dumbbell Lateral Raise](https://img.youtube.com/vi/xyK8UiC-BUw/0.jpg)](https://www.youtube.com/watch?v=shorts/xyK8UiC-BUw)
+
+1. bent arm lateral raise
+1. dumbbell front raise
+1. seated rear lateral raise
 
 ## rhomboids
 
