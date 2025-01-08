@@ -1,5 +1,12 @@
 # Mental Fitness Concepts for Aging
 
+## Longevity
+
+- cardiorespiratory fitness > VO2 Max
+- Strength
+
+[![VO2 max](https://img.youtube.com/vi/8PDKtaigIOw/0.jpg)](https://www.youtube.com/watch?v=shorts/8PDKtaigIOw)
+
 Based on the provided search results, here are some mental fitness concepts to counteract aging:
 
 1. **Regular Exercise**: Engage in at least 30 minutes of moderate exercise daily, such as brisk walking, to boost oxygen supply to the brain and improve cognitive functions like memory, reasoning, and reaction times.
@@ -15,6 +22,6 @@ Based on the provided search results, here are some mental fitness concepts to c
 
 Additionally, the following concepts were mentioned in the search results:
 
-* **Busyness**: Engage in activities that promote a sense of purpose and fulfillment, rather than simply being busy, to potentially improve cognitive function.
-* **Occupational Engagement**: Remain engaged in meaningful work or activities, even in retirement, to promote cognitive preservation.
-* **Cognitive Demands**: Challenge yourself with mentally demanding tasks, such as problem-solving or learning new skills, to build cognitive reserve.
+- **Busyness**: Engage in activities that promote a sense of purpose and fulfillment, rather than simply being busy, to potentially improve cognitive function.
+- **Occupational Engagement**: Remain engaged in meaningful work or activities, even in retirement, to promote cognitive preservation.
+- **Cognitive Demands**: Challenge yourself with mentally demanding tasks, such as problem-solving or learning new skills, to build cognitive reserve.

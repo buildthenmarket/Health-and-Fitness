@@ -1,5 +1,9 @@
 # Blood
 
+## Hematology
+
+Hematology is the branch of medicine focused on the study, diagnosis, treatment, and prevention of diseases related to blood and its components, including blood cells, hemoglobin, blood proteins, bone marrow, platelets, blood vessels, spleen, and the mechanism of coagulation. Hematologists treat a variety of conditions such as anemia, leukemia, lymphoma, and bleeding disorders. They often work in conjunction with hematopathologists, who specialize in diagnosing blood disorders through laboratory analysis. Hematologists may also specialize in treating specific conditions like sickle cell disease, bleeding disorders, and hematological malignancies.
+
 ## steady-state cardio
 
 ![composition of blood](<static/visualizing-the-composition-of-blood.png>)

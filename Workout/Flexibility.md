@@ -1,5 +1,10 @@
 # Flexibility
 
+## Hip
+
+- [hip mobility](https://www.instagram.com/reel/C3aW7nStz8h/)
+- [hip mobility](https://www.instagram.com/reel/C3bhv3NRM8R/)
+
 proper preparation prevents poor performance
 
 ## Stretching
@@ -57,3 +62,7 @@ Ligaments and tendons are both crucial components of the musculoskeletal system,
 - **Tendons**: Key for movement and performance; can be stretched and strengthened through exercise.
 
 Understanding the differences between ligaments and tendons can help athletes and fitness enthusiasts tailor their training programs to prioritize joint stability and tendon strength, ultimately enhancing performance and reducing injury risk.
+
+## Vestibular System
+
+The vestibular system is a complex sensory system located in the inner ear that helps maintain balance, coordinate body posture, and keep the eyes aligned with the head's position or movement. It consists of five distinct end organs: three semicircular canals that detect angular accelerations (head rotations) and two otolith organs that sense linear acceleration and head position relative to gravity. These components work together to provide the brain with information about motion, head position, and spatial orientation, enabling rapid compensatory movements in response to both self-induced and externally generated forces.

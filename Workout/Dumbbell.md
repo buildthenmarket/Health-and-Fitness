@@ -1,5 +1,10 @@
 # Dumbbell
 
+## full body workouts
+
+- [HIIT](https://www.instagram.com/reel/C5Lg21YLpXW/)
+- [3 moves](https://www.instagram.com/reel/C5je2ZgSWeb/)
+
 ## Squats
 
 [![Dumbbell Squat Clean & Press](https://img.youtube.com/vi/bO0k19mG3sA/0.jpg)](https://www.youtube.com/watch?v=bO0k19mG3sA)

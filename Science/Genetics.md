@@ -1,5 +1,19 @@
 # Genetics
 
+## Genome Sizes
+
+![Genome sizes in animal groups](<static/A Kaleidoscope of Genomes.png>)
+
+![Genome Sizes in Select Animals](<static/Genome Sizes in Select Animals.png>)
+
+### Salamanders genome
+
+its cells are up to 300 times larger than those of a lizard, bird or mammal. You can see, with a simple magnifying glass, individual blood cells zipping through the capillaries in its transparent gills.
+
+Each of its cells is bloated with 38 times more DNA than a human cell.
+
+Neuse River waterdog
+
 ## The uncertainty in the number of human genes
 
 the range of 20,000 to 25,000 human genes reflects both our current best estimate based on available data and an acknowledgment of the inherent uncertainties in counting something as dynamic and multifaceted as the human genome.
