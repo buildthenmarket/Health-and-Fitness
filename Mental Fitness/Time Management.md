@@ -30,6 +30,22 @@ Eisenhower Matrix
 
 ![Time Blocking](<static/Time Blocking.png>)
 
+## Time Blocking
+
+working with full focus for 52 minutes followed by a 17-minute break
+
+## 2 min rule
+
+if a task arises that can be done in two minutes or less, it should be done immediately
+
+## Time Boxing
+
+Timeboxing is a time management method where you allocate a fixed period, or ‘box’, to complete a specific task or set of tasks before moving on. This technique contrasts with the Pomodoro Technique, which involves working in set intervals (typically 25 minutes) followed by a short break, regardless of the task type or its completion status. Timeboxing allows for more flexibility as the length of each time box can be adjusted based on the task’s complexity and priority, rather than adhering to a uniform interval.
+
+## Ultradian Rhythms
+
+Ultradian Rhythms are recurrent periods or cycles repeated throughout a 24-hour day, influencing various biological processes, including sleep, arousal, and physical performance. In the context of productivity, the most relevant ultradian rhythm is the 90-minute cycle that affects our levels of focus and energy. Research indicates that during each cycle, individuals experience a peak when they are most alert and a trough when they are less energetic. Harnessing these natural fluctuations can significantly enhance work efficiency and mental acuity.
+
 ## Ultra Time Mgmt
 
 ![Ultra Time Mgmt](<static/Ultra Time Mgmt.png>)

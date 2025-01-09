@@ -1,5 +1,7 @@
 # Microplastics and Nanoplastics
 
+## plastic contaminants in body
+
 [There are Microplastics in Your Testicles - Here's What You Can Do About it](https://youtu.be/ATGW8kvEUDo?si=cKuxdYJxuKsjqTRI)
 
 ## Car Tires
@@ -12,3 +14,9 @@
 - Phthalates: These chemicals are used to make plastics more flexible and durable. They can be found in everything from cosmetic products to food, flooring and bottled water. Phthalates are known as “endocrine disruptors” because they interfere with the endocrine system, which regulates hormones. The chemicals have been linked to reproductive health issues, low IQ in children and metabolic changes.
 - PFAS: Best known as forever chemicals, per- and polyfluoroalkyl substances are synthetics used to treat products including carpets and nonstick pans to make them heat-resistant. It can take hundreds or thousands of years for PFAS to break down in the environment and up to a decade for them to leave the human body. And while they’re already in our bodies, high levels of PFAS may contribute to higher cholesterol levels, liver enzyme changes, preeclampsia during pregnancy, low birth weights and greater testicular and kidney cancer risks. They may also contribute to obesity and metabolic issues.
 - BPA: Bisphenol A, or BPA, is a chemical used to make food packaging stronger and less vulnerable to corrosion or breaking down. But like phthalates, it disrupts hormones and has been linked to higher risks of infertility, PCOS, diabetes, cardiovascular disease and breast and prostate cancer. However, the Food and Drug Administration considers BPA levels in food packaging safe, and stated after a four-year review that safety standards don’t need to be changed.
+
+## plastic grinders
+
+Plastic grinders tend to break and leave shavings of themselves in the buds you grind.
+
+This means you might smoke tiny plastic shavings with your herb, whether they burn in the process or just inhale the tiny microplastics. So either way, you are getting harmful chemicals in your bloodstream, which is highly not recommended.

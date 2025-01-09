@@ -1,5 +1,7 @@
 # HOOP
 
+[strength training for bball](https://youtu.be/ZFkdXiM57Vg?si=BAhC6pxQsZt3Vr-Y)
+
 ## Shot
 
 - Precision beats power, timing beats speed
@@ -13,6 +15,10 @@
 - [IG](https://www.instagram.com/reel/C8GN85LPmGK/)
 - inside leg w/ crossover [facebook reel](https://www.facebook.com/share/r/EFg7xsrMokG6zTxw/)
 - [Push Cross Spin](https://www.instagram.com/reel/C5HupGngPYh/)
+
+### attack top foot / back foot
+
+[YT Video](https://youtu.be/lEaIPPTLPP0?si=K2mPiW3apMRKecb4)
 
 ### Misdirection dribble move
 
