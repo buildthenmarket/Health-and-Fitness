@@ -244,9 +244,23 @@ Let me provide a comprehensive guide for improving dental health, including scie
 
 ### 3. Holistic Practices
 
+[IG](https://www.instagram.com/reel/DAfzop4vKva/)
+
 - Oil pulling with coconut oil (antimicrobial properties)
 - Salt water rinses for gum health
 - Xylitol-containing products to prevent bacterial growth
+• Oil of Oregano slows the growth of cavities & prevent further decay
+• Establish a Healthy pH Level with Xylitol
+• Drink Green Tea to Remineralize weak enamel
+
+🥥 COCONUT OIL :
+– Few x per week - up to 3x a day
+
+🤎 CLOVE OIL :
+– Mostly used when necessary for toothache, Can be added to a toothpaste for antibacterial toothpaste
+
+🖤 BLACK SEED OIL :
+– It can cure gum disease, toothache, tooth infection, also good for oil pulling, can be just eaten, 2,5ml (1/2 tsp) per day
 
 ## Daily Habits for Prevention
 
