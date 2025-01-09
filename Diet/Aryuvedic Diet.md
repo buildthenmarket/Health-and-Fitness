@@ -100,3 +100,15 @@ alliaceous vegetables - onion plant group
 - Soup: Creamy Tomato Soup
 - Main Course: Mushroom Stroganoff
 - chickpeas
+
+## Sattvic Vitamin D Foods
+
+The Sattvic diet, which is based on Ayurvedic principles, emphasizes whole, nutritious foods and excludes certain items like meat, poultry, fish, eggs, and some plant-based foods such as garlic and onions. While the diet is rich in nutrient-dense foods, it does not include many common sources of vitamin D.
+
+However, there are a few foods that are allowed in the Sattvic diet and can provide some vitamin D:
+
+* **Cow's milk**: Fortified cow's milk can be a good source of vitamin D. One cup of 2% milkfat fortified with vitamin D contains about 120 IU (International Units) of vitamin D, which is approximately 15% of the Daily Value (DV).
+* **Soy, almond, and oat milks**: These plant-based milks are often fortified with vitamin D. One cup typically contains 100-144 IU of vitamin D, which is about 13-18% of the DV.
+* **Fortified ready-to-eat cereals**: A serving of cereal fortified with 10% of the DV for vitamin D can provide about 80 IU of vitamin D, which is 10% of the DV.
+
+It's important to note that the primary sources of vitamin D are fatty fish, fish liver oils, beef liver, and egg yolks, which are not included in the Sattvic diet. Therefore, individuals following the Sattvic diet may need to consider vitamin D supplements or ensure they are getting enough sunlight to meet their vitamin D requirements.
