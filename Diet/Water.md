@@ -10,35 +10,6 @@
 
 ![purified water](<static/Purified Water Ingredients.png>)
 
-## Simple Recipes
+## Reverse Osmosis
 
-- Lemon & Cucumber
-- Blueberries, cucumber, & basil
-- Mint, kiwi, & grapefruit
-
-### Clearer Skin
-
-- cucumber
-- lemon
-- mint
-- water
-
-### Metabolism Booster
-
-- apples
-- cinnamon stick
-- water
-
-### Stomach Bloat
-
-- cucumber
-- lemon
-- mint
-- ginger
-- water
-
-### Weight Loss
-
-- cucumber
-- grapefruit
-- water
+Reverse osmosis is a water purification process that uses a semipermeable membrane to remove impurities from water. The process involves pushing water through a membrane that filters out contaminants like lead, asbestos, and other dissolved solids, providing highly purified water. For rental apartments, countertop reverse osmosis systems are a practical option as they do not require installation and can be easily plugged into a faucet. These systems are compact and efficient, producing purified water without the need to modify the apartment's plumbing. Additionally, portable reverse osmosis systems like the Zip can be used, offering a plug-and-play solution that adds minerals back into the water to balance pH levels.
