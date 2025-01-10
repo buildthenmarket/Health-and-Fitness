@@ -130,3 +130,22 @@ Monoglycerides and diglycerides can be found in a variety of foods, including:
 It is important to note that the amount of monoglycerides and diglycerides in these foods varies.
 
 Overall, monoglycerides and diglycerides are safe and common food additives that play an important role in the food industry. They help to improve the texture, stability, and shelf life of many food products.
+
+## Starchy Foods
+
+Starchy foods are a significant part of many diets, providing essential carbohydrates that serve as a primary energy source for the body. These foods are rich in complex carbohydrates, which are made up of long chains of sugar molecules. They are classified into three main categories: fiber, sugar, and starch. Starchy foods are particularly important because they offer sustained energy and can be a good source of various nutrients, including fiber, calcium, iron, and B vitamins.
+
+Here are some examples of starchy foods and their nutritional profiles:
+
+* **Whole grains**: These include foods like brown rice, whole wheat pasta, and whole grain bread. They are high in carbohydrates and fiber, which can help regulate blood sugar levels and keep you feeling full longer.
+* **Legumes**: Beans, lentils, and peas are excellent sources of protein and fiber, making them a nutritious addition to any diet. They also contain resistant starch, which can benefit gut health.
+* **Vegetables**: Certain vegetables like potatoes, corn, and peas are starchy and provide a mix of carbohydrates, fiber, and essential vitamins and minerals.
+* **Refined grains**: Foods like white bread, white rice, and pastries are also high in starch but are often stripped of their fiber and nutrients during processing, making them less beneficial for health.
+* **Processed foods**: Items such as instant noodles, doughnuts, and French fries are high in starch but are typically low in nutrients and high in added fats and sugars, which can contribute to health issues like obesity and diabetes.
+* **Tapioca**: Derived from cassava, tapioca is a starchy food used as a thickening agent in various dishes. It is low in fat and protein but provides energy.
+* **Plantains**: These are a good source of fiber and essential vitamins and minerals, offering benefits for digestion, immune function, and eye health.
+* **Baked potatoes**: When eaten with the skin, they provide a good amount of fiber, potassium, and vitamin C, contributing to heart health and immune function.
+* **Rice Krispies**: While they are high in starch, they are also a popular cereal choice. One cup contains a significant amount of starch, but they can be part of a balanced diet when consumed in moderation.
+* **Navy beans**: These are a high-starch food that also offer a substantial amount of protein and fiber, making them a nutritious choice.
+
+Understanding the difference between healthy and less healthy starchy foods can help you make informed dietary choices that support overall health and well-being.
