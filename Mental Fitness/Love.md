@@ -1,5 +1,7 @@
 # Love / Dating / Marriage
 
+if you're not dating for marriage, you're dating for breakup
+
 ## Wife
 
 [![wife material lifting while pregnant](https://img.youtube.com/vi/NkicUHwkMWU/0.jpg)](https://www.youtube.com/watch?v=shorts/NkicUHwkMWU)
