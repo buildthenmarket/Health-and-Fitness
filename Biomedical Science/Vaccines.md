@@ -1,5 +1,9 @@
 # Vax
 
+![Virology](static/MSCI_Innovation-in-Virology_Main-Graphic.jpg)
+![Top Prescription Drugs](static/The-Most-Prescribed-Drugs-in-the-U.S.-Main.jpg)
+![Big Pharma](static/The-Worlds-50-Largest-Pharmaceutical-Companies-v3.jpg)
+
 ## Drug Discovery Process
 
 ![Drug Discovery Process](static/Understanding-the-drug-discovery-process.webp)
@@ -41,3 +45,5 @@ immune system provides cues in the forms of chemical signals (cytokines) or degr
 ## Terms
 
 The term inoculation is often used as a synonym for vaccination or immunization.
+
+![Vax Infographic](static/Comparing-How-COVID-19-Vaccines-and-Antiviral-Pills-Work_POSTER_VC_4_1200.png)

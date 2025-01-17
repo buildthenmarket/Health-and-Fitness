@@ -2,6 +2,8 @@
 
 ![Lies](static/Lies.jpeg)
 
+![Shelf Life Meme](<static/shelf life chemicals in food.jpg>)
+
 ![cheap is junk](<static/Food Affordability Meme.png>)
 
 ## highly palatable (HP) foods

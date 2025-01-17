@@ -1,5 +1,7 @@
 # Natural Ways to Increase Testosterone
 
+![Worlds Declining Fertility Rate](<static/Worlds Declining Fertility Rate.jpg>)
+
 ## 1. Optimize Diet:
 
 - **Protein**: Ensures muscle repair and hormonal balance.
