@@ -6,6 +6,15 @@
 
 ![Health Triangle](<static/The Health Triangle.png>)
 
+**Muscle building is hard,**- So you stay physically weak.
+**Entrepreneurship is hard.**- So you stay in a job you hate.
+**Reading books is hard.**- So you binge-watch Netflix.
+**Saving dollars is hard.**- So you are always broke.
+
+> ## Life is all about doing the hard.
+
+Once you get used to it, it becomes ADDICTING. Give a weak man CONSISTENT SEX, good food, CHEAP ENTERTAINMENT and he'll throw his AMBITIONS right out the window.
+
 ![make time for health and wellness or make time for illness](<static/Lifestyle Change Meme.png>)
 
 ![5 Hobbies](<static/You need these five hobbies.png>)

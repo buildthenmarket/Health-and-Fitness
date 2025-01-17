@@ -38,7 +38,12 @@ fight a type of bacteria that has antigens. These bacteria have antigens with an
 
 ![schedule](image-2.png)
 
-### Antigen presentation
+## Why does sarvico-virus / coronavirus keep mutating?
+
+- Genetic shift
+- Genetic drift
+
+## Antigen presentation
 
 immune system provides cues in the forms of chemical signals (cytokines) or degraded products of infectious organisms (antigens) to activate the adaptive immune system, using a process known as “antigen presentation”. Without these cues, the adaptive immune system cannot be activated.
 
@@ -47,3 +52,21 @@ immune system provides cues in the forms of chemical signals (cytokines) or degr
 The term inoculation is often used as a synonym for vaccination or immunization.
 
 ![Vax Infographic](static/Comparing-How-COVID-19-Vaccines-and-Antiviral-Pills-Work_POSTER_VC_4_1200.png)
+
+## SV40 in mRNA COVID Vaccine
+
+Recent studies and discussions have highlighted concerns about the presence of SV40 (Simian Virus 40) in mRNA COVID vaccines, such as those produced by Pfizer and BioNTech.
+
+- **SV40 Presence**: A peer-reviewed study published in the journal *Science, Public Health Policy and the Law* found SV40 DNA contaminants in mRNA vaccines. The study also noted that DNA in Pfizer’s COVID-19 vaccines exceeds regulatory limits by three to four times.
+
+- **DNA Contamination**: Researchers identified residual DNA in mRNA vaccines at levels far exceeding the maximal acceptable concentration of 10 ng per clinical dose. This DNA contamination includes SV40 promoter/enhancer sequences, which can potentially transport plasmid DNA into the cell nucleus.
+
+- **Health Concerns**: Some experts, like Karl Jablonowski, suggest that DNA contamination may contribute to autoimmune diseases due to the interferon response triggered by foreign DNA in the bloodstream. Additionally, cardiologist Dr. Peter McCullough has stated that mRNA vaccines have a dangerous mechanism of action, potentially leading to overproduction of spike proteins and cellular damage.
+
+- **Persistence and Shedding**: The study found that spike proteins produced by the vaccines persist in the body for at least seven days, contrary to earlier claims. These proteins can be shed and packaged into exosomes, which can travel throughout the body.
+
+- **Regulatory Response**: The Therapeutic Goods Administration (TGA) in Australia has been criticized for withholding information about DNA contamination risks from the public. Emails released under Freedom of Information show that TGA staff were aware of potential risks but focused on allaying public fears rather than investigating further.
+
+![questions](static/40-vaccine-questions.webp)
+
+- The story of Alexis Lorenze

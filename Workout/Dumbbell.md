@@ -11,6 +11,10 @@
 
 Keeping your chest tall and core tight, hold a pair of dumbbells and throw your hips back, then pop your hips forward and clean the weight up to your shoulders. Squat down until your hips are parallel to the floor, then drive through the heels and explode up. Use the momentum of the squat to press the weight up, then lower it back down to starting position before performing another rep.
 
+### Seated Squat Jump
+
+[increase vertical jump](https://www.instagram.com/reel/C_3ES8fyh0l/)
+
 ### Side Lunges
 
 aka Alternating Dumbbell Lateral Lunge & Curl
