@@ -1,5 +1,9 @@
 # Mental Fitness Concepts for Aging
 
+![life expectancy](<static/average life expectancy 2030.jpeg>)
+
+![Cancer & Lifespan](static/Cancer-Lifespan_10.png)
+
 ## Longevity
 
 - cardiorespiratory fitness > VO2 Max

@@ -276,10 +276,6 @@ the practice of growing a single crop species over a large area, has several sig
 - **Exploitation of Workers:** Toxic farming practices often extend to labor conditions, where workers may be exposed to harmful chemicals without adequate protection.
 - **Health Risks:** Workers in these environments face serious health risks, which can indirectly affect the safety of the produce.
 
-## PFAs
-
-![PFAs](static/PFAs.jpg)
-
 ## Laundry
 
 Guppyfriend washing bag: These specialized bags capture microplastics during washing, preventing them from entering the wastewater system. You can find these online or at eco-friendly stores.
