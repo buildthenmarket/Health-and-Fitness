@@ -1,5 +1,7 @@
 # Fitness, Diet, Health
 
+![education](<static/Social Media drowns vs books.jpg>)
+
 - a person needs just three things to be truly happy in this world: someone to love, something to do, and something to hope for.
 - food companies are deliberately adding dangerous chemicals to the food they sell in order to stimulate your hunger and disturb your natural appetite control.
 - western health over-emphasizes only germs and genes. metabolic health is ignored

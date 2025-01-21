@@ -1,5 +1,7 @@
 # GMOs
 
+![broccoli](<static/GMOs - Broccoli.jpeg>)
+
 Genetic modification is a special set of gene technology that alters the genetic machinery of such living organisms as animals, plants or microorganisms. Combining genes from different organisms is known as recombinant DNA technology and the resulting organism is said to be ‘Genetically modified (GM)’, ‘Genetically engineered’ or ‘Transgenic’. The principal transgenic crops grown commercially in field are herbicide and insecticide resistant soybeans, corn, cotton and canola. Other crops grown commercially and/or field-tested are sweet potato resistant to a virus that could destroy most of the African harvest, rice with increased iron and vitamins that may alleviate chronic malnutrition in Asian countries and a variety of plants that are able to survive weather extremes. There are bananas that produce human vaccines against infectious diseases such as hepatitis B, fish that mature more quickly, fruit and nut trees that yield years earlier and plants that produce new plastics with unique properties. Technologies for genetically modifying foods offer dramatic promise for meeting some areas of greatest challenge for the 21st century. Like all new technologies, they also pose some risks, both known and unknown.
 [pubmed](https://pmc.ncbi.nlm.nih.gov/articles/PMC3791249/)
 

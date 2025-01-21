@@ -1,5 +1,10 @@
 # Anger management
 
+## anger transference
+
+![alt text](<static/anger transference birdstrup.jpg>)
+![alt text](<static/anger transference.jpeg>)
+
 ## Anger Management Triggers Explained
 
 The science behind anger management and its triggers, such as hunger and annoyances, involves understanding how the body and brain respond to various stimuli. Here’s a breakdown of the key points:
