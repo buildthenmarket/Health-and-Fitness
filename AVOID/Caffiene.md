@@ -1,5 +1,28 @@
 # Caffiene
 
+## Adrenal Fatigue
+
+Coffee and its effects on adrenal function have been a subject of interest in biomedical science, particularly in the context of adrenal fatigue. Adrenal fatigue is a term used in alternative medicine circles, but it is not recognized as a distinct medical condition by conventional medicine. According to Dr. Anat Ben-Shlomo, an endocrinologist at Cedars-Sinai, adrenal fatigue is a medical myth, despite its popularity in alternative medicine.
+
+Research has shown that caffeine, a primary component of coffee, can affect the adrenal glands. A study published in the *PLOS ONE* journal found that high peripubertal caffeine exposure can lead to changes in adrenal gland morphology and function in immature rats. Specifically, caffeine increased relative adrenal weights in both male and female rats, while absolute weights were decreased in females. The adrenal cortical areas in female rats resembled irregularly arranged cords, and the medullary area was significantly increased, indicating potential damage to the adrenal glands.
+
+In terms of coffee cycling, or varying caffeine intake throughout the day, it is often recommended to limit caffeine consumption, especially in the evening, to avoid disrupting the natural cortisol rhythm. Caffeine can spike cortisol levels, leading to a stress response that may exacerbate adrenal fatigue symptoms. However, the relationship between caffeine and adrenal function is complex and can vary among individuals. Some studies suggest that moderate caffeine intake (1-2 cups of coffee per day) may not be harmful and could even have health benefits.
+
+For individuals concerned about their adrenal health, it is advisable to evaluate caffeine intake and make adjustments as needed. Reducing caffeine consumption, particularly in the evening, and opting for decaffeinated coffee can help maintain a healthier adrenal function. Additionally, maintaining a balanced diet and managing stress levels are crucial for overall adrenal health.
+
+In summary, while coffee can have effects on adrenal function, the relationship is nuanced and may not be as straightforward as the term "adrenal fatigue" suggests. Moderation and awareness of individual responses to caffeine are key in maintaining optimal adrenal health.
+
+## Coffee Mold Statistics
+
+Research indicates that mold, including mycotoxins like aflatoxin B1 and ochratoxin A, can be present in coffee beans. Here are some statistics:
+
+* **Brazil**: A study found that nearly all green coffee bean samples (over 90%) were contaminated with mold, and 33% contained low levels of ochratoxin A.
+* **Portugal**: 18% of roasted coffee bean samples analyzed contained ochratoxin A.
+* **Nayarit, Mexico**: A study collected 14 roasted coffee samples, from which 22 fungi isolates were related to the genera Aspergillus and Penicillium. Three strains tested positive for ochratoxin A (OTA) production.
+* **Global**: A 2013 study found that 27% of all roast coffees tested contained ochratoxin A, with beans from Chile having the highest concentrations.
+
+These statistics suggest that while mold and mycotoxins can be found in coffee, the levels are generally low and within safe limits.
+
 ![caffiene](static/Caffiene.png)
 
 So how does caffeine wake you up? Your body naturally produces a chemical called adenosine. It builds up in your body during the day.

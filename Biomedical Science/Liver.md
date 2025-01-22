@@ -63,6 +63,10 @@ It detoxifies your liver naturally, adding alternative grains like millets, buck
 
 ![FL Diet](static/Fatty Liver Diet.png)
 
+### Metabolic Dysfunction Liver Disease
+
+**Metabolic dysfunction-associated steatotic liver disease (MASLD)** is a condition characterized by the accumulation of fat in the liver, which can lead to inflammation and liver damage. This condition is influenced by various factors including central obesity, insulin resistance, lipid metabolism, and genetic predispositions. The development of MASLD involves complex interactions between systemic metabolic dysfunction and liver health, often resulting from altered dietary habits, obesity, and other metabolic disorders. Treatment approaches typically focus on lifestyle modifications, such as diet and exercise, to improve metabolic health and reduce liver fat. Additionally, managing comorbid conditions like cardiovascular disease and diabetes is crucial for overall patient outcomes.
+
 ![avoid foods](static/Fatty Liver Avoid.png)
 
 ![drink detox](image-9.png)

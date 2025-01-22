@@ -149,3 +149,20 @@ Here are some examples of starchy foods and their nutritional profiles:
 * **Navy beans**: These are a high-starch food that also offer a substantial amount of protein and fiber, making them a nutritious choice.
 
 Understanding the difference between healthy and less healthy starchy foods can help you make informed dietary choices that support overall health and well-being.
+
+## Lipoproteins
+
+Lipoproteins are biochemical assemblies that transport fat molecules, such as triglycerides, phospholipids, and cholesterol, within the extracellular water of the body to all cells and tissues. They consist of a triglyceride and cholesterol core, surrounded by a phospholipid outer shell. The hydrophilic portions of the phospholipids and apolipoproteins are oriented outward toward the surrounding water, while the hydrophobic portions are oriented inward toward the lipid center. This structure makes them soluble in the salt-water-based blood pool.
+
+Lipoproteins are classified into several types based on their size, lipid composition, and apolipoprotein content. The main classes include:
+
+* **HDL (High-Density Lipoprotein)**: Often referred to as "good cholesterol," HDL helps remove excess cholesterol from the bloodstream and transport it back to the liver for processing. HDL can be further classified into large, medium, and small types using nuclear magnetic resonance, and pre-beta 1 and 2, alpha 1, 2, 3, 4 using 2-dimensional gel electrophoresis.
+* **LDL (Low-Density Lipoprotein)**: Known as "bad cholesterol," LDL carries cholesterol to cells and can contribute to the buildup of plaque in arteries if levels are too high.
+* **VLDL (Very-Low-Density Lipoprotein)**: Primarily responsible for transporting triglycerides from the liver to other parts of the body.
+* **Chylomicrons**: The largest lipoproteins, they transport dietary triglycerides and cholesterol from the intestines to other parts of the body.
+
+Apolipoproteins, a special kind of protein embedded in the outer shell of lipoprotein particles, play a crucial role in stabilizing the lipoprotein structure and determining its functional identity. For example, Apolipoprotein C-III (Apo C-III) is associated with chylomicrons, VLDL, and HDL. It inhibits lipoprotein lipase (LPL) and the uptake of lipoproteins, which can affect the metabolism of lipids in the bloodstream.
+
+Lipoprotein metabolism is divided into two pathways: exogenous and endogenous. The exogenous pathway involves lipoproteins composed chiefly of dietary lipids, while the endogenous pathway involves lipoproteins originating in the liver through de novo synthesis of triglycerides. The handling of lipoprotein particles in the body is referred to as lipoprotein particle metabolism.
+
+Understanding lipoproteins and their metabolism is essential for preventing cardiovascular disease and other metabolic diseases. Lifestyle changes and medications like statins can be used to treat high cholesterol levels.
