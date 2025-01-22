@@ -51,6 +51,8 @@ immune system provides cues in the forms of chemical signals (cytokines) or degr
 
 The term inoculation is often used as a synonym for vaccination or immunization.
 
+**Adaptive Immunity**
+
 ![Vax Infographic](static/Comparing-How-COVID-19-Vaccines-and-Antiviral-Pills-Work_POSTER_VC_4_1200.png)
 
 ## SV40 in mRNA COVID Vaccine
@@ -69,4 +71,13 @@ Recent studies and discussions have highlighted concerns about the presence of S
 
 ![questions](static/40-vaccine-questions.webp)
 
+## Vax Injury
+
 - The story of Alexis Lorenze
+
+## Aluminum Adjuvants
+
+- aluminum doesn't have any biological use. it's toxic to life
+- Thimerasal
+- neuro and cytotoxic
+- dead proteins from a virus is not enough to stimulate immune system response. The macrophages and endritic cells will consume it and dispose it. Cellular death stimulates immune response.

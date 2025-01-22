@@ -7,3 +7,5 @@
 ## Lymphatic System Explained
 
 The lymphatic system is a network of organs, vessels, and tissues that work together to maintain fluid balance and support the immune system. It consists of lymph vessels, lymph nodes, and lymphoid organs such as the spleen, thymus, and tonsils. Lymph, a clear fluid containing white blood cells, proteins, and fats, flows through the lymphatic vessels and is filtered by lymph nodes, which remove waste, bacteria, and other harmful substances. The system also plays a crucial role in absorbing fats and fat-soluble vitamins from the intestines and transporting them back into the bloodstream.
+
+## neutrophils
