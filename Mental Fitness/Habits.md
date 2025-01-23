@@ -18,6 +18,8 @@ Whether you love your job, have fallen out of love with it, or have never loved 
 
 ## Identify Bad Habit
 
+- disrupt the normal routine, you will get focus
+
 **It takes three steps to identify and break a bad habit:**
 
 1. **Cue:** When, where, with whom, or after which activity do you feel the urge for your habit?

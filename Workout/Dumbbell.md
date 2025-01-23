@@ -39,6 +39,8 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 
 ## Abs
 
+- DUMBBELL TORSO TWIST
+
 ### Russian Twist
 
 [![Russian Twist](https://img.youtube.com/vi/BA-uP_-bVE8/0.jpg)](https://www.youtube.com/watch?v=shorts/BA-uP_-bVE8)
