@@ -1,5 +1,10 @@
 # Lifting
 
+## Tips
+
+[![bench press wrist > bar grip](https://img.youtube.com/vi/lEsM8ytmZ18/0.jpg)](https://www.youtube.com/watch?v=shorts/lEsM8ytmZ18)
+
+
 ## Protein Powder
 
 Protein powders are essentially concentrated forms of protein, usually derived from sources like whey, casein, soy, pea, or even the more exotic cricket flour. A quick, easy source of protein that can help with muscle repair and growth.

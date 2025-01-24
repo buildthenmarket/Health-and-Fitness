@@ -3,6 +3,7 @@
 ## Stretches
 
 [IG](https://www.instagram.com/reel/DBtq29CtDD-/)
+[https://www.instagram.com/reel/DCCWjm0Owo-/](https://www.instagram.com/reel/DCCWjm0Owo-/)
 
 ## Neck
 
@@ -38,40 +39,43 @@
 
 **Dumbbell Exercises:**
 
-* **Bent-Over Rows:**
-  * Hold dumbbells with a neutral grip (palms facing each other).
-  * Hinge at your hips, keeping your back flat.
-  * Row the dumbbells towards your chest, squeezing your shoulder blades together.
-* **Chest-Supported Rows:**
-  * Lie face down on an incline bench, holding dumbbells.
-  * Row the dumbbells towards your chest, squeezing your shoulder blades together.
+- **Bent-Over Rows:**
+  - Hold dumbbells with a neutral grip (palms facing each other).
+  - Hinge at your hips, keeping your back flat.
+  - Row the dumbbells towards your chest, squeezing your shoulder blades together.
+- **Chest-Supported Rows:**
+  - Lie face down on an incline bench, holding dumbbells.
+  - Row the dumbbells towards your chest, squeezing your shoulder blades together.
 
 **Calisthenics Exercises:**
 
-* **Inverted Rows:**
-  * Find a sturdy bar, like a pull-up bar or a sturdy table.
-  * Hang from the bar with your arms straight, feet on the ground.
-  * Pull your chest towards the bar, squeezing your shoulder blades together.
-* **Scapular Push-ups:**
-  * Start in a push-up position.
-  * Lower your body towards the ground, then push back up, focusing on squeezing your shoulder blades together at the top.
-* **Pull-ups (if possible):**
-  * Pull-ups are a great compound exercise that works the rhomboids, along with other back muscles.
+- **Inverted Rows:**
+  - Find a sturdy bar, like a pull-up bar or a sturdy table.
+  - Hang from the bar with your arms straight, feet on the ground.
+  - Pull your chest towards the bar, squeezing your shoulder blades together.
+- **Scapular Push-ups:**
+  - Start in a push-up position.
+  - Lower your body towards the ground, then push back up, focusing on squeezing your shoulder blades together at the top.
 
 **Additional Tips:**
 
-* **Focus on Squeezing Your Shoulder Blades:** This is the key to activating your rhomboids.
-* **Maintain Proper Form:** Avoid rounding your back, as this can lead to injury.
-* **Start with Lighter Weights or Easier Variations:** Gradually increase the difficulty as you get stronger.
-* **Incorporate These Exercises into Your Workout Routine:** Aim for 2-3 times per week.
-* **Listen to Your Body:** If you experience any pain, stop the exercise and consult a healthcare professional.
+- **Focus on Squeezing Your Shoulder Blades:** This is the key to activating your rhomboids.
+- **Maintain Proper Form:** Avoid rounding your back, as this can lead to injury.
+- **Start with Lighter Weights or Easier Variations:** Gradually increase the difficulty as you get stronger.
+- **Incorporate These Exercises into Your Workout Routine:** Aim for 2-3 times per week.
+- **Listen to Your Body:** If you experience any pain, stop the exercise and consult a healthcare professional.
 
 By consistently performing these exercises, you can strengthen your rhomboids and improve your posture.
 
+## Pull-ups
+
+- Pull-ups are a great compound exercise that works the rhomboids, along with other back muscles.
+[https://www.instagram.com/reel/C_iBVpASD3P/](https://www.instagram.com/reel/C_iBVpASD3P/)
+
 ### Deltoid Heads
 
-* Anterior deltoid (front)
-  * 1. dumbbell shoulder press
-* middle deltoid
-  * 9. 45 degree incline row
-* Posterior deltoid (back)
+- Anterior deltoid (front)
+  - 1. dumbbell shoulder press
+- middle deltoid
+  - 9. 45 degree incline row
+- Posterior deltoid (back)

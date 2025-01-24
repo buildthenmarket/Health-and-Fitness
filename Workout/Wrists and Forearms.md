@@ -1,3 +1,8 @@
+# Wrists
+
+## Stretches
+
+[https://www.instagram.com/reel/C2-hzGYrlX9/](https://www.instagram.com/reel/C2-hzGYrlX9/)
 
 # Below are two ways to test your grip strength and three exercises to include in your training plan to improve it.
 

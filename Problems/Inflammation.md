@@ -2,6 +2,9 @@
 
 ## Highly sensitive C-reactive protein (hsCRP)
 
+- heart and pulmonary cell fatigue
+- acute (recent or early on)
+
 High Sensitivity CRP Diet Impact
 
 Highly sensitive C-reactive protein (hsCRP) is a marker of inflammation in the body and is used to assess the risk of cardiovascular disease (CVD). Elevated levels of hsCRP indicate a higher risk of heart attack, stroke, peripheral arterial disease, and sudden cardiac death, even in people without a history of cardiovascular disease. The hsCRP test is particularly useful for individuals who have a moderate risk of heart attack within the next 10 years, based on factors such as lifestyle, family history, and current health status.

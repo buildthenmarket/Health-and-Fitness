@@ -1,6 +1,6 @@
 # Goal Setting
 
-![don't chase](static/Instead Chase.jpeg)
+![don't chase](static/Instead%20Chase.jpeg)
 
 ## Strategies for Success
 
@@ -10,3 +10,6 @@
 4. **Find the energy**: give yourself time to adjust. Results won't come overnight.
 5. **Joy**: reward yourself in healthy ways for your successes
 6. **social support**: communicate with people in your life that care about you. ask them to assist you by supporting you in achieving your healthy goals
+
+[text](static/belief.jpg)
+[text](static/upward%20spiral.png)
