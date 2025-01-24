@@ -1,4 +1,25 @@
-# Biology Terms
+# Biomedical science
+
+Biomedical scientists work to understand the causes of diseases, develop new treatments and therapies, and improve human health.
+Biomedical science is a broad field that applies the principles of biology and other natural sciences to understand and address human health and disease. It encompasses a wide range of disciplines, including:
+
+* **Physiology:** The study of how the human body functions.
+
+* **Anatomy:** The study of the structure of the human body.
+
+* **Biochemistry:** The study of the chemical processes within and relating to living organisms.
+
+* **Genetics:** The study of genes, heredity, and variation in living organisms.
+
+* **Immunology:** The study of the immune system.
+
+* **Microbiology:** The study of microorganisms.
+
+* **Pathology:** The study of diseases.
+
+* **Pharmacology:** The study of drugs and their effects on the body.
+
+## Biology Terms
 
 ![vegan animals are strong](static/Strong Herbivore Animals.png)
 
