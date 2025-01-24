@@ -11,5 +11,5 @@
 5. **Joy**: reward yourself in healthy ways for your successes
 6. **social support**: communicate with people in your life that care about you. ask them to assist you by supporting you in achieving your healthy goals
 
-[text](static/belief.jpg)
-[text](static/upward%20spiral.png)
+![text](<static/belief.jpg>)
+![text](<static/upward%20spiral.png>)

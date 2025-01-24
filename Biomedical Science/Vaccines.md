@@ -77,6 +77,8 @@ Recent studies and discussions have highlighted concerns about the presence of S
 
 ## Aluminum Adjuvants
 
+![aluminum](static/PIC-Aluminum-Containing-Vaccines-PSA.jpg)
+
 - aluminum doesn't have any biological use. it's toxic to life
 - Thimerasal
 - neuro and cytotoxic
