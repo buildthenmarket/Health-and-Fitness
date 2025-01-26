@@ -8,6 +8,8 @@ if you're not dating for marriage, you're dating for breakup
 
 ## Dating
 
+[![EQ in dating](https://img.youtube.com/vi/HDQ3wEUC-0A/0.jpg)](https://www.youtube.com/watch?v=shorts/HDQ3wEUC-0A)
+
 [youtube](https://m.youtube.com/@sadiapsychology)
 
 ![dating vs talking](<static/talking vs dating vs relationship.jpeg>)

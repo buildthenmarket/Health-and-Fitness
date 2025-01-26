@@ -3,7 +3,7 @@
 - **chronobiology**
 - irregularity in sleep timing and duration have been linked to metabolic abnormalities and higher cardiovascular disease risk
 
-![Circadian Rhythm](<static/Circadian Rhythm.png>)
+![Circadian Rhythm](<static/Circadian%20Rhythm.png>)
 
 - **Combine Exercise with Relaxation Techniques**: Pair exercise with relaxation techniques like deep breathing, progressive muscle relaxation, or meditation to enhance the sleep-promoting effects.
 - **Cool Down**: Finish your exercise routine with a cool-down period, such as stretching or gentle movements, to help your body wind down.
