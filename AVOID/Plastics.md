@@ -1,5 +1,9 @@
 # Microplastics and Nanoplastics
 
+## Receipt Paper
+
+Receipt paper, particularly thermal paper used in cash registers, contains chemicals like bisphenol A (BPA) and bisphenol S (BPS) that can be harmful to human health. These chemicals are endocrine disruptors and can interfere with the body's hormone system, potentially leading to reproductive and developmental abnormalities, diabetes, thyroid conditions, and increased susceptibility to cancer Studies have shown that BPA and BPS can be absorbed through the skin when people handle receipts, and workers who frequently handle receipts, such as cashiers, may have higher exposure levels Efforts to reduce exposure include opting for digital receipts and washing hands after handling thermal paper receipts
+
 ## plastic contaminants in body
 
 [There are Microplastics in Your Testicles - Here's What You Can Do About it](https://youtu.be/ATGW8kvEUDo?si=cKuxdYJxuKsjqTRI)
