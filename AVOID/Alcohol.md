@@ -1,0 +1,1 @@
+Drinking alcohol can also cause brain atrophy, characterized by widespread white matter loss but limited gray matter loss. Chronic alcohol abuse has been shown to cause brain atrophy with widespread white matter loss, though there is no consistent evidence that smoking exacerbates alcohol-related brain damage.

@@ -1,6 +1,22 @@
-# Weed
+## tobacco
 
-## Ingredients in Weed Cartridges
+- Nicotine use while the brain is still developing can dysregulate neuronal circuits, which control various functions, and can have long-lasting effects.
+- Scientific research indicates that smoking tobacco can lead to a reduction in gray matter volume in the brain, particularly in the frontal lobes, which can affect cognitive function and self-control. This reduction in gray matter is more pronounced in smokers and can be linked to nicotine addiction, as evidenced in a study involving over 800 young people aged 14, 19, and 23.
+
+## Weed or Cannabis
+
+### Effects of Cannabis on Brain Structure
+
+- In summary, while cannabis use can lead to gray matter volume reduction and brain atrophy in certain regions
+- Marijuana use has been associated with changes in brain connectivity, particularly in regions involved in cognitive flexibility and white matter integrity in adolescents.
+
+Scientific research indicates that smoking weed can affect gray matter volume in the brain. Studies have found that regular cannabis use is associated with gray matter volume reduction in the medial temporal cortex, temporal pole, parahippocampal gyrus, insula, and orbitofrontal cortex, which are regions rich in cannabinoid CB1 receptors and functionally associated with motivational, emotional, and affective processing
+
+Research also suggests that cannabis use, particularly starting in adolescence, can lead to brain atrophy and changes in brain structure. For example, one study found that adolescent cannabis use can have persistent long-term effects, including enhanced risk for schizophrenia Another study showed that recreational cannabis use later in life can produce long-term effects on brain morphology or cognitive performance
+
+However, the impact of cannabis on brain cells, including whether it kills neurons, is not definitively determined by researchers Some studies have reported no significant differences in hippocampal volume between cannabis users and non-users, while others have found smaller hippocampal and amygdala volumes associated with long-term cannabis use
+
+### Ingredients in Weed Cartridges
 
 Based on the provided search results, here's a comprehensive breakdown of the typical ingredients found inside a cannabis vape cartridge:
 
@@ -50,14 +66,14 @@ It's essential to note that different manufacturers may use varying ingredients 
 
 Remember to always use cannabis products responsibly and in accordance with local laws and regulations.
 
-## Vaping vs Smoking Weed
+### Vaping vs Smoking Weed
 
 **Comparison of Harmfulness**:
 
 * **Smoking Weed in a Joint**: Smoking weed in a joint can be harmful due to the combustion process, which produces tar and other toxic byproducts, including carbon monoxide. These substances can cause respiratory problems, such as lung irritation and damage, and may increase the risk of respiratory symptoms and other health issues. Additionally, holding smoke in the lungs for longer periods can lead to greater exposure to harmful substances.
 * **Weed from a Cart Vape**: Vaping weed from a cart can be considered less harmful than smoking a joint, as it avoids the combustion process and produces fewer toxic byproducts. However, vaping still exposes the lungs to potentially harmful chemicals, including those present in the vaping liquid or cartridge. Illicit vaping products may contain harmful additives, such as vitamin E acetate, which can be detrimental to respiratory health. Nevertheless, vaping is generally thought to be safer for cannabis use because it doesn't produce many of the harmful components of burning material.
 
-## Smoking Weed and Coughing Effects
+### Smoking Weed and Coughing Effects
 
 Smoking cannabis can cause coughing in many individuals. While it's a common phenomenon, it's essential to understand the reasons behind it and explore ways to minimize or alleviate the discomfort.
 
