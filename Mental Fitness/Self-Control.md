@@ -1,6 +1,12 @@
 # Neuroscience of Self-Control
 
-Self-control, also known as executive function, is a complex cognitive process mediated by multiple brain regions. Key players include:
+Self-control, also known as executive function, is a complex cognitive process mediated by multiple brain regions.
+
+![pattern recognition](<static/Pattern Recognition - Recognition.png>)
+
+![pattern recognition](<static/Pattern Recognition - Stimulus.png>)
+
+![pattern recognition](<static/Pattern Recognition - Trigger.png>)
 
 1. **Prefrontal Cortex (PFC)**: particularly the dorsolateral prefrontal cortex (DLPFC), ventromedial prefrontal cortex (VMPFC), and anterior cingulate cortex (ACC). These areas are responsible for working memory, decision-making, planning, and error detection.
 2. **Basal Ganglia**: a subcortical structure involved in movement control, habit formation, and reward processing. The basal ganglia play a crucial role in inhibiting impulsive behaviors and facilitating goal-directed actions.
