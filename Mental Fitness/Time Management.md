@@ -1,5 +1,7 @@
 # Time Management
 
+## Time is a cost. Prepare just enough and do.
+
 - Activity gets you busy. But productivity gets you free.
 - "Perfection is not attainable, but if we chase perfection, we can catch excellence." – Vince Lombardi
 - There are decades where nothing happens, and weeks where decades happen
@@ -51,6 +53,10 @@ Ultradian Rhythms are recurrent periods or cycles repeated throughout a 24-hour 
 ![Ultra Time Mgmt](<static/Ultra Time Mgmt.png>)
 
 ## 8 annual goals is good number
+
+## Delegate
+
+- Enlist Pros, build a team
 
 PRIORITIZE tasks, delegate
 
