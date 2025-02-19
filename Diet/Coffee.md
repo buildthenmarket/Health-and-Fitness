@@ -43,3 +43,7 @@ Here are some ideas to improve homemade coffee freshness:
 **10. Monitor the "Roasted on" date**: Check the roast date on your coffee beans and aim to use them within 2-4 weeks for filter brews and 1-6 weeks for espresso, depending on the roast level and type.
 
 By implementing these ideas, you can significantly improve the freshness and flavor of your homemade coffee.
+
+## Coffee vs Espresso
+
+Espresso and black coffee are both made from coffee beans but differ in their preparation methods and characteristics. Espresso is made by forcing pressurized hot water through finely ground coffee beans, resulting in a concentrated shot of coffee with a thick texture and a layer of crema on top Black coffee, on the other hand, is simply coffee brewed without any additives like milk or sugar, using a coarser grind and a longer brewing time Espresso has a stronger flavor and higher caffeine concentration per serving due to its concentrated nature, while black coffee tends to have a milder taste and a larger serving size
