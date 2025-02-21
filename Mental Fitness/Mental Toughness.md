@@ -4,6 +4,16 @@
 
 ## Misery loves company
 
+The saying "misery loves company" suggests that people who are unhappy prefer to be around others who are also unhappy. This can be understood in two ways: first, that miserable people like to share their troubles with others, and second, that those who are unhappy seek to make others unhappy as well
+
+From a social psychology perspective, humans are inherently social beings, and their emotions and behaviors are significantly influenced by the presence of others. When feeling miserable, an individual may instinctively look for others who share a similar plight. This shared experience can lead to what is known as "social comparison," where individuals compare their situations to those of others. Feeling less alone in one's troubles can reduce the intensity of negative emotions
+
+The phrase "misery loves company" is often traced back to Publilius Syrus, a Roman slave who lived in the first century BC. However, the exact origin and the original wording of the phrase may differ from the modern interpretation
+
+In summary, the saying reflects the human tendency to seek social connections, especially during tough times, and the comfort derived from shared experiences and empathy
+
+References:
+
 The saying "misery loves company" means that people who are unhappy or going through a difficult time often seek out the company of others who are also unhappy. There are a few reasons for this:
 
 - **Validation:** Sharing their problems with others who understand can make their own problems feel more validated and less isolating.

@@ -1,3 +1,11 @@
+# Smoking and Blood Clots
+
+Smoking can harm the skin and increase the likelihood of easier bruising due to its negative impact on blood vessels and blood clotting mechanisms. The chemicals in cigarettes can damage the lining of blood vessels, making them more prone to inflammation and swelling, which can lead to slower wound healing and increased bruising. Additionally, smoking can cause blood to thicken and increase platelet aggregation, making it more prone to clot formation and reducing blood flow, which can further affect skin health and healing processes
+
+Smokers are at a higher risk of developing blood clots compared to non-smokers. Research indicates that smokers are up to three times more likely to develop deep vein thrombosis (DVT) and pulmonary embolism (PE) due to the harmful effects of smoking on blood vessels, clotting factors, and endothelial cells The risk of blood clots is dose-dependent, meaning the more a person smokes, the higher their risk. Smoking also promotes atherosclerosis and damages the cardiovascular system, increasing the risk of serious conditions like myocardial infarction (heart attack) and stroke
+
+Furthermore, studies have shown that the risk of clot-related conditions decreases significantly after quitting smoking, emphasizing the benefits of smoking cessation in reducing serious health risks
+
 ## tobacco
 
 - Nicotine use while the brain is still developing can dysregulate neuronal circuits, which control various functions, and can have long-lasting effects.
