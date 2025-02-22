@@ -5,6 +5,10 @@
 - [HIIT](https://www.instagram.com/reel/C5Lg21YLpXW/)
 - [3 moves](https://www.instagram.com/reel/C5je2ZgSWeb/)
 
+## DUMBBELL REVERSE LUNGE WITH SHOULDER PRESS
+
+[![DUMBBELL REVERSE LUNGE WITH SHOULDER PRESS](https://img.youtube.com/vi/8uI0l7gCutA/0.jpg)](https://www.youtube.com/watch?v=8uI0l7gCutA)
+
 ## Squats
 
 [![Dumbbell Squat Clean & Press](https://img.youtube.com/vi/bO0k19mG3sA/0.jpg)](https://www.youtube.com/watch?v=bO0k19mG3sA)
@@ -29,6 +33,7 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 
 ### Bent-Over Row
 
+[![Dumbbell Bent Over Row](https://img.youtube.com/vi/IOOLhrkN_NI/0.jpg)](https://www.youtube.com/watch?v=shorts/IOOLhrkN_NI)
 [![Well+Good](https://img.youtube.com/vi/LZxoUZV8seY/0.jpg)](https://www.youtube.com/watch?v=LZxoUZV8seY)
 
 ### Renegade Row
