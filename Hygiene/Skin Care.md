@@ -1,5 +1,11 @@
 # Skin care routine
 
+## Does Ice Help Pimples?
+
+Rubbing ice on your face can help with pimples by reducing redness, swelling, and pain, particularly in inflammatory-type pimples such as pustules and cysts The cold temperature from the ice causes blood vessels to constrict, which can help minimize the appearance of pores and reduce inflammation However, it is important to use the right technique to avoid damaging your skin. You should cleanse your face first and then wrap the ice in a clean, thin fabric before applying it to your face for 1-2 minutes at a time Avoid direct contact with the skin to prevent frostbite, ice burns, and other skin irritations
+
+While ice can provide temporary relief and benefits for your skin, it is not a permanent solution for acne and breakouts. A comprehensive skincare regimen is necessary to manage acne effectively If you are unsure about how your skin will react to ice, consult a dermatologist before trying this method
+
 - hot showers
 - Nutrient Deficiencies
 
@@ -73,3 +79,13 @@ Processed meats and red meats, such as chicken and mutton, can increase sebum pr
 Foods rich in Omega-6 fats, such as cornflakes and soybean oil, are known to increase the risk of acne due to their inflammatory nature
 
 In summary, foods that can increase the problem of acne and pimples include high glycemic index foods, dairy products, processed meats, red meats, and foods rich in Omega-6 fats
+
+Acne and pimples are influenced by various factors, including diet. Research indicates that certain foods can exacerbate acne in some individuals. In an omnivore Indian diet, foods high in glycemic load and dairy products are commonly associated with increased acne severity.
+
+Foods with a high glycemic load cause rapid spikes in blood sugar levels, leading to increased insulin production. This can stimulate the production of sebum, a substance in the skin that can contribute to acne. Examples of such foods include white bread, corn flakes, puffed rice, potato chips, white potatoes or fries, doughnuts, pastries, sugary drinks like milkshakes, and white rice
+
+Dairy products, particularly those high in fat like cheese, full-fat yogurt, and ice cream, are also linked to acne. Cow's milk contains amino acids that can stimulate the liver to produce more insulin-like growth factor 1 (IGF-1), which is associated with acne development
+
+Additionally, foods loaded with refined grains such as bread, white pasta, cereals, and maida noodles are said to trigger acne
+
+While these dietary factors can contribute to acne, it is important to note that genetics and hormonal influences also play significant roles in the development of acne
