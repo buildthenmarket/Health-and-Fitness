@@ -22,3 +22,5 @@
 - quality matters with cheap/farm
 - hormone filled meat industry
 - skin elasticity
+
+![diet](Diet/static/clean%20foods.png)

@@ -1,5 +1,19 @@
 # strength, stamina, speed
 
+## Best Time to Work Out
+
+Scientific research suggests that the best time of day to work out can vary based on individual goals and circadian rhythms. Here are some key findings:
+
+- **Morning Workouts**: Morning exercise can help with weight loss and appetite control. Research indicates that morning workouts, especially on an empty stomach, can enhance fat burning due to elevated levels of cortisol and growth hormone, which support metabolism  Morning exercise may also shift your body clock earlier, making you feel more alert in the morning and tired earlier in the evening, potentially improving sleep quality  Additionally, morning exercisers may have a lower calorie intake throughout the day and eat less fat and carbohydrates
+
+- **Afternoon Workouts**: Afternoon workouts, particularly between 1 p.m. and 4 p.m., can help combat the midday slump and improve mental energy. Studies show that the body naturally burns about 10% more calories in the late afternoon compared to the early morning and late night  Afternoon exercise has also been linked to a reduced risk of heart disease and early death, with benefits being most pronounced for men and seniors
+
+- **Evening Workouts**: Evening workouts, especially between 4 p.m. and 8 p.m., are associated with peak performance in terms of strength and endurance. Exercise performance changes throughout the day, peaking in the late afternoon and early evening  Evening workouts do not disrupt sleep and can reduce levels of the hunger-stimulating hormone ghrelin, which may aid in weight management  However, some people may find that evening exercise makes it harder to fall asleep, although this is not a universal experience
+
+- **Consistency and Personal Preference**: The most important factor is finding a time that fits your schedule and aligns with your energy levels and preferences. Consistency is key, as regular exercise at the same time of day can help your body adapt and optimize performance
+
+In summary, while there are benefits to exercising at different times of the day, the best time ultimately depends on your individual goals and lifestyle. Whether you choose morning, afternoon, or evening, the key is to maintain a consistent routine.
+
 ## strength training can enhance weight loss
 
 1. **Muscle Mass and Metabolism**: Strength training increases lean muscle mass, which is metabolically active tissue. This means that muscles burn calories even at rest, contributing to a higher resting metabolic rate (RMR). An increased RMR allows the body to burn more calories throughout the day.
@@ -48,39 +62,39 @@ somatotypes, which categorize individuals into three main body types based on th
 
 ### Ectomorph (EC):
 
-* Characterized by a thin, lean, and delicate build.
-* Typically have a small bone structure, narrow shoulders, and hips.
-* Little body fat and difficulty gaining weight or muscle mass.
-* Fast metabolism, which burns calories quickly.
-* Often struggle to gain muscle, but can lose fat easily.
-* Ideal diet: High-calorie intake with a focus on protein and carbohydrates to support muscle growth.
-* Training: Short and intense workouts focusing on big muscle groups, with an emphasis on strength training.
+- Characterized by a thin, lean, and delicate build.
+- Typically have a small bone structure, narrow shoulders, and hips.
+- Little body fat and difficulty gaining weight or muscle mass.
+- Fast metabolism, which burns calories quickly.
+- Often struggle to gain muscle, but can lose fat easily.
+- Ideal diet: High-calorie intake with a focus on protein and carbohydrates to support muscle growth.
+- Training: Short and intense workouts focusing on big muscle groups, with an emphasis on strength training.
 
 ### Mesomorph (MS):
 
-* Characterized by a muscular and athletic build.
-* Typically have a medium to large bone structure, broad shoulders, and hips.
-* Balanced body fat and muscle mass.
-* Easy to gain weight and muscle, but also prone to gaining fat.
-* Moderate metabolism, which allows for a balance between caloric intake and expenditure.
-* Ideal diet: Balanced macronutrient intake with a focus on protein, carbohydrates, and healthy fats.
-* Training: A combination of weightlifting and cardio exercises, with a focus on progressive overload and periodization.
+- Characterized by a muscular and athletic build.
+- Typically have a medium to large bone structure, broad shoulders, and hips.
+- Balanced body fat and muscle mass.
+- Easy to gain weight and muscle, but also prone to gaining fat.
+- Moderate metabolism, which allows for a balance between caloric intake and expenditure.
+- Ideal diet: Balanced macronutrient intake with a focus on protein, carbohydrates, and healthy fats.
+- Training: A combination of weightlifting and cardio exercises, with a focus on progressive overload and periodization.
 
 ### Endomorph (EN):
 
-* Characterized by a round, soft, and stocky build.
-* Typically have a large bone structure, wide hips and midsection, and short limbs.
-* High body fat percentage and difficulty losing weight.
-* Slow metabolism, which makes it challenging to lose fat.
-* Ideal diet: Reduced caloric intake with a focus on portion control and healthy eating habits.
-* Training: Frequent cardio exercises and high-intensity interval training (HIIT) to boost metabolism and burn fat.
+- Characterized by a round, soft, and stocky build.
+- Typically have a large bone structure, wide hips and midsection, and short limbs.
+- High body fat percentage and difficulty losing weight.
+- Slow metabolism, which makes it challenging to lose fat.
+- Ideal diet: Reduced caloric intake with a focus on portion control and healthy eating habits.
+- Training: Frequent cardio exercises and high-intensity interval training (HIIT) to boost metabolism and burn fat.
 
 **Important Notes:**
 
-* Most individuals do not fit perfectly into one category, but rather exhibit characteristics from multiple body types (e.g., ecto-mesomorph or endo-mesomorph).
-* Body type is not a fixed trait and can change over time due to lifestyle factors, such as diet and exercise habits.
-* Understanding your body type can help you tailor your diet and training program to achieve your fitness goals, but it's essential to remember that individual results may vary.
-* Consult with a healthcare professional or certified fitness expert to determine the best approach for your specific needs and goals.
+- Most individuals do not fit perfectly into one category, but rather exhibit characteristics from multiple body types (e.g., ecto-mesomorph or endo-mesomorph).
+- Body type is not a fixed trait and can change over time due to lifestyle factors, such as diet and exercise habits.
+- Understanding your body type can help you tailor your diet and training program to achieve your fitness goals, but it's essential to remember that individual results may vary.
+- Consult with a healthcare professional or certified fitness expert to determine the best approach for your specific needs and goals.
 
 ### ectomorph, natural diet
 
@@ -92,10 +106,10 @@ somatotypes, which categorize individuals into three main body types based on th
 
 ## Lose weight + Build Muscle
 
-* 20 min into a workout reserve of glycogen
-* 3 min to liquefy lean muscle vs 5 hrs to burn fat
-* for the workout your body will start digesting your own lean muscle
-* recovery > build it back
+- 20 min into a workout reserve of glycogen
+- 3 min to liquefy lean muscle vs 5 hrs to burn fat
+- for the workout your body will start digesting your own lean muscle
+- recovery > build it back
 
 [IG](https://www.instagram.com/p/C40VXl-Caan/?img_index=2)
 
@@ -113,25 +127,25 @@ Specifically, for each 5kg decrease in grip strength, the study found the partic
 
 So, if you find yourself feeling like your grip gives out before your strength or muscular endurance fatigues, it's worth [devoting some time to improving it](https://breakingmuscle.com/grip-strength-for-lifters-climbers-and-fighters/).
 
-* Work up to 3 to 5 sets of a rep range that's appropriate for your strength level.
+- Work up to 3 to 5 sets of a rep range that's appropriate for your strength level.
 
 Things you can physically do EVERYDAY Bare Minimum:
 
-* minimum 1 hour walk everyday/run
-* grooming
-* brush teeth twice daily
-* mewing
-* pullups/pushups/BSS/Planks little bit everyday
-* stretch everyday/mobility work;Kelly starett
-* 2 healthy protein shakes everyday in morning
-* sleep early wake up early
-* good diet/whole foods
-* dentist check-ups
-* laundry weekly
-* foam roller
-* Avoid smoking
-* inversion table/decompress spine
-* regular haircuts
+- minimum 1 hour walk everyday/run
+- grooming
+- brush teeth twice daily
+- mewing
+- pullups/pushups/BSS/Planks little bit everyday
+- stretch everyday/mobility work;Kelly starett
+- 2 healthy protein shakes everyday in morning
+- sleep early wake up early
+- good diet/whole foods
+- dentist check-ups
+- laundry weekly
+- foam roller
+- Avoid smoking
+- inversion table/decompress spine
+- regular haircuts
 
 ## supplements
 
@@ -141,10 +155,10 @@ Genetic muscular insertions refer to the points where muscles attach to bones, w
 
 ### Key Points
 
-* **Genetic Determination**: Muscle insertions are largely determined by genetics, which explains why some individuals may have a natural advantage in certain sports or bodybuilding aesthetics.
-* **Muscle Belly Length**: The length of the muscle belly, or the main body of the muscle, is genetically determined and cannot be changed through exercise. This affects the overall shape and appearance of the muscle.
-* **Insertion Points**: The points where muscles insert into bones are also genetically determined, impacting the muscle's ability to generate force and movement.
-* **Variations**: Genetic variations in muscle insertions can result in differences in muscle shape, size, and attachment points, leading to unique physical characteristics.
-* **Training Implications**: While you cannot change your muscle insertions, understanding them can help you tailor your training approach. Focus on overall muscle development rather than obsessing over genetic factors you cannot control.
+- **Genetic Determination**: Muscle insertions are largely determined by genetics, which explains why some individuals may have a natural advantage in certain sports or bodybuilding aesthetics.
+- **Muscle Belly Length**: The length of the muscle belly, or the main body of the muscle, is genetically determined and cannot be changed through exercise. This affects the overall shape and appearance of the muscle.
+- **Insertion Points**: The points where muscles insert into bones are also genetically determined, impacting the muscle's ability to generate force and movement.
+- **Variations**: Genetic variations in muscle insertions can result in differences in muscle shape, size, and attachment points, leading to unique physical characteristics.
+- **Training Implications**: While you cannot change your muscle insertions, understanding them can help you tailor your training approach. Focus on overall muscle development rather than obsessing over genetic factors you cannot control.
 
 **In Summary:** Genetic muscular insertions play a significant role in shaping an individual's physique and athletic performance. While they cannot be changed, understanding their impact can help you optimize your training and focus on developing overall muscle strength and endurance.

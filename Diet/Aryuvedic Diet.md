@@ -1,5 +1,9 @@
 # Aryuvedic Diet
 
+[https://www.moodfood.life/blog](https://www.moodfood.life/blog)
+
+## Food is Mood
+
 ![gunas](<static/three gunas.png>)
 
 **Fruits:**

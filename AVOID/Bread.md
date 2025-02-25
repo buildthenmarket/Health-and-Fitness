@@ -39,3 +39,9 @@ It's important to note that while the scientific evidence suggests a link betwee
 
 - **Prolamins and agglutinins**: These harmful and [inflammatory proteins are found in grains](https://michaelkummer.com/why-avoid-grains/) such as wheat, rye, barley, oats and corn.
 - **Digestive enzyme inhibitors**: Certain grains, such as wheat, [can significantly lower the amounts of digestive enzymes](https://www.ncbi.nlm.nih.gov/pubmed/22878393). Yet another reason to avoid grains in your diet.
+
+### Bromate
+
+Carb free, gluten free, white, wheat, multi-grain, whole grain. There's a lot of stress around bread. But what we don't hear a lot about is bromated vs. unbromated flour. There is an additive in flour here in the States, that quickens leavening thereby increasing production. It also happens to be carcinogenic. 
+
+[https://www.kingarthurbaking.com/pro/reference/bromate](https://www.kingarthurbaking.com/pro/reference/bromate)

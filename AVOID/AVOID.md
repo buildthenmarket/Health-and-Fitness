@@ -22,6 +22,24 @@
 - cleaning agents
 - gloves
 
+![Non toxic Lotions](static/Non-Toxic%20Lotions.png)
+
+### Chemicals to Avoid in Hand Lotion
+
+Several harmful or toxic chemicals found in hand lotion ingredients to avoid include parabens, phthalates, formaldehyde, and mineral oil. Parabens, such as methylparaben, ethylparaben, propylparaben, and butylparaben, are preservatives that can disrupt hormones and potentially contribute to breast cancer  Phthalates are used to enhance fragrance longevity and can lead to reproductive problems, hormone disruption, and other health issues  Formaldehyde, a known carcinogen, is used as a preservative and can cause skin irritation, allergies, and respiratory problems  Mineral oil, a petroleum byproduct, may contain carcinogenic PAHs and can interfere with the endocrine system, affecting immunity
+
+### Toxic Chemicals in Hand Lotions
+
+Research has shown that hand lotions can contain harmful or toxic chemicals that may be absorbed through the skin and cause adverse health effects. A study published in the New York Times highlighted that many personal care products, including body lotions, contain chemicals linked to various health issues such as hormone disruption, cancer, and respiratory problems
+
+In a specific study on hand creams during the COVID-19 pandemic, researchers found that the median content of mercury in hand creams was 4.067 µg/kg, which, while within normal range, could pose a health risk with long-term exposure Mercury is a toxic element that can be absorbed through the skin, especially when it is irritated or damaged, as might occur from frequent hand washing and use of disinfectants.
+
+Additionally, a study examining cosmetic products found that parabens, which are commonly used as preservatives in lotions, were present in almost 15% of the products tested. Parabens are linked to hormone disruption and breast cancer
+
+Other harmful chemicals found in hand lotions include phthalates, which are associated with skin irritation, adverse reproductive outcomes, and asthma Retinyl palmitate, a vitamin A derivative, is also commonly found in lotions and has been shown to accelerate tumor development when exposed to sunlight
+
+These findings suggest that it is important to be cautious about the ingredients in hand lotions and to choose products that are free from harmful chemicals to minimize potential health risks.
+
 ## Honey
 
 - honey is sometimes adulterated with plain water and other sugars including hfcs (high fructose corn syrup)
