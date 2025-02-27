@@ -2,6 +2,10 @@
 
 Virology is the study of viruses, including their taxonomy, disease-producing properties, cultivation, and genetics.
 
+## Ace2 receptor
+
+- spike protein binding to the ACE2 receptor
+
 ## Rhabdoviridae Virology Science
 
 Rhabdoviridae is a family of negative-strand RNA viruses in the order Mononegavirales. They infect various hosts, including vertebrates, invertebrates, plants, fungi, and protozoans. Here's an overview of the virology science of each form of rhabdovirus:

@@ -1,5 +1,9 @@
 # Pharmacology
 
+## peer reviewed
+
+a process where research studies or articles are evaluated by independent experts in the field before publication to ensure accuracy, validity, and scientific rigor. This scrutiny helps maintain high standards in medical and drug-related research, filtering out flawed or unsubstantiated claims.
+
 ## Assays
 
 Pharmacology of assays involves the use of in vitro and biochemical methods to assess the safety and efficacy of drug candidates during the drug discovery and development process. These assays are crucial for generating high-quality data that can guide further development and testing of potential drugs.
