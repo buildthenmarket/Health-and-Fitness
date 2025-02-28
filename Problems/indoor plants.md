@@ -1,5 +1,9 @@
 # indoor plants, each targeting different air pollutants
 
+NASA has classified Sansevieria, now called Dracaena, as an air purifier due to its ability to remove toxic compounds such as benzene, formaldehyde, trichloroethylene, xylene and toluene.
+This plant uses the acid metabolism of the Crassulaceae to exchange oxygen and carbon dioxide, enabling it to resist drought.
+The microscopic pores on its leaves, called stomata, open only at night to limit water loss through transpiration in the heat of the sun. Unlike other plants, Sansevieria produces oxygen and absorbs carbon dioxide at night, making it an excellent indoor air purifier while we sleep.
+
 ## air quality improver
 
 to maximize the range of particles removed from your indoor air
