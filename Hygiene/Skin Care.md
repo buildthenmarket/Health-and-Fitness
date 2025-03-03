@@ -11,7 +11,7 @@ While ice can provide temporary relief and benefits for your skin, it is not a p
 
 ## Aztec Clay
 
-[![YouTube Shorts](https://img.youtube.com/vi/Aa8AMqLtd0A/0.jpg)](https://www.youtube.com/watch?v=shorts/Aa8AMqLtd0A)
+[![short](https://img.youtube.com/vi/Aa8AMqLtd0A/0.jpg)](https://www.youtube.com/watch?v=shorts/Aa8AMqLtd0A)
 
 [![9min YouTube Video](https://img.youtube.com/vi/sjpWYltqYDw/0.jpg)](https://www.youtube.com/watch?v=sjpWYltqYDw)
 

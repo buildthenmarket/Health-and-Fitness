@@ -1,5 +1,16 @@
 # Microplastics and Nanoplastics
 
+## cooking utensils 
+
+Black Plastic Spatula Chemicals
+
+Black plastic cooking spatulas can contain harmful microplastics and chemicals due to their manufacturing process and materials. The term "black plastic" refers to plastic that has been colored black using a pigment called carbon black, which is produced by charring organic matter in the absence of air. Carbon black enhances the heat resistance, strength, and rigidity of plastics, and it also blocks ultraviolet light, which can degrade plastics. However, black plastic spatulas can also contain flame retardants, which are chemicals added to plastics to prevent fires. These flame retardants can include brominated compounds like decabromodiphenyl ether (decaBDE), which has been linked to health issues such as cancer, reproductive, developmental, and immunologic toxicity effects.
+
+When black plastic spatulas are exposed to heat, these chemicals can leach into food, potentially causing health risks. Microplastics, which are tiny pieces of plastic ranging in size from 5 millimeters to 0.001 millimeters, can also transfer to food when using black plastic utensils. These microplastics can lead to changes in gut and oral microbiota and harm to the kidney. The presence of these microplastics and chemicals is particularly concerning because they can accumulate in the body over time, even at low levels of exposure.
+
+To avoid these risks, it is recommended to use alternative materials for cooking utensils, such as wood, stainless steel, or silicone, which are less likely to leach harmful chemicals into food. 
+
+
 ## Receipt Paper
 
 Receipt paper, particularly thermal paper used in cash registers, contains chemicals like bisphenol A (BPA) and bisphenol S (BPS) that can be harmful to human health. These chemicals are endocrine disruptors and can interfere with the body's hormone system, potentially leading to reproductive and developmental abnormalities, diabetes, thyroid conditions, and increased susceptibility to cancer Studies have shown that BPA and BPS can be absorbed through the skin when people handle receipts, and workers who frequently handle receipts, such as cashiers, may have higher exposure levels Efforts to reduce exposure include opting for digital receipts and washing hands after handling thermal paper receipts
