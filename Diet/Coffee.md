@@ -1,5 +1,16 @@
 # Coffee
 
+## Frother
+
+- **Oat Milk:**
+  - Look for oat milks with very short ingredient lists. Some brands are beginning to produce oat milks with just oats, water, and perhaps a touch of salt.
+  - When possible, consider making your own oat milk. This is the best way to control the ingredients.
+- **Soy Milk:**
+  - Plain, unsweetened soy milk can be a good option. Some brands offer soy milk with just soybeans and water.  
+  - Elmhurst brand soy milks are an example of this.
+- **Macadamia Milk:**
+  - Milkadamia offers barista blends that have great foaming capabilities. They also are a good choice for those who are trying to avoid many additives.
+
 ## Blooming
 
 The article "What is Coffee Blooming According to the Science" on Serious Eats explains the concept of coffee blooming, which occurs when hot water is first poured over coffee grounds. This process releases carbon dioxide bubbles trapped in the beans, indicating freshness and affecting extraction.
@@ -52,20 +63,20 @@ Espresso and black coffee are both made from coffee beans but differ in their pr
 
 There are several vegan coffee alternatives available that can satisfy your caffeine cravings or provide a similar experience without the caffeine. Here are some popular options:
 
-* **Matcha**: This powdered green tea is high in antioxidants and provides a gentler caffeinated beverage than coffee, making it a wonderful coffee alternative for someone who still needs a little, albeit gentler, jolt in the morning
+- **Matcha**: This powdered green tea is high in antioxidants and provides a gentler caffeinated beverage than coffee, making it a wonderful coffee alternative for someone who still needs a little, albeit gentler, jolt in the morning
 
-* **Turmeric Latte**: Known for its anti-inflammatory properties, a turmeric latte can be a tasty and calming alternative to coffee Adding a pinch of black pepper can enhance the absorption of curcumin from the turmeric
+- **Turmeric Latte**: Known for its anti-inflammatory properties, a turmeric latte can be a tasty and calming alternative to coffee Adding a pinch of black pepper can enhance the absorption of curcumin from the turmeric
 
-* **Dandelion Root Tea**: This herbal tea has a similar color and strong taste like coffee and is especially beneficial for liver support and female hormonal balance
+- **Dandelion Root Tea**: This herbal tea has a similar color and strong taste like coffee and is especially beneficial for liver support and female hormonal balance
 
-* **Chicory Coffee**: Made from roasted chicory root, this alternative has a similar taste and aroma to coffee but is caffeine-free and has a lower acidity level It is a good choice for people trying to cut down on caffeine or dealing with stomach issues.
+- **Chicory Coffee**: Made from roasted chicory root, this alternative has a similar taste and aroma to coffee but is caffeine-free and has a lower acidity level It is a good choice for people trying to cut down on caffeine or dealing with stomach issues.
 
-* **MUD\WTR**: A certified-organic coffee alternative filled with adaptogenic mushrooms and quality ingredients, providing natural energy and focus with just a fraction of the caffeine of coffee
+- **MUD\WTR**: A certified-organic coffee alternative filled with adaptogenic mushrooms and quality ingredients, providing natural energy and focus with just a fraction of the caffeine of coffee
 
-* **Teeccino**: This herbal coffee blend is made from ramón seeds from Central American rainforests and other ingredients rich in antioxidants, such as barley, carob, and chicory
+- **Teeccino**: This herbal coffee blend is made from ramón seeds from Central American rainforests and other ingredients rich in antioxidants, such as barley, carob, and chicory
 
-* **Hot Chocolate Mix**: A vegan, non-GMO verified, gluten-free, dairy-free hot chocolate mix can be a comforting alternative to coffee
+- **Hot Chocolate Mix**: A vegan, non-GMO verified, gluten-free, dairy-free hot chocolate mix can be a comforting alternative to coffee
 
-* **Lion's Mane Mushroom**: Adding lion's mane mushroom to a vegan coffee substitute can provide a mood lift and cognitive benefits
+- **Lion's Mane Mushroom**: Adding lion's mane mushroom to a vegan coffee substitute can provide a mood lift and cognitive benefits
 
 These alternatives offer a variety of flavors and health benefits, catering to different preferences and dietary needs

@@ -76,3 +76,36 @@ resveratrol, a polyphenol or natural antioxidant commonly found in berries, pean
 ## US Bananas vs Global Size
 
 The size of bananas sold in the United States is generally larger compared to those in other countries due to specific cultivation and selection practices. In the U.S., the Cavendish variety, which is the most commonly traded banana, is grown to meet consumer preferences for larger fruit. This variety is selected and bred for size, sweetness, and shelf life to suit the U.S. market demands. Additionally, the bananas are picked green and ripened artificially using ethylene gas, which can influence their size and appearance. However, it's important to note that the perception of larger bananas in the U.S. may also be influenced by the availability of different varieties and sizes in other countries, where smaller or differently shaped bananas are more common.
+
+## Lion's Mane Cognitive Benefits
+
+Lion's mane mushroom (Hericium erinaceus) is believed to offer cognitive benefits due to its potential to enhance brain cell growth and improve memory. Research has shown that compounds found in lion's mane mushrooms, such as N-de phenylethyl isohericerin (NDPIH) and hericene A, may stimulate the growth of neurons and help form new connections in the brain, which could lead to improved cognitive function and memory
+
+Studies have indicated that lion's mane supplementation might help normalize changes in behavior often triggered by high stress, such as loss of appetite, nervous behaviors, and procrastination Additionally, some research suggests that lion's mane may have anti-inflammatory properties, which may help with stress and work as an antidepressant
+
+While these findings are promising, it is important to note that most studies on the benefits of lion's mane have been conducted on animals, and more research in humans is needed to validate these findings Lion's mane mushrooms are generally considered safe unless you are allergic to mushrooms
+
+Dosage recommendations can vary based on individual factors like age and overall health. For improving cognition, some researchers recommend 3 to 5 grams per day In a 2020 study, people ages 50 and older with mild Alzheimer's disease symptoms showed significantly improved cognitive function after taking three 350-mg lion's mane capsules daily for 49 weeks Another study from 2019 found that taking three 400-mg capsules daily for 8 weeks helped relieve depression, anxiety, and sleep disorders for 77 people who were overweight or had obesity
+
+In summary, while lion's mane mushroom shows potential for cognitive benefits, more human studies are needed to fully understand its effects and optimal usage
+
+References:
+ Healthline, "9 Health Benefits of Lion's Mane Mushroom (Plus Side Effects)," May 19, 2018.
+ Health.USNews, "Can Lion's Mane Mushroom Improve Brain Function?," April 8, 2022.
+ UQ News, "Mushrooms magnify memory by boosting nerve growth," February 22, 2023.
+ Medical News Today, "Lion's mane mushrooms may help improve memory, boost brain cell growth," February 17, 2023.
+ Newsweek, "Lion's mane: What do medicinal mushrooms do? Scientists explain," October 18, 2024.
+
+## Science of Yacon Benefits
+
+Yacon, scientifically known as Smallanthus sonchifolius, is a root vegetable native to the Andean regions of South America. It is rich in fructooligosaccharides (FOS) and inulin, which are types of carbohydrates that are not digested by the body but instead act as prebiotics in the gut, promoting the growth of beneficial bacteria like Bifidobacterium and Lactobacillus 
+
+The prebiotic properties of FOS in yacon can improve gut microflora by acting as a food source for good bacteria in the large intestine, which can enhance digestive health and support the immune system  Additionally, FOS can reduce the pH levels in the large intestine, which helps the body absorb minerals such as calcium, magnesium, and phosphorus 
+
+Yacon is also beneficial for blood sugar regulation due to its low glycemic index. The fructooligosaccharides and inulin in yacon prevent the absorption of simple sugars in the small intestine, potentially lowering glucose production in the liver and fasting glucose rates  This makes yacon a suitable dietary choice for individuals with diabetes or those looking to manage their blood sugar levels 
+
+Furthermore, yacon has been shown to aid in weight loss and suppress appetite, possibly due to its high fiber content and low caloric value  Studies have indicated that yacon syrup can promote weight loss and reduce insulin resistance, which may help in managing obesity 
+
+Yacon also offers potential cardiovascular benefits, as it contains potassium, which helps balance sodium levels in the body and maintain healthy blood pressure levels  This can reduce the risk of heart disease and stroke, particularly for individuals with hypertension 
+
+In summary, the scientific benefits of yacon are rooted in its unique composition of FOS and inulin, which support digestive health, blood sugar regulation, weight management, and cardiovascular health 

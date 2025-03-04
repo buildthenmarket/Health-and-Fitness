@@ -1,5 +1,7 @@
 # Skin care routine
 
+Keep skin moist. Stay away from taking long, hot showers or baths. Limit them to 5 to 10 minutes and use warm water, not hot. If your skin is often dry, think about washing with soaps that are labeled fragrance-free.
+
 ## Does Ice Help Pimples?
 
 Rubbing ice on your face can help with pimples by reducing redness, swelling, and pain, particularly in inflammatory-type pimples such as pustules and cysts The cold temperature from the ice causes blood vessels to constrict, which can help minimize the appearance of pores and reduce inflammation However, it is important to use the right technique to avoid damaging your skin. You should cleanse your face first and then wrap the ice in a clean, thin fabric before applying it to your face for 1-2 minutes at a time Avoid direct contact with the skin to prevent frostbite, ice burns, and other skin irritations
