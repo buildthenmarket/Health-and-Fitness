@@ -1,5 +1,7 @@
 # Coffee
 
+[![espresso machine](https://img.youtube.com/vi/ZuQu12vMQZM/0.jpg)](https://www.youtube.com/watch?v=ZuQu12vMQZM)
+
 ## Frother
 
 - **Oat Milk:**
