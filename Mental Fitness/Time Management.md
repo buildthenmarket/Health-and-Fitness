@@ -1,5 +1,7 @@
 # Time Management
 
+- Find your optimal "chunk"
+
 ## Time is a cost. Prepare just enough and do.
 
 - Activity gets you busy. But productivity gets you free.
