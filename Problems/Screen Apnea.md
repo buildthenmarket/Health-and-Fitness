@@ -1,0 +1,13 @@
+# Screen Apnea Devices Harmful Effects
+
+Research on screen apnea, a condition where individuals hold their breath or breathe shallowly while staring at digital screens, has shed light on the addictive and harmful effects of using devices like smartphones and tablets. Studies have shown that screen apnea is a manifestation of the body's stress response, triggered by the constant stimulation from screens. This can lead to a range of negative effects, including exhaustion, decreased work performance, and increased risk of stress-related illnesses like heart disease, type 2 diabetes, and cancer.
+
+The blue light emitted from smartphones and tablets has also been found to be harmful, disrupting the body's natural sleep-wake cycle and leading to sleep deprivation. Prolonged exposure to blue light has been linked to an increased risk of macular degeneration, cataracts, and other eye problems. Furthermore, the constant notifications and alerts from devices can activate the brain's reward system, releasing feel-good chemicals like dopamine, which can lead to addiction.
+
+Scientists like Stephen Porges, a professor of psychiatry at the University of North Carolina at Chapel Hill, have found that screen apnea is a result of the body's autonomic nervous system responding to the stress of constant stimulation. James Nestor, author of the book "Breath: The New Science of a Lost Art," notes that humans have not evolved to be constantly stimulated, and this can lead to a range of negative effects on our physical and mental health.
+
+To mitigate the harmful effects of screen apnea and device addiction, researchers recommend taking regular breaks from screens, practicing deep breathing exercises, and engaging in physical activity. The Pomodoro technique, which involves working in focused 25-minute increments, followed by a 5-minute break, can be an effective way to reduce screen time and increase productivity. Additionally, using blue light filtering glasses or apps, and setting devices to night mode can help reduce the negative effects of blue light exposure. 
+
+* **Linda Stone**: A former Microsoft executive who first identified the phenomenon of screen apnea, also known as email apnea, and found that 80% of participants in her study experienced it.
+* **Stephen Porges**: A professor of psychiatry at the University of North Carolina at Chapel Hill, who has researched the autonomic nervous system and its response to stress, including the effects of screen apnea.
+* **James Nestor**: Author of the book "Breath: The New Science of a Lost Art," who has written about the negative effects of constant stimulation on our physical and mental health.

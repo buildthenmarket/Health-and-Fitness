@@ -1,0 +1,21 @@
+# macOS system files
+**/.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows system files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Thumbnails that might be created by media files
+*.db
+
+# In case of temporary video editing files
+*.tmp

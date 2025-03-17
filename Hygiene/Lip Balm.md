@@ -1,0 +1,1 @@
+ChapStick with SPF, like most lip balms, has a recommended shelf life of about two years from the manufacturing date, according to the FAQs provided by ChapStick. However, the effectiveness of the SPF and the overall quality of the product can degrade over time, especially if it is exposed to heat or direct sunlight, which can cause the ingredients to break down.

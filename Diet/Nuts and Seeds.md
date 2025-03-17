@@ -1,0 +1,1 @@
+Nuts and seeds: Nuts and seeds, such as walnuts, almonds, and chia seeds, are high in antioxidants and healthy fats that can help reduce inflammation and improve liver function.
