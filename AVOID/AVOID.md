@@ -105,7 +105,6 @@ While frozen foods can offer convenience and a longer shelf life, it's essential
 
 ![pasteurization](<static/harms of pasteurization.jpg>)
 
-#
 ### Sugar Alternative
 
 ![Monk Fruit](<static/Monk Fruit.png>)

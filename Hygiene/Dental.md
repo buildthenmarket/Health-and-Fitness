@@ -269,3 +269,7 @@ Let me provide a comprehensive guide for improving dental health, including scie
 4. Limit acidic foods/drinks
 5. Get regular dental checkups
 6. Consider a tongue scraper for bacterial control
+
+## sparkling water
+
+The carbonation in seltzer water 100% has effects on dental health. The primary effect is its demineralization of enamel. Anything carbonated gets its fizziness from carbonic acid, which quite literally erodes enamel away."
