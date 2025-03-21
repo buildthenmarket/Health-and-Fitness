@@ -28,6 +28,27 @@ In essence, the saying emphasizes that intelligence is not a fixed state, but an
 
 The human brain is a complex organ divided into regions responsible for various functions, such as thought, emotion, movement, and memory. Here's a breakdown of major brain regions, their functions, and exercises to optimize each one's performance:
 
+Biomedical Neuroscience of Flow State
+
+In the context of biomedical science and neuroscience, disruptions to the train of thought during the achievement of a flow state can significantly impact creative work or complex tasks like coding. Flow states are characterized by a high level of concentration and engagement, where the individual is fully immersed in the task at hand, often leading to enhanced performance and creativity.
+
+However, maintaining a flow state can be challenging, especially in biomedical science where tasks often require deep cognitive processing and problem-solving skills. According to research, the brain's default mode network, which is active when the brain is at rest and not focused on the external environment, plays a crucial role in creative thought. This network is associated with daydreaming and letting the mind wander, which can spark creative insights and help maintain the flow state during complex tasks (1).
+
+Neuroscience studies have shown that the interaction between the brain’s executive network and the imagination network is essential for balancing focused thought and free-flowing creativity. These networks work together to facilitate creative thinking and problem-solving, which are critical for tasks like coding and other complex work in biomedical science (1).
+
+When disruptions occur, such as interruptions or distractions, the flow state can be broken, leading to a loss of concentration and potentially reducing the quality and efficiency of the work. To mitigate these disruptions, strategies such as mindfulness training, which enhances flow state and mental health, can be beneficial (2).
+
+In the context of coding and creative work in biomedical science, creative coding activities can help build coding skills and foster a sense of satisfaction and achievement. However, these activities often require a balance between challenge and skill to maintain the flow state. If the task is too easy, it can lead to boredom, and if it is too difficult, it can cause anxiety, both of which can disrupt the flow state (3).
+
+Understanding the neuroscience behind flow states and applying this knowledge can help in developing strategies to enhance creative thinking and maintain the flow state during complex tasks. This includes using techniques like neurofeedback to monitor and alter brainwave patterns associated with heightened creativity, such as increasing theta waves, which are linked to deep relaxation and the mental state right before sleep (1).
+
+In summary, disruptions to the train of thought during flow states can significantly affect creative work and complex tasks like coding in biomedical science. By leveraging the insights from neuroscience, such as the role of the default mode network and the balance between focused and free-flowing thought, individuals can better maintain and enhance their flow state, leading to improved performance and creativity.
+
+(1) https://buildingbetterbrains.com.au/the-fascinating-link-between-neuroscience-and-creativity/ 
+(2) https://www.medicalnewstoday.com/articles/flow-state 
+(3) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10099880/ 
+
+
 ## Cerebrum
 
 ### Function:
