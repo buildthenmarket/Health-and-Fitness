@@ -1,5 +1,7 @@
 # teres major muscles:
 
+[dumbbell no bench](https://www.instagram.com/reel/C3VFOYRsJWl/)
+
 **Compound Exercises:**
 
 * **Pull-ups:** This classic exercise works your back muscles, including the teres major, lats, and biceps.
