@@ -28,7 +28,7 @@ In essence, the saying emphasizes that intelligence is not a fixed state, but an
 
 The human brain is a complex organ divided into regions responsible for various functions, such as thought, emotion, movement, and memory. Here's a breakdown of major brain regions, their functions, and exercises to optimize each one's performance:
 
-Biomedical Neuroscience of Flow State
+## Biomedical Neuroscience of Flow State
 
 In the context of biomedical science and neuroscience, disruptions to the train of thought during the achievement of a flow state can significantly impact creative work or complex tasks like coding. Flow states are characterized by a high level of concentration and engagement, where the individual is fully immersed in the task at hand, often leading to enhanced performance and creativity.
 
