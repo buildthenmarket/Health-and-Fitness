@@ -1,5 +1,9 @@
 # Vax
 
+## Placebo?
+
+![placebo](<static/vaccine placebo testing.jpg>)
+
 ![Virology](static/MSCI_Innovation-in-Virology_Main-Graphic.jpg)
 ![Top Prescription Drugs](static/The-Most-Prescribed-Drugs-in-the-U.S.-Main.jpg)
 ![Big Pharma](static/The-Worlds-50-Largest-Pharmaceutical-Companies-v3.jpg)

@@ -1,5 +1,7 @@
 # Contaminants
 
+![placenta](<static/autism increase.jpg>)
+
 - Neurotoxicity
 - Endocrine disruption
 - Cancer

@@ -1,6 +1,8 @@
 # Microplastics and Nanoplastics
 
-## cooking utensils 
+![receipts](<static/Bisphenol A - Why You Should Never Touch Receipts.png>)
+
+## cooking utensils
 
 Black Plastic Spatula Chemicals
 
