@@ -4,13 +4,17 @@
 
 > 60 Seconds of Exercise Erases 14 Minutes of Sitting
 
-## Pull up
+## UPPER BODY
+
+### DIPs
+
+### Pull up
 
 [![gironda pull-up](https://img.youtube.com/vi/1eaSBe7OsjM/0.jpg)](https://www.youtube.com/watch?v=1eaSBe7OsjM)
 
-## Push ups
+### Push ups
 
-## Burpee
+### Burpee
 
 - high plank to single arm row
 - High plank to low squat
@@ -86,6 +90,10 @@ Isometric exercises are a great way to supplement your regular workout routine o
 **How to:** Stand about a foot away from a wall, back to the wall. Lean back until your back comes in contact with the wall. Keeping your spine pressed flat against the wall, bend your knees and lower until quads are parallel to the floor, knees are over toes, and you are in a sitting position. Hold 30 to 60 seconds.
 
 ## Leg
+
+ankle weights
+
+## CALF RAISES
 
 ## Squat Variations
 
