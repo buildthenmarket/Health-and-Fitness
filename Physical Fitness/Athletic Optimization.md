@@ -12,7 +12,13 @@ Scientific research suggests that the best time of day to work out can vary base
 
 - **Consistency and Personal Preference**: The most important factor is finding a time that fits your schedule and aligns with your energy levels and preferences. Consistency is key, as regular exercise at the same time of day can help your body adapt and optimize performance
 
-In summary, while there are benefits to exercising at different times of the day, the best time ultimately depends on your individual goals and lifestyle. Whether you choose morning, afternoon, or evening, the key is to maintain a consistent routine.
+| SUN | MON | TUE | WED | THU | FRI | SAT |
+| --- | --- | --- | --- | --- | --- | --- |
+| LEGS | | HOOP | CHEST | HOOP | PLIAMETRICS | HOOP
+| ABS | mon | tue | WED | | MMA
+| SHOULDERS / LATS
+| STRETCH 15 MIN
+| STRENGTH 15 MIN
 
 ## strength training can enhance weight loss
 
