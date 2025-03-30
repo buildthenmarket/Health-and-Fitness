@@ -51,6 +51,21 @@
 
 ### Rub feet epsom salt
 
+### expiration date
+
+The lifespan of PROcure Science+Nature Epsom Salt Rub Gel isn't tied to a strict expiration date because Epsom salt (magnesium sulfate), its primary active ingredient, is a stable mineral compound that doesn't naturally degrade or spoil over time under normal conditions. Unlike organic products, it doesn't support microbial growth or break down chemically, so it can theoretically last indefinitely if stored properly. However, practical usability depends on a few factors specific to this gel formulation.
+The product itself---a 6 oz tube---doesn't list an expiration date on its packaging, which aligns with Epsom salt's inherent longevity. That said, it's not just Epsom salt; it's a gel with additional ingredients like aloe vera, glycerin, essential oils (e.g., wintergreen, tea tree, lavender), and water. These components can influence shelf life:
+
+-   Aloe vera and water: These introduce moisture, which could potentially allow mold or bacteria to grow if the tube is contaminated (e.g., by dirty hands) or improperly sealed. The preservatives (phenoxyethanol, caprylyl glycol) are there to prevent this, and they're typically effective for 2-3 years in cosmetics.
+
+-   Essential oils: These can oxidize or lose potency over time, especially if exposed to air, heat, or light, but this would only affect fragrance or minor soothing effects, not the core Epsom salt function.
+
+-   Gel consistency: The xanthan gum and other stabilizers might break down after several years, making the texture less appealing (e.g., watery or clumpy), but this doesn't mean it's unsafe or ineffective.
+
+User reviews on platforms like Amazon suggest it remains effective for years. Some report using tubes purchased 2+ years ago with no loss in muscle-soothing ability, as long as it's still a gel and not visibly spoiled (e.g., no odd smell, color change, or mold). PROcure's FAQ doesn't specify a shelf life, but they note 50+ applications per tube, implying it's designed to last a while with occasional use.
+For a definitive lifespan: If unopened and stored in a cool, dry place (away from humidity or extreme heat), it's likely good for 3-5 years or more, based on typical cosmetic preservative efficacy and Epsom salt's stability. Once opened, aim to use it within 1-2 years for optimal quality, though it could still work beyond that if it looks and smells fine. Check for off odors, separation, or discoloration as signs it's past its prime---though these are rare with proper storage.
+So, practically speaking, your 15-year-old glasses might outlast a tube's ideal condition, but the Epsom salt gel itself doesn't "expire" in a traditional sense. Have you noticed any changes in your tube's texture or smell yet? That'd give a clue if it's still kicking.
+
 ### bath recipe 1
 
 - tea tree oil 60 drops

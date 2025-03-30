@@ -1,0 +1,4 @@
+- Deductive reasoning
+- inductive reasoning
+- analogical reasoning
+- casual reasoning

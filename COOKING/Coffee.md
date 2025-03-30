@@ -61,6 +61,12 @@ By implementing these ideas, you can significantly improve the freshness and fla
 
 Espresso and black coffee are both made from coffee beans but differ in their preparation methods and characteristics. Espresso is made by forcing pressurized hot water through finely ground coffee beans, resulting in a concentrated shot of coffee with a thick texture and a layer of crema on top Black coffee, on the other hand, is simply coffee brewed without any additives like milk or sugar, using a coarser grind and a longer brewing time Espresso has a stronger flavor and higher caffeine concentration per serving due to its concentrated nature, while black coffee tends to have a milder taste and a larger serving size
 
+## Espresso Machine
+
+### Can I Reuse Espresso Grounds?
+
+Using the same grounds that are already loaded in your espresso machine to make another cup is not recommended. Espresso grounds are designed to be used for one extraction per portafilter filling, and reusing them would result in increasingly weaker brews with unpleasant flavors, such as excessive bitterness or sour notes Each cup of espresso should ideally be made with fresh grounds to ensure the best taste and quality.
+
 ## Coffee Alternatives
 
 There are several vegan coffee alternatives available that can satisfy your caffeine cravings or provide a similar experience without the caffeine. Here are some popular options:
