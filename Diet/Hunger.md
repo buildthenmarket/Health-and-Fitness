@@ -21,7 +21,7 @@ Overall, understanding the interplay between ghrelin and dopamine can help you m
 
 ## glycemic index
 
-Training yourself to eat slowly and consume smaller portions while extending your fasting periods requires mindfulness and gradual adjustment. Here are some strategies:
+## mindful eating
 
 ### 1. **Practice Mindful Eating**
    - Focus on the sensory experience: notice the taste, texture, and smell of each bite.
@@ -52,6 +52,8 @@ Training yourself to eat slowly and consume smaller portions while extending you
    - Learn the difference between true hunger and cravings. Fasting helps refine this awareness over time.
    - Stop eating when you feel about 80% full, rather than waiting until you're stuffed.
 Yes, hunger comes in different forms, and understanding these types can help you manage them effectively. Here are some common types of hunger and their signals:
+
+## Types of hunger
 
 ### **1. Physical Hunger**
 This is your body's actual need for fuel and nutrients. It often develops gradually and can include:
