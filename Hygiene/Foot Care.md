@@ -48,8 +48,31 @@
 - **Hygiene:** Keep your footbath and scrubber clean to prevent the growth of bacteria and fungi.
 - **Skin Sensitivity:** If you have sensitive skin, use a mild soap or foot cleanser and avoid harsh scrubbing.
 - **Medical Conditions:** If you have diabetes or other medical conditions that affect your feet, consult with your doctor before using a footbath or scrubber.
+A foot scrubber typically has two sides: **a coarse side** and **a finer side**. Here’s how to use each effectively:  
 
-### Rub feet epsom salt
+## Foot Scrubber
+
+1. **Soak Your Feet**  
+   - Fill a basin with warm water and soak your feet for **10–15 minutes** to soften the skin. You can add Epsom salt or a foot soak solution for better results.  
+
+2. **Use the Coarse Side First (Rough Side)**  
+   - This side is usually **grittier** and is designed for **removing thick calluses and dead skin**.  
+   - Gently scrub rough areas, focusing on the **heels, balls of the feet, and sides of the big toes**.  
+   - Use firm but controlled pressure in a **back-and-forth or circular motion** until the dead skin starts sloughing off.  
+
+3. **Use the Fine Side (Smoother Side) Next**  
+   - This side is **less abrasive** and is meant for **smoothing out** any remaining rough patches.  
+   - Lightly buff the entire sole of your foot to refine the skin and create a soft finish.  
+   - This step also helps prevent excessive dryness or irritation.  
+
+4. **Rinse & Moisturize**  
+   - Rinse your feet with warm water to remove debris.  
+   - Pat them dry and apply a **rich foot cream or oil** to lock in moisture.  
+   - Consider wearing socks overnight to enhance absorption.  
+
+**Tip:** If using a pumice-based foot scrubber, avoid over-scrubbing to prevent irritation. Use it **1-2 times per week** for maintenance.
+
+## Rub feet epsom salt
 
 ### expiration date
 
