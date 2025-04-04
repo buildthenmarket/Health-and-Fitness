@@ -5,11 +5,13 @@
 - [HIIT](https://www.instagram.com/reel/C5Lg21YLpXW/)
 - [3 moves](https://www.instagram.com/reel/C5je2ZgSWeb/)
 
-## DUMBBELL REVERSE LUNGE WITH SHOULDER PRESS
+## Legs
+
+### DUMBBELL REVERSE LUNGE WITH SHOULDER PRESS
 
 [![DUMBBELL REVERSE LUNGE WITH SHOULDER PRESS](https://img.youtube.com/vi/8uI0l7gCutA/0.jpg)](https://www.youtube.com/watch?v=8uI0l7gCutA)
 
-## Squats
+### Squats
 
 [![Dumbbell Squat Clean & Press](https://img.youtube.com/vi/bO0k19mG3sA/0.jpg)](https://www.youtube.com/watch?v=bO0k19mG3sA)
 
@@ -25,11 +27,15 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 
 [![Youtube - Clench Fitness](https://img.youtube.com/vi/PM4PMHEIjmM/0.jpg)](https://www.youtube.com/watch?v=PM4PMHEIjmM)
 
-## Biceps curl
+## Upper Body
 
-## Floor chest press
+[![Dumbbell Press](https://img.youtube.com/vi/z6A4W5Dib28/0.jpg)](https://www.youtube.com/watch?v=shorts/z6A4W5Dib28)
 
-## FLYs / Rows
+### Biceps curl
+
+### Floor chest press
+
+### FLYs / Rows
 
 ### Bent-Over Row
 
@@ -67,11 +73,11 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 
 ![dumbbell swings](static/image-2.png)
 
-## Butterfly sit-ups
+### Butterfly sit-ups
 
 Butterfly sit-ups remove your hips from the equation, fully loading your ab muscles during the exercise. Sit-ups target the rectus abdominis, transverse abdominis, and internal and external obliques, making the move a total ab attack. Having a wall in front of you helps support your feet and forces you to reach forward at the top, achieving a fuller range of motion.
 
-## seated windshield wipers
+### seated windshield wipers
 
 ## Farmer's Walk
 
