@@ -12,6 +12,8 @@
 
 ## Eisenhower Matrix
 
+[![tutorial 2 min 30 s](https://img.youtube.com/vi/tT89OZ7TNwc/0.jpg)](https://www.youtube.com/watch?v=tT89OZ7TNwc)
+
 Eisenhower Matrix
 
 - Besides filtering out incoming tasks that are neither urgent nor important, discover and stop bad habits, like surfing the internet without a reason or gaming too long.
