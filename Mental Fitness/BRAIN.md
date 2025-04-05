@@ -76,6 +76,8 @@ Planning, decision-making, self-control, and social interactions.
 
 • Planning Exercises: Use planners or apps to organize daily tasks effectively-plan for the week/bare-minimum have the next day planned out the previous night.
 
+**Prefrontal Cortex Dysfunction:** The prefrontal cortex, responsible for executive functions like planning, decision-making, and inhibiting inappropriate responses, is often implicated in both OCD and the aftermath of trauma. Dysfunction in this area can impair the ability to regulate anxiety and resist compulsive urges.
+
 ## Motor Cortex (Frontal Lobe)
 
 ### Function:
@@ -174,6 +176,8 @@ Processes emotions like fear, anger, and pleasure.
 
 • Mindful Exposure: Gradually confront fears in a controlled way to reduce emotional reactivity.
 
+**Amygdala Hyperactivity:** Both trauma and OCD are associated with increased activity in the amygdala, the brain region involved in processing fear and threat. Past trauma can sensitize the amygdala, leading to heightened anxiety responses, which might then trigger compulsive behaviors aimed at reducing this anxiety.
+
 ## Brainstem
 
 ### Function:
@@ -199,6 +203,8 @@ Coordinates voluntary movements and habits.
 • Repetitive Practice: Practice motor skills or repetitive tasks for efficiency.
 
 • Habit Formation: Establish positive routines to reinforce good habits.
+
+**Basal Ganglia Abnormalities:** The basal ganglia play a crucial role in habit formation and repetitive behaviors, which are central to OCD. Research suggests that trauma can impact the development and function of these circuits, potentially contributing to the development of compulsions.
 
 ## Corpus Callosum
 
