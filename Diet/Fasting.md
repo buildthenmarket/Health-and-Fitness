@@ -108,3 +108,8 @@ It's an oversimplification to pinpoint *one specific part* of the brain for each
 * While persistent hunger signals *can* be distracting and contribute to a feeling of being unable to focus (a type of fog), the primary *metabolic* brain fog of early ketosis is more directly related to the fuel switch (glucose to ketones) and electrolyte shifts, rather than the ghrelin signal itself. The clarity phase occurs when the brain is running well on ketones, often *despite* ongoing (though sometimes lessening) ghrelin signals.
 
 In summary, the paradox is resolved by understanding the **timing**: Brain fog is often a temporary side effect of the *transition* into ketosis, while mental clarity is a potential benefit once the brain becomes *adapted* to efficiently using ketones as its primary fuel source.
+
+## Citations
+
+<https://pubmed.ncbi.nlm.nih.gov/35487190/>
+<https://www.cell.com/cell/fulltext/S0092-8674(22)00398-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422003981%3Fshowall%3Dtrue>
