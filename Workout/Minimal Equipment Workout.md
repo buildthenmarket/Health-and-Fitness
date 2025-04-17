@@ -1,4 +1,12 @@
-# Dumbbell
+# Minimal Equipment Workout
+
+## Squat Wedge
+
+[![](https://img.youtube.com/vi/LGdA5--Jr14/0.jpg)](https://www.youtube.com/watch?v=shorts/LGdA5--Jr14)
+
+[![Pro-tips for Better Squats using Squat Wedges](https://img.youtube.com/vi/J5PI6owAQO4/0.jpg)](https://www.youtube.com/watch?v=J5PI6owAQO4)
+
+## Dumbbell
 
 ## full body workouts
 
