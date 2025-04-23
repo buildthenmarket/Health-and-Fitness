@@ -60,32 +60,18 @@ Clothing, cleaning tools (e.g. cleaning cloths) and linens readily become contam
 - risk targets, risk reduction
 - quantitative microbial risk assessment (QMRA)
 
-## Men's Underwear
+## Lifespan of Apparel
 
-The frequency of replacing polyester boxer briefs can depend on several factors, including hygiene, usage, and personal comfort. Here are some considerations based on microbial science:
 
-**Lifespan of Underwear**: A good rule of thumb is to replace them every 6 to 12 months, depending on wear and tear.
-
-**Signs of Wear**: Look for signs such as fading, loss of elasticity, or persistent odors even after washing, which can indicate it's time for a replacement.
-
-Underwear Lifespan Factors
+### Lifespan Factors
 
 1. **Microbial Growth**: The frequency of washing and drying, as well as the type of detergent and water temperature, can impact the growth of microorganisms like bacteria and fungi. Proper washing and drying can reduce microbial growth, extending the lifespan of underwear.
 2. **Materials**: The type of fabric used in underwear construction can affect its lifespan. Natural fibers like cotton and bamboo tend to be more breathable and less prone to microbial growth than synthetic fibers like polyester and nylon. However, some synthetic fibers may be treated with antimicrobial agents to inhibit growth.
 3. **Usage and Care**: The frequency and duration of wear, as well as how underwear is stored and cared for, can impact its lifespan. Daily wear and tear, combined with inadequate washing and drying, can reduce the lifespan of underwear.
 4. **Heat and Moisture**: Exposure to heat and moisture can accelerate microbial growth and degradation of materials. Avoiding high temperatures during washing and drying, and storing underwear in a well-ventilated area, can help prolong its lifespan.
-
-**Estimated Lifespan of Underwear**
-
-- Based on proper care and usage, underwear made from natural fibers like cotton and bamboo can last:
-  - 6-12 months with daily wear
-  - 1-2 years with occasional wear
-- Underwear made from synthetic fibers like polyester and nylon can last:
-  - 3-6 months with daily wear
-  - 6-12 months with occasional wear
-- Period underwear, specifically designed for menstrual protection, can last:
-  - 6-12 months with daily wear
-  - 1-2 years with occasional wear, depending on the manufacturer's recommendations and proper care
+5. **Visible signs of wear and tear**:  Look for signs such as fading, loss of elasticity, or persistent odors even after washing. If your socks show significant signs of wear, such as holes, fraying, or excessive pilling, it's time to replace them, regardless of their microbial contamination.
+- **Odor and appearance**: If your socks develop an unpleasant odor or appear visibly dirty, it's likely that microbes have accumulated. In this case, it's recommended to wash them in hot water (at least 60°C/140°F) and dry them in the sun to reduce microbial survival.
+- Remember that some microbes can survive for extended periods on socks, even after washing. To minimize the risk of microbial transmission, prioritize regular washing, drying, and replacement of your socks.
 
 **Antimicrobial Technologies**
 
@@ -95,21 +81,19 @@ Some underwear manufacturers incorporate antimicrobial agents into their product
 - Triclosan-based additives
 - Nanotechnology-based antimicrobial coatings
 
-**Conclusion**
-
-The lifespan of underwear is influenced by a combination of factors, including microbial growth, materials, usage, and care. Proper care and storage, as well as the use of antimicrobial technologies, can help extend the lifespan of underwear. Estimated lifespans vary depending on the type of fabric and usage, but generally range from 6 months to 2 years.
-
-## Socks
-
-According to the search results, the lifespan of socks can vary, but it's generally recommended to replace them every 3-6 months to maintain freshness and hygiene.
-
-**When to Throw Out Socks with Microbes** Based on the information, it's essential to consider the following:
-
-- **Visible signs of wear and tear**: If your socks show significant signs of wear, such as holes, fraying, or excessive pilling, it's time to replace them, regardless of their microbial contamination.
-- **Odor and appearance**: If your socks develop an unpleasant odor or appear visibly dirty, it's likely that microbes have accumulated. In this case, it's recommended to wash them in hot water (at least 60°C/140°F) and dry them in the sun to reduce microbial survival.
-- **Regular replacement schedule**: Even if your socks don't show visible signs of wear, it's still recommended to replace them every 3-6 months to maintain hygiene and prevent the buildup of microbes.
-
-Remember that some microbes can survive for extended periods on socks, even after washing. To minimize the risk of microbial transmission, prioritize regular washing, drying, and replacement of your socks.
+| Apparel | Lifespan |
+| --- | --- |
+| **Men's Underwear** |  replace them every 6 to 12 months, depending on wear and tear.|
+| natural fibers like cotton and bamboo | 6-12 months with daily wear |
+| occasional wear | 1-2 years |
+| synthetic fibers like polyester and nylon | 3-6 months with daily wear |
+| occasional wear |  6-12 months |
+| Period underwear, specifically designed for menstrual protection | - 6-12 months with daily wear - 1-2 years with occasional wear, depending on the manufacturer's recommendations and proper care |
+| **Socks** | replace them every 3-6 months to maintain freshness and hygiene |
+| Shoes | 8-12 months (according to podiatrists) or 2.5 years (for work shoes) |
+| Sneakers | 9-10 months (based on heavy trail running use) or variable (depending on individual usage and quality) |
+| Sandals | Not specifically mentioned in the search results, but generally considered to have a shorter lifespan (6-12 months) due to exposure to water, UV rays, and wear on straps and soles. |
+| Slides | Similar to sandals, slides typically have a shorter lifespan (6-12 months) due to their lightweight construction and frequent use. |
 
 ## Nylon, Spandex, and Polyester: A Microbial Showdown for Athletic Wear
 
@@ -177,22 +161,6 @@ Polyester workout clothing typically lasts between 1 to 3 years,
 ## shoes, sneakers, sandals, slides
 
 Based on the provided search results, here's a breakdown of the average lifespan for different types of footwear:
-
-### Shoes
-
-8-12 months (according to podiatrists) or 2.5 years (for work shoes)
-
-### Sneakers
-
-9-10 months (based on heavy trail running use) or variable (depending on individual usage and quality)
-
-### Sandals
-
-Not specifically mentioned in the search results, but generally considered to have a shorter lifespan (6-12 months) due to exposure to water, UV rays, and wear on straps and soles.
-
-### Slides
-
-Similar to sandals, slides typically have a shorter lifespan (6-12 months) due to their lightweight construction and frequent use.
 
 Factors Affecting Lifespan
 

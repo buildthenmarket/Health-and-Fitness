@@ -19,7 +19,11 @@
 
 [![DUMBBELL REVERSE LUNGE WITH SHOULDER PRESS](https://img.youtube.com/vi/8uI0l7gCutA/0.jpg)](https://www.youtube.com/watch?v=8uI0l7gCutA)
 
-### Squats
+### Squat Variations
+
+- Bulgarian Split Squat
+
+[![How to Bulgarian Split Squat | 3 Simple Steps](https://img.youtube.com/vi/uODWo4YqbT8/0.jpg)](https://www.youtube.com/watch?v=shorts/uODWo4YqbT8)
 
 [![Dumbbell Squat Clean & Press](https://img.youtube.com/vi/bO0k19mG3sA/0.jpg)](https://www.youtube.com/watch?v=bO0k19mG3sA)
 
@@ -37,11 +41,25 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 
 ## Upper Body
 
+### Shoulders
+
+[![Top 4 Shoulder Exercises for 3D delts (dumbbells only)](https://img.youtube.com/vi/BOU37f-mPlc/0.jpg)](https://www.youtube.com/watch?v=shorts/BOU37f-mPlc)
+
 [![Dumbbell Press](https://img.youtube.com/vi/z6A4W5Dib28/0.jpg)](https://www.youtube.com/watch?v=shorts/z6A4W5Dib28)
 
 ### Biceps curl
 
-### Floor chest press
+### Chest
+
+### Push-up Variations
+
+- 
+
+#### Press Variations
+
+[![close grip / inner](https://img.youtube.com/vi/k5a_L2WoZVk/0.jpg)](https://www.youtube.com/watch?v=shorts/k5a_L2WoZVk)
+
+- Floor chest press
 
 ### FLYs / Rows
 
@@ -59,6 +77,8 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 ## Abs
 
 - DUMBBELL TORSO TWIST
+- boxer kick
+- ankle weights
 
 ### Russian Twist
 
