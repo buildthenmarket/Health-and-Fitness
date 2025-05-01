@@ -23,6 +23,63 @@ Biomedical science is a broad field that applies the principles of biology and o
 
 ![vegan animals are strong](static/Strong Herbivore Animals.png)
 
+Here are some top biomedical and pharmaceutical journals, publications, and books relevant to drug R&D, hormones, neuroscience, and athletic performance:
+
+**Top Journals and Publications:**
+
+**Drug Research & Development (R&D):**
+
+* **Nature Reviews Drug Discovery:** A leading journal providing high-impact reviews and perspectives on all aspects of drug discovery and development.
+* **Journal of Medicinal Chemistry:** Publishes original research on the design, synthesis, and biological evaluation of new chemical entities as potential drugs.
+* **Expert Opinion on Drug Discovery:** Offers expert reviews and opinions on emerging trends and novel strategies in drug discovery.
+* **Drug Delivery:** Focuses on the science and technology of drug delivery systems.
+* **International Journal of Pharmaceutics:** Covers fundamental and applied research in pharmaceutical sciences, including drug formulation and delivery.
+* **Journal of Pharmaceutical Sciences:** Publishes original research and reviews spanning the entire spectrum of pharmaceutical science and technology.
+
+**Hormones:**
+
+* **Endocrine Reviews:** Provides comprehensive and critical reviews of topics in endocrinology and metabolism.
+* **The Journal of Clinical Endocrinology & Metabolism:** A leading journal publishing original research on clinical and translational endocrinology.
+* **Molecular Endocrinology:** Focuses on the molecular and cellular mechanisms of hormone action.
+* **Endocrinology:** Publishes original, peer-reviewed articles on the latest advances in endocrine research.
+
+**Neuroscience:**
+
+* **Nature Neuroscience:** A high-impact journal publishing original research across the broad field of neuroscience.
+* **Neuron:** Features significant findings of broad interest across cellular, molecular, systems, and cognitive neuroscience.
+* **The Journal of Neuroscience:** Publishes a wide range of peer-reviewed articles spanning all areas of neuroscience.
+* **Brain:** A leading journal in neurology, publishing original research on all aspects of clinical and experimental neuroscience.
+* **Trends in Neurosciences:** Offers insightful reviews and perspectives on current topics in neuroscience.
+* **Molecular Psychiatry:** Focuses on the molecular, genetic, and cellular mechanisms underlying psychiatric disorders.
+
+**Athletic Performance:**
+
+* **British Journal of Sports Medicine:** A leading multidisciplinary journal covering sports and exercise medicine.
+* **Journal of Science and Medicine in Sport:** Publishes original research and reviews related to exercise science and sports medicine.
+* **The Journal of Strength and Conditioning Research:** Focuses on research related to strength training, conditioning, and sports performance.
+* **Exercise and Sport Sciences Reviews:** Provides comprehensive reviews of current research in exercise physiology, biomechanics, and behavioral aspects of sport.
+* **Sports Health:** An interdisciplinary journal focusing on sports medicine and athletic care.
+
+**Influential Books:**
+
+**Drug R&D:**
+
+* **Goodman & Gilman's: The Pharmacological Basis of Therapeutics:** A comprehensive textbook considered a foundational resource in pharmacology.
+* **Drug Discovery and Development:** Provides an overview of the entire drug development process, from target identification to clinical trials and regulatory affairs.
+* **Real World Drug Discovery:** Offers practical insights into the industrial drug discovery process from an experienced scientist.
+
+**Neuroscience:**
+
+* **Principles of Neural Science:** A comprehensive textbook covering the fundamentals of neuroscience.
+* **The Man Who Mistook His Wife for a Hat and Other Clinical Tales** by Oliver Sacks: A collection of fascinating case studies exploring neurological disorders.
+* **Behave: The Biology of Humans at Our Best and Worst** by Robert Sapolsky: Explores the biological underpinnings of human behavior.
+
+**Athletic Performance:**
+
+* **Physiology of Sport and Exercise:** A widely used textbook covering the physiological responses and adaptations to exercise and training.
+* **NSCA's Essentials of Sport Science:** Provides a comprehensive overview of the scientific principles underlying sports performance.
+* **The Sports Gene: Inside the Science of Extraordinary Athletic Performance** by David Epstein: Explores the complex interplay of genetics and environment in athletic success.
+
 ## Gorilla vs Human Teeth
 
 ![comparative anatomy](image-1.png)
