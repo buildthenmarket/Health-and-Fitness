@@ -1,3 +1,14 @@
+## burns
+
+1. **Avoid Picking**: Do not rupture the blister. Picking can lead to infection and delay the healing process.
+2. **Cleansing**: Gently clean the area with mild soap and water to reduce the risk of infection.
+3. **Moisture**: Apply a sterile, non-adhesive dressing to maintain a moist environment, which promotes healing.
+4. **Pain Management**: Use over-the-counter analgesics (e.g., ibuprofen or acetaminophen) to manage discomfort.
+5. **Monitoring**: Observe for signs of infection (increased redness, swelling, or pus). Seek medical attention if these occur.
+6. **Avoid Irritants**: Keep the area protected from further trauma and irritants until fully healed.
+
+## Strains and Sprains
+
 Soft tissue injury refers to damage to muscles, tendons, ligaments, fascia, and nerves. In professional athletes, these injuries are common due to the high physical demands and intense training routines. Here’s a breakdown of the biomedical science behind soft tissue injuries:
 
 ### Types of Soft Tissue Injuries
