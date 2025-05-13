@@ -22,6 +22,10 @@ Eisenhower Matrix
 
 ![Eisenhower Matrix](static/Eisenhower Matrix.png)
 
+### MIT stands for Most Important Tasks.
+
+This technique involves identifying the two or three most crucial tasks that need to be accomplished each day. The idea is to focus your energy on completing these high-priority items first before moving on to less important tasks. This ensures that you make progress on what truly matters.
+
 ## strategy for each personality
 
 ![strategy for each personality](<static/Time Management Strategy by Personality Type.png>)
