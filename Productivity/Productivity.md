@@ -148,10 +148,6 @@ Patrick Bet-David
 
 ![types of rest](./static/7%20Types%20of%20Rest.JPG)
 
-## Team games
-
-<https://garticphone.com>
-
 ## Holistic Approach
 
 - Sleep
