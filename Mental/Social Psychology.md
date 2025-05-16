@@ -1,5 +1,15 @@
 # Social Psychology
 
+## hedgehog dilemma
+
+A concept that speaks to the delicate balance between our need for connection and our desire for independence.
+
+Imagine a group of hedgehogs trying to survive a cold winter. To stay warm, they need to huddle together. However, the closer they get, the more they prick each other with their quills. If they stay too far apart, they'll freeze. The dilemma, then, is finding the optimal distance where they can share warmth without causing too much pain.
+
+Philosopher Arthur Schopenhauer famously used this analogy to describe the challenges of human intimacy.^1^ We crave closeness and understanding, yet our individual needs, vulnerabilities, and even our "prickly" personalities can make close relationships difficult and sometimes painful. We navigate this by finding a comfortable "social distance" that allows for connection without excessive discomfort.
+
+It's a reminder that all relationships require a degree of compromise and understanding to thrive! Anything else you'd like to explore about this idea?
+
 ![Media Bias](static/Media%20Problems.png)
 
 ## Recognizing Petty Behavior
