@@ -25,6 +25,30 @@ Heavy metals and aflatoxins are two significant contaminants that can pose healt
 - **Imported Chocolates**: Some may contain lead due to contamination during processing.
 - **Certain Vegetables**: Leafy greens and root vegetables grown in contaminated soil may accumulate heavy metals like cadmium.
 
+## Detecting and Avoiding Cadmium and Arsenic in Rice
+
+**Detection:**
+- **Check for Testing and Certifications:** Look for rice brands that provide third-party testing results for heavy metals or carry certifications indicating low heavy metal content.
+- **Origin Matters:** Rice grown in certain regions (e.g., parts of the U.S. South, India, Bangladesh, and China) may have higher arsenic or cadmium levels due to soil and water contamination. Prefer rice from regions with stricter environmental controls, such as California or some European countries.
+- **Product Labels:** Some brands label their rice as "low arsenic" or "tested for heavy metals." Review packaging or company websites for this information.
+
+**Avoidance:**
+- **Rinse Thoroughly:** Rinse rice several times before cooking to remove some surface contaminants.
+- **Cook with Excess Water:** Use a high water-to-rice ratio (e.g., 6:1), then drain the excess water after cooking. This can reduce arsenic content by up to 60%.
+- **Vary Your Grains:** Rotate rice with other grains like quinoa, millet, barley, or bulgur to reduce overall exposure.
+- **Choose White Rice Over Brown:** Brown rice tends to accumulate more arsenic and cadmium than white rice, as these metals concentrate in the outer layers.
+- **Limit Rice-Based Processed Foods:** Rice crackers, cereals, and snacks can also contain heavy metals—moderate your intake.
+
+**Summary Table:**
+
+| Step                  | Effectiveness | Notes                                      |
+|-----------------------|--------------|--------------------------------------------|
+| Rinse rice            | Moderate     | Removes some surface contaminants          |
+| Cook with excess water| High         | Significantly reduces arsenic              |
+| Choose origin wisely  | High         | California rice often lower in arsenic     |
+| Rotate grains         | High         | Reduces cumulative exposure                |
+| Prefer white rice     | Moderate     | Less arsenic/cadmium than brown rice       |
+
 ## Soy Protein Isolates
 
 Foods to Avoid with Soy Isolate
