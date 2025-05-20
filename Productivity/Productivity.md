@@ -1,5 +1,7 @@
 # Productivity
 
+![Carl Pullein](<static/Success and Failure.png>)
+
 ## The Productivity Wheel
 
 ![Productivity](static/The%20Productivity%20Wheel.png)
