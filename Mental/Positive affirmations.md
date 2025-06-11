@@ -1,7 +1,5 @@
 # Positive affirmations
 
-## Quotes
-
 - Health is wealth. You don’t want to be the richest man in the graveyard
 - Never get too hungry lonely angry or tired
 
@@ -9,6 +7,19 @@
 
 - you can't get too high, you can't get too low
 - i don't want the same things now that i've become a different animal
+
+## Toughness
+
+- Life is tough my darling, but so are you.
+
+## Motivation
+
+- If you give up it means you never wanted it.
+
+## Procrastination
+
+- **Banish Procrastination.** If you wait more than a week to get an idea done, abandon it.
+- You're never going to be 100% ready and that means every moment is the right time. if you want it, you just have to do it.
 
 ## Aging
 
@@ -47,6 +58,7 @@ Apply for that job. Date that person. Buy that plane ticket. Move to that city. 
 - I am kind and compassionate towards myself, acknowledging my strengths and weaknesses.
 - I am focused and determined, pursuing my goals and dreams with passion.
 - I am resilient and refuse to give up, even in the face of adversity.
+- Work while they sleep. Learn while they party. Save while they spend. Live like they dream.
 
 **Masculinity and Identity**
 
