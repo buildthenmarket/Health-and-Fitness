@@ -3,6 +3,14 @@
 ## Chair
 
 [![Chair Ab workout](https://img.youtube.com/vi/KLotHOIgc7s/0.jpg)](https://www.youtube.com/watch?v=shorts/KLotHOIgc7s)
+- dips
+- dips with leg lift
+- step-up
+- inverted shoulder press
+
+## Table
+
+- chin-ups
 
 ## Floor
 
