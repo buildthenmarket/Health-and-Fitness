@@ -1,5 +1,7 @@
 # Learning
 
+## Reading
+
 ![meme](static/Reading.jpeg)
 
 ![zone](<static/growth zone vs comfort zone.jpeg>)
