@@ -1,6 +1,8 @@
 # Mental Toughness
 
 - You can’t change the people around you but you can change the people around you
+- Your faith can move mountains and your doubt can create them.
+- The secret of change is to focus all of your energy not on fighting the old, but on building the new.
 
 ## Misery loves company
 
