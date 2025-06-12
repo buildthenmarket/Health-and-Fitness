@@ -40,6 +40,7 @@ Apply for that job. Date that person. Buy that plane ticket. Move to that city. 
 
 **Confidence and Self-Esteem**
 
+- Don't depend too much on anyone in this world. Even your shadow leaves you when you are in darkness.
 - I am strong and resilient, capable of handling any situation.
 - I am worthy of love and respect, regardless of my relationship status.
 - I trust myself and my abilities, making confident decisions.
