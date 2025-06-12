@@ -1,5 +1,7 @@
 # Time Management
 
+![techniques](static/time%20mgmt%20strategies.png)
+
 - Find your optimal "chunk"
 
 ## Time is a cost. Prepare just enough and do.
