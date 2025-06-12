@@ -1,8 +1,15 @@
-# Skin care routine
+# Skin / Dermatology
+
+## Pimples
+
+![Pimples](static/pimples.png) 
+![Pimples](<static/pimple types.png>)
+
+## Skin care routine
 
 Keep skin moist. Stay away from taking long, hot showers or baths. Limit them to 5 to 10 minutes and use warm water, not hot. If your skin is often dry, think about washing with soaps that are labeled fragrance-free.
 
-## Does Ice Help Pimples?
+### Does Ice Help Pimples?
 
 Rubbing ice on your face can help with pimples by reducing redness, swelling, and pain, particularly in inflammatory-type pimples such as pustules and cysts The cold temperature from the ice causes blood vessels to constrict, which can help minimize the appearance of pores and reduce inflammation However, it is important to use the right technique to avoid damaging your skin. You should cleanse your face first and then wrap the ice in a clean, thin fabric before applying it to your face for 1-2 minutes at a time Avoid direct contact with the skin to prevent frostbite, ice burns, and other skin irritations
 
@@ -11,7 +18,7 @@ While ice can provide temporary relief and benefits for your skin, it is not a p
 - hot showers
 - Nutrient Deficiencies
 
-## Aztec Clay
+### Aztec Clay
 
 [![short](https://img.youtube.com/vi/Aa8AMqLtd0A/0.jpg)](https://www.youtube.com/watch?v=shorts/Aa8AMqLtd0A)
 
@@ -26,7 +33,7 @@ While ice can provide temporary relief and benefits for your skin, it is not a p
 - [zinc](https://www.medicalnewstoday.com/articles/263176)
 - [selenium](https://www.medicalnewstoday.com/articles/287842)
 
-## tea tree oil
+### tea tree oil
 
 Tea tree oil
 White toothpaste
@@ -35,7 +42,7 @@ Acne stickers
 3 steps
 Toner
 
-## Hyaluronic Acid
+### Hyaluronic Acid
 
 1. Exfoliating Scrub
 2. Charcoal cleanser
