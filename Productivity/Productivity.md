@@ -58,6 +58,8 @@ Anticipatory stress refers to the anxiety or tension experienced by workers in a
 
 1. **Negative impact on productivity**: Anticipatory stress can be detrimental to worker productivity in several ways. When individuals experience high levels of stress and anxiety about upcoming work-related events or tasks, it can impair their ability to concentrate, make decisions, and perform at their best. It may lead to feelings of overwhelm, decreased motivation, and difficulty in managing workload effectively. This can result in decreased productivity and quality of work.
 
+![lazy](static/lazy.png)
+
 2. **Procrastination and avoidance**: Anticipatory stress can sometimes lead to procrastination and avoidance behavior. Workers may delay starting or completing tasks due to the fear or anxiety associated with the anticipated stressor. This can further exacerbate productivity issues as deadlines approach and work piles up.
 
 3. **Impaired focus and attention**: When workers are preoccupied with anticipatory stress, their ability to concentrate and stay focused on their current tasks may be compromised. Their minds may be consumed with thoughts and worries about future events, making it challenging to be fully present and productive in the moment.
@@ -68,14 +70,12 @@ Anticipatory stress refers to the anxiety or tension experienced by workers in a
 
 To mitigate the negative impact of anticipatory stress on worker productivity, organizations can implement strategies like providing clear communication, setting realistic expectations, offering support and resources, encouraging work-life balance, and promoting stress management techniques such as mindfulness or relaxation exercises. Additionally, individuals can adopt practices such as effective time management, prioritization, and seeking social support to better cope with anticipatory stress and maintain productivity.
 
-1. [Quotables](#quotables)
-
 ## Mindfulness
 
 - burnout
 - rust-out | being underutilized, monotonous work, not meaningful. only 21% of people feel engaged at their jobs globally.
 
-![feelings affect behavior](<static/What we think affects.jpg>)
+![tips](static/productivity%20CEO%20tips.png)
 
 ## Quotables
 
