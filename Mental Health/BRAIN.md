@@ -48,6 +48,7 @@ In summary, disruptions to the train of thought during flow states can significa
 (2) https://www.medicalnewstoday.com/articles/flow-state 
 (3) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10099880/ 
 
+![](static/brain%20anatomy.png)
 
 ## Cerebrum
 

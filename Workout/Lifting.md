@@ -1,5 +1,7 @@
 # Lifting
 
+![](static/lifting%20schedule.png)
+
 ## Tips
 
 [![bench press wrist > bar grip](https://img.youtube.com/vi/lEsM8ytmZ18/0.jpg)](https://www.youtube.com/watch?v=shorts/lEsM8ytmZ18)

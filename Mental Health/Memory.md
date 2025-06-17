@@ -1,10 +1,8 @@
-# Human Memory: A Biomedical Perspective
-
-## Overview
+# Memory
 
 Human memory is a complex neurobiological process involving the encoding, storage, and retrieval of information. It relies on intricate networks of neurons, synaptic plasticity, and various brain regions, primarily the hippocampus, prefrontal cortex, and amygdala.
 
----
+![Memory](static/memory.png)
 
 ## Stages of Memory
 
@@ -52,10 +50,3 @@ Human memory is a complex neurobiological process involving the encoding, storag
 - **Cannabis (Weed) Interference:**  
   THC, the psychoactive component of cannabis, disrupts REM sleep and impairs memory consolidation. Chronic use is linked to deficits in learning and long-term memory formation.
 
----
-
-## References
-
-- Squire, L. R., & Dede, A. J. O. (2015). Conscious and unconscious memory systems. *Cold Spring Harbor Perspectives in Biology*, 7(3).
-- Zola, S. M., & Squire, L. R. (2000). The medial temporal lobe and the hippocampus. *Neuron*, 28(3), 653-656.
-- Curran, H. V., & Morgan, C. J. (2014). Memory for marijuana: Cannabis and memory in humans. *Current Opinion in Behavioral Sciences*, 1, 1-7.
