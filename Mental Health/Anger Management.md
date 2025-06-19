@@ -1,5 +1,7 @@
 # Anger management
 
+![](static/mental%20toughness.png)
+
 ## anger transference
 
 ![alt text](<static/anger transference birdstrup.jpg>)

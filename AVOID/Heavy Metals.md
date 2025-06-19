@@ -25,6 +25,10 @@ Heavy metals and aflatoxins are two significant contaminants that can pose healt
 - **Imported Chocolates**: Some may contain lead due to contamination during processing.
 - **Certain Vegetables**: Leafy greens and root vegetables grown in contaminated soil may accumulate heavy metals like cadmium.
 
+## Hershey's Chocolates
+
+Hershey's is facing a lawsuit over allegations that its dark chocolate bars contain heavy metals, specifically lead and cadmium. According to Consumer Reports, just one ounce of certain Hershey's Special Dark Mildly Sweet Chocolate, Lily's Extra Dark Chocolate 70% Cocoa, and Lily's Extreme Dark Chocolate 85% Cocoa exceeds California's maximum allowable dose levels (MADL) for these substances. The lawsuit seeks $5 million from Hershey's, claiming that its advertising and marketing campaign for the dark chocolate bars is "false, deceptive, and misleading."
+
 ## Detecting and Avoiding Cadmium and Arsenic in Rice
 
 **Detection:**

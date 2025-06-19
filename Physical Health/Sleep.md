@@ -1,5 +1,7 @@
 # Sleep
 
+![](static/types%20of%20rest.png)
+
 - **chronobiology**
 - irregularity in sleep timing and duration have been linked to metabolic abnormalities and higher cardiovascular disease risk
 

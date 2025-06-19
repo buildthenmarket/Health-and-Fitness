@@ -1,5 +1,7 @@
 # Emotional regulation
 
+![](static/EQ.png)
+
 ![upward spiral](static/spirals.png)
 
 ## humans suck at managing their emotions
