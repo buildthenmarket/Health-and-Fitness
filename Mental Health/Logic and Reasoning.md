@@ -4,3 +4,5 @@
 - inductive reasoning
 - analogical reasoning
 - casual reasoning
+
+![](static/decision%20making%20&%20emotional%20biases.png)
