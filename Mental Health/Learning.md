@@ -1,5 +1,7 @@
 # Learning
 
+![](static/rapid%20learning.png)
+
 ## Reading
 
 ![meme](static/Reading.jpeg)
