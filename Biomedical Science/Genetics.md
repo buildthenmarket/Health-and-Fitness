@@ -2,6 +2,8 @@
 
 ![evolution](static/evolution-from-single-cells.png)
 
+## gene-environment interactions
+
 ## Epigenetics
 
 Epigenetics is the study of changes in gene activity that do not involve alterations to the DNA sequence. These changes can influence how genes are expressed and can be passed on to daughter cells during cell division. Key mechanisms include DNA methylation, histone modifications, and non-coding RNA. These modifications can affect gene expression without changing the underlying DNA sequence, influencing traits and potentially being inherited across generations.
