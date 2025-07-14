@@ -1,0 +1,1 @@
+![](static/Types%20of%20Trauma.png)

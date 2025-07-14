@@ -15,6 +15,8 @@
 
 ## Shoulders
 
+![](static/Dumbbell%20Shoulder%20Workout.png)
+
 ### Arnold Press
 
 - [![Arnold Press](https://img.youtube.com/vi/Y5wWKbmzOUc/0.jpg)](https://www.youtube.com/watch?v=Y5wWKbmzOUc)

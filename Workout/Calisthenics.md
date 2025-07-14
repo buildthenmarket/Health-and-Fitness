@@ -14,6 +14,8 @@
 
 ### Push ups
 
+![](static/pushup%20variations.png)
+
 ### Burpee
 
 - high plank to single arm row
