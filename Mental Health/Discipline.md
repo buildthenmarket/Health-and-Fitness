@@ -2,6 +2,8 @@
 
 ![baby steps](<static/iterative approach.jpeg>)
 
+## Focus is about saying no
+
 ![discipline](<static/motivated vs discipline meme.jpeg>)
 
 ![discipline](static/discipline.jpg)
