@@ -98,14 +98,14 @@ References:
 
 ## Science of Yacon Benefits
 
-Yacon, scientifically known as Smallanthus sonchifolius, is a root vegetable native to the Andean regions of South America. It is rich in fructooligosaccharides (FOS) and inulin, which are types of carbohydrates that are not digested by the body but instead act as prebiotics in the gut, promoting the growth of beneficial bacteria like Bifidobacterium and Lactobacillus 
+Yacon, scientifically known as Smallanthus sonchifolius, is a root vegetable native to the Andean regions of South America. It is rich in fructooligosaccharides (FOS) and inulin, which are types of carbohydrates that are not digested by the body but instead act as prebiotics in the gut, promoting the growth of beneficial bacteria like Bifidobacterium and Lactobacillus
 
-The prebiotic properties of FOS in yacon can improve gut microflora by acting as a food source for good bacteria in the large intestine, which can enhance digestive health and support the immune system  Additionally, FOS can reduce the pH levels in the large intestine, which helps the body absorb minerals such as calcium, magnesium, and phosphorus 
+The prebiotic properties of FOS in yacon can improve gut microflora by acting as a food source for good bacteria in the large intestine, which can enhance digestive health and support the immune system  Additionally, FOS can reduce the pH levels in the large intestine, which helps the body absorb minerals such as calcium, magnesium, and phosphorus
 
-Yacon is also beneficial for blood sugar regulation due to its low glycemic index. The fructooligosaccharides and inulin in yacon prevent the absorption of simple sugars in the small intestine, potentially lowering glucose production in the liver and fasting glucose rates  This makes yacon a suitable dietary choice for individuals with diabetes or those looking to manage their blood sugar levels 
+Yacon is also beneficial for blood sugar regulation due to its low glycemic index. The fructooligosaccharides and inulin in yacon prevent the absorption of simple sugars in the small intestine, potentially lowering glucose production in the liver and fasting glucose rates  This makes yacon a suitable dietary choice for individuals with diabetes or those looking to manage their blood sugar levels
 
-Furthermore, yacon has been shown to aid in weight loss and suppress appetite, possibly due to its high fiber content and low caloric value  Studies have indicated that yacon syrup can promote weight loss and reduce insulin resistance, which may help in managing obesity 
+Furthermore, yacon has been shown to aid in weight loss and suppress appetite, possibly due to its high fiber content and low caloric value  Studies have indicated that yacon syrup can promote weight loss and reduce insulin resistance, which may help in managing obesity
 
-Yacon also offers potential cardiovascular benefits, as it contains potassium, which helps balance sodium levels in the body and maintain healthy blood pressure levels  This can reduce the risk of heart disease and stroke, particularly for individuals with hypertension 
+Yacon also offers potential cardiovascular benefits, as it contains potassium, which helps balance sodium levels in the body and maintain healthy blood pressure levels  This can reduce the risk of heart disease and stroke, particularly for individuals with hypertension
 
-In summary, the scientific benefits of yacon are rooted in its unique composition of FOS and inulin, which support digestive health, blood sugar regulation, weight management, and cardiovascular health 
+In summary, the scientific benefits of yacon are rooted in its unique composition of FOS and inulin, which support digestive health, blood sugar regulation, weight management, and cardiovascular health
