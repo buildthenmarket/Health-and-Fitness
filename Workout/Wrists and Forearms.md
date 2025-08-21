@@ -4,9 +4,17 @@
 
 [https://www.instagram.com/reel/C2-hzGYrlX9/](https://www.instagram.com/reel/C2-hzGYrlX9/)
 
-# Below are two ways to test your grip strength and three exercises to include in your training plan to improve it.
+![alt text](<static/forearm1.png>)
 
-## Grip Strength Test 1: Dead Hang Hold
+- zottman curl
+
+![grip crush](<static/grip crush.png>)
+
+- grip crush
+
+## Below are two ways to test your grip strength and three exercises to include in your training plan to improve it.
+
+### Grip Strength Test 1: Dead Hang Hold
 
 How long can you hold from a pull-up bar until your forearms start burning, or your grip gives out and you peel right off?
 
@@ -16,7 +24,7 @@ How long can you hold from a pull-up bar until your forearms start burning, or y
 - 2 -3 minutes: A --
 - 3 minutes or more: A +
 
-## Grip Strength Test 2: Farmer Carry
+### Grip Strength Test 2: Farmer Carry
 
 Can you farmer carry with your body weight (50 percent in each hand) for 50 meters without stopping?
 
