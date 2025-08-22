@@ -1,5 +1,7 @@
 # Critical Thinking Skills
 
+![Element of Critical Thinking](image.png)
+
 Increasing your mental toughness to resist propaganda and polarizing fake news involves several strategies. Here are some effective methods:
 
 1. **Critical Thinking Skills**: Develop your ability to analyze information critically. This includes questioning the sources of news, verifying facts, and considering multiple perspectives. Critical thinking helps you evaluate information objectively and avoid being swayed by emotional or misleading content.

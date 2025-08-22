@@ -1,4 +1,7 @@
 # Minimal Equipment Workout
+
+![Muscle Groups](image.png)
+
 ![full body workout](static/full%20body%20workout.png)
 ## Squat Wedge
 

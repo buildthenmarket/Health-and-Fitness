@@ -96,6 +96,8 @@ Essentially, self-reflection is a tool for personal growth and development. It h
 
 Inductive reasoning and critical thinking are both essential cognitive processes, but they differ in their approaches and goals.
 
+![reasoning](image-1.png)
+
 Inductive reasoning involves drawing general conclusions from specific instances or observations. It's a "bottom-up" approach, where we start with individual facts and gradually build towards a broader understanding or hypothesis. Inductive reasoning is often used in scientific inquiry, where researchers gather data and make educated guesses about underlying patterns or laws.
 
 Critical thinking, on the other hand, is a more comprehensive and nuanced process. It involves analyzing information, identifying biases and assumptions, evaluating evidence, and making informed judgments. Critical thinking is not limited to a specific method or approach; rather, it's a mindset that seeks to understand complex issues and arrive at well-supported conclusions.

@@ -12,6 +12,8 @@ Generally, research indicates an **inverse relationship between impulsivity and 
 
 - However, it's also important to note that the relationship isn't always straightforward or universally strong across all measures of impulsivity and intelligence. Some studies, particularly with high IQ individuals, have not found significant differences in IQ scores between "fast accurates" and "impulsives" (fast inaccurates), suggesting the distinction may be less useful in very high IQ ranges.
 
+![Emotional Intelligence](image-2.png)
+
 ### Intelligence and Emotional Regulation (Anger Triggers, Ragebait)
 
 While intellectual intelligence (IQ) and emotional intelligence are distinct, they often interact.
