@@ -1,5 +1,5 @@
 # Minimal Equipment Workout
-
+![full body workout](static/full%20body%20workout.png)
 ## Squat Wedge
 
 [![](https://img.youtube.com/vi/LGdA5--Jr14/0.jpg)](https://www.youtube.com/watch?v=shorts/LGdA5--Jr14)
