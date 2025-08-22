@@ -27,3 +27,7 @@ Here are some focus hacks that can help improve concentration and productivity:
 * **Visual Distractions**: Clear your workspace of clutter and face an empty wall if possible to minimize visual distractions.
 
 These strategies can be adapted to fit individual needs and preferences, enhancing focus and productivity.
+
+## Brain Rot Content
+
+[![Brainrot](https://img.youtube.com/vi/xn9fLrUQKEM/0.jpg)](https://www.youtube.com/watch?v=xn9fLrUQKEM)
