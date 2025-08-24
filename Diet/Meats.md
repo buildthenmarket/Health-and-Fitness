@@ -21,6 +21,10 @@ The article discusses the relationship between egg consumption, cholesterol, and
 
 However, individuals with certain health conditions, such as diabetes or high cholesterol, may need to limit their intake to 4-5 eggs per week. The yolk contains essential nutrients, so avoiding it entirely isn't recommended unless necessary for health reasons. Overall, eggs can be part of a healthy diet, but individual health factors should guide consumption levels.
 
+![eggs](static/Chicken-Eggs.png)
+
+![yolk color](static/Yolk-Color.png)
+
 ## Fish
 
 ![color](<static/fish - color.png>)

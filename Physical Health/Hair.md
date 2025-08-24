@@ -1,4 +1,77 @@
 # Hair
+1. Cut oxidative stress
+
+Processed food, sleep deprivation, and chronic stress all flood your body with free radicals.
+
+These damage melanocytes and destroy pigment.
+
+Avoid:
+• Seed oils
+• Excess alcohol
+• Late-night blue light
+
+It’s a cellular malfunction, a red flag that your body is under attack from the inside.
+
+Fix that, and your pigment can return.
+
+Your hair color comes from melanocytes, pigment-producing cells in your follicles.
+
+But melanocytes don’t just color your hair.
+
+They’re also part of your immune system.
+
+When they break down, your body isn't just losing pigment, it’s losing protection.
+
+2. Support catalase production
+
+Hydrogen peroxide builds up in your scalp and bleaches your hair from the inside.
+
+Catalase breaks it down, but levels drop with age.
+
+Eat more:
+• Broccoli • Garlic • Onions • Moringa
+
+3. Boost copper
+
+Copper activates tyrosinase, the enzyme that triggers melanin production.
+
+Great sources:
+• Liver
+• Cashews
+• Chickpeas
+• Dark chocolate
+• Moringa
+
+4. Don’t ignore methylation
+
+Poor methylation slows detox and weakens hair follicles.
+
+You need:
+• Folate (leafy greens)
+• B12 (eggs, meat)
+• Choline (egg yolks)
+
+5. Lower cortisol
+
+Chronic stress increases hydrogen peroxide in the scalp.
+
+To lower cortisol:
+• Get morning sun
+• Breathe through your nose
+• Walk after meals
+• Ditch caffeine after noon
+
+6. Check your thyroid
+
+Low thyroid function is often missed but it’s linked to early greying.
+
+Watch for:
+• Cold hands and feet
+• Fatigue
+• Mood swings
+• Dry skin
+
+Ask for TSH, Free T3, and Free T4, not just "normal" labs, see this video:
 
 ## Split Ends in Hair
 

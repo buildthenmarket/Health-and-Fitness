@@ -1,6 +1,6 @@
 # Meat
 
-![steroids](image-2.png)
+![steroids](static/Chicken-Steroids.png)
 
 ## Processed meat
 
@@ -70,3 +70,7 @@ NOCs are formed when nitrites, commonly used as preservatives in cured meats, re
 7. **Eat a Balanced Diet**: A diet rich in fruits and vegetables can help mitigate the harmful effects of N-nitroso compounds. These foods are high in antioxidants and can help neutralize the harmful effects of NOCs.
 
 By following these guidelines, you can reduce your exposure to N-nitroso compounds and minimize the associated health risks.
+
+## Omega 6 Fatty Acids
+
+![stress](static/Chicken-Stress.png)

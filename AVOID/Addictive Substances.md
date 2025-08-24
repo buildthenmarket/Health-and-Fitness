@@ -89,32 +89,32 @@ References:
 * **Individual Variability**: It's essential to note that individual variability plays a significant role in the effects of caffeine on cycling performance. Factors such as age, sex, and sensitivity to caffeine can influence the efficacy of caffeine in improving cycling performance.
 * **Meta-Analyses and Systematic Reviews**: Meta-analyses and systematic reviews have been conducted to examine the effects of caffeine on cycling performance. These studies have found that caffeine can have a significant ergogenic effect on muscle endurance, muscle strength, anaerobic power, and aerobic endurance, but the effects can vary depending on the dose and individual factors.
 
-## Fat / highly palatable (HP) foods
+## highly palatable (HP) foods
 
 Highly palatable foods—those rich in **sugar, fat, and salt**—are addictive because they hijack the brain's reward circuitry and neuroendocrine systems. This process creates a self-reinforcing cycle of craving and consumption that is physiologically and behaviorally similar to drug addiction.
 
-***
+![fast food kills you](<static/fast food costs long term.jpeg>)
 
 ### The Neuroendocrine Response
 
 The consumption of highly palatable foods triggers a complex physiological cascade that reinforces the behavior.
 
-- HP food motivation and intake and identify specific subjective and neuroendocrine responses that may play a role in HP snacking with implications for weight gain and obesity risk.
+* HP food motivation and intake and identify specific subjective and neuroendocrine responses that may play a role in HP snacking with implications for weight gain and obesity risk.
 
 * **Dopamine Release:** Eating these foods causes a rapid and powerful surge of dopamine in the **mesolimbic reward pathway**, particularly in the nucleus accumbens. This dopamine rush produces a feeling of pleasure and motivation, which conditions the brain to seek out the behavior again.
-    
-    * **Tolerance and Desensitization:** Chronic overconsumption of these foods leads to **downregulation of dopamine receptors**. The brain becomes desensitized to the reward signal, requiring larger quantities of food to achieve the same level of pleasure. This is a key hallmark of addiction, leading to a vicious cycle of increasing consumption to chase the initial "high."
+
+  * **Tolerance and Desensitization:** Chronic overconsumption of these foods leads to **downregulation of dopamine receptors**. The brain becomes desensitized to the reward signal, requiring larger quantities of food to achieve the same level of pleasure. This is a key hallmark of addiction, leading to a vicious cycle of increasing consumption to chase the initial "high."
 * **Opioid and Endocannabinoid Systems:** Highly palatable foods also stimulate the release of endogenous opioids (like endorphins) and endocannabinoids. These chemicals enhance the pleasurable sensations of eating and can further reduce an individual's inhibitions, contributing to a loss of control over consumption.
 * **Hormonal Dysregulation:** Highly palatable foods can disrupt the intricate balance of hormones that regulate appetite and satiety.
-    
-    * **Leptin and Ghrelin:** Hormones like leptin (the satiety hormone) and ghrelin (the hunger hormone) can become dysregulated. Elevated consumption of high-fat, high-sugar foods can lead to leptin resistance, meaning the brain no longer receives effective signals that the body is full. Simultaneously, ghrelin levels may remain high, continuously signaling hunger and driving cravings.
-    * **Insulin and Fructose:** The high glycemic load of sugary foods leads to a rapid insulin spike. While glucose stimulates insulin, which helps regulate satiety, fructose (often used in processed foods as high-fructose corn syrup) can bypass these satiety signals, promoting continued consumption beyond caloric needs. 
+
+  * **Leptin and Ghrelin:** Hormones like leptin (the satiety hormone) and ghrelin (the hunger hormone) can become dysregulated. Elevated consumption of high-fat, high-sugar foods can lead to leptin resistance, meaning the brain no longer receives effective signals that the body is full. Simultaneously, ghrelin levels may remain high, continuously signaling hunger and driving cravings.
+  * **Insulin and Fructose:** The high glycemic load of sugary foods leads to a rapid insulin spike. While glucose stimulates insulin, which helps regulate satiety, fructose (often used in processed foods as high-fructose corn syrup) can bypass these satiety signals, promoting continued consumption beyond caloric needs.
 
 ***
 
 ### The Behavioral Component
 
-- biobehavioral processes that may promote HP food craving and intake.
+* biobehavioral processes that may promote HP food craving and intake.
 
 The physiological changes lead to behavioral patterns that parallel those seen in substance use disorders.
 
@@ -125,6 +125,32 @@ The physiological changes lead to behavioral patterns that parallel those seen i
 
 These physiological and behavioral mechanisms create a powerful addiction loop that is difficult to break, highlighting the complex nature of food addiction as a public health challenge.
 
+## Fats & Cholesterol
+
+* **High omega-6 polyunsaturated fat intake**: That's one of the reasons why your proportion of omega-3 to omega-6 is so important, and why you should stay away from most vegetable oils.
+
+### Bacon
+
+* **Cholesterol**
+* the World Health Organization has classified bacon in the same category as tobacco when it comes to carcinogenesis
+
+### Trans Fats
+
+Milk, milk products and meat contain naturally occurring trans fats that are produced in the stomachs of grazing animals such as cows, goats and sheep. There is no known association between an increase in heart disease or arteriosclerosis with these naturally occurring fats, unlike the positive association seen with man-made trans fats
+
+1. Fried foods — like french fries, mozzarella sticks, and fish sticks
+2. Meat & Dairy
+3. Margarines and Vegetable Shortening
+4. packaged snack cakes, cookies, breads, muffins and pies often contain shortening or partially **hydrogenated oils**, laden with trans fats. Solid trans fats are more stable than liquid fats, allowing manufacturers to keep products on shelves longer without compromising flavor.
+5. Refrigerated dough products like pizza dough, cinnamon rolls and biscuits can also contain trans fat.
+6. **Cake Mixes and Frostings**
+7. **Frozen Foods**: Check the label for trans-fat-free products
+8. Liquid **coffee creamers** often contain partially hydrogenated oils, also known as trans fat. Powder creamers can contain trans fats as well to keep them on the shelves for months at a time.
+
+### Hydrogenated fats
+
+Hydrogenated fats are conclusively shown to increase mortality rates in population studies. It's important that consumers read the ingredient label on their packaged food products, because many popular consumer brands of products like peanut butter contain hydrogenated fats," says Paul, who advises avoiding these fats entirely.
+
 ## Sugar
 
 ![Sugar Meme](<static/Sugar leads to obesity Meme.png>)
@@ -133,26 +159,26 @@ These physiological and behavioral mechanisms create a powerful addiction loop t
 
 There is evidence suggesting that high sugar intake can slow down injury healing and muscle soreness recovery. Here's how:
 
-- **Increased inflammation:** Consuming too much sugar, particularly refined sugar and added sugars, can contribute to inflammation in the body [1]. Inflammation is a natural part of the healing process, but excessive inflammation can hinder tissue repair.
-- **Reduced blood flow:** High blood sugar levels can stiffen arteries and reduce blood flow [2]. This limits the delivery of essential nutrients and oxygen to the injured area, which are crucial for healing.
-- **Impaired immune function:** Sugar can potentially weaken the immune system's ability to fight off infection and promote healing [3].
+* **Increased inflammation:** Consuming too much sugar, particularly refined sugar and added sugars, can contribute to inflammation in the body [1]. Inflammation is a natural part of the healing process, but excessive inflammation can hinder tissue repair.
+* **Reduced blood flow:** High blood sugar levels can stiffen arteries and reduce blood flow [2]. This limits the delivery of essential nutrients and oxygen to the injured area, which are crucial for healing.
+* **Impaired immune function:** Sugar can potentially weaken the immune system's ability to fight off infection and promote healing [3].
 
 **Here's what the research suggests:**
 
-- Studies haven't directly looked at the effect of sugar on muscle soreness recovery, but the link between sugar and inflammation suggests it might play a role.
-- Research on diabetic wounds (where high blood sugar is a constant factor) shows delayed healing [4].
+* Studies haven't directly looked at the effect of sugar on muscle soreness recovery, but the link between sugar and inflammation suggests it might play a role.
+* Research on diabetic wounds (where high blood sugar is a constant factor) shows delayed healing [4].
 
 **Overall, limiting added sugar intake can likely benefit injury healing and muscle recovery by:**
 
-- Reducing inflammation
-- Improving blood flow
-- Supporting a healthy immune system
+* Reducing inflammation
+* Improving blood flow
+* Supporting a healthy immune system
 
 For optimal healing, focus on a balanced diet rich in:
 
-- **Lean protein:** Provides building blocks for tissue repair.
-- **Fruits and vegetables:** Deliver essential vitamins, minerals, and antioxidants.
-- **Whole grains:** Offer sustained energy and fiber.
+* **Lean protein:** Provides building blocks for tissue repair.
+* **Fruits and vegetables:** Deliver essential vitamins, minerals, and antioxidants.
+* **Whole grains:** Offer sustained energy and fiber.
 
 **Remember:** While sugar may slow healing, it's not the sole factor. Consult a healthcare professional for personalized guidance on injury recovery and a healthy diet.
 
@@ -160,23 +186,23 @@ For optimal healing, focus on a balanced diet rich in:
 
 Consuming foods with added sugars has been linked to an increased risk of metabolic disease, including insulin resistance, type 2 diabetes, and metabolic syndrome. Here are some common foods to limit or avoid:
 
-- **Processed meats**: Cured meats like hot dogs, bacon, and deli meats are high in sodium, which contributes to high blood pressure, and often contain added sugars.
-- **Packaged foods**: Many processed foods, such as packaged snacks, frozen meals, and instant soups, contain added sugars, refined carbohydrates, and unhealthy fats.
-- **Fast food**: Fast food meals often combine high amounts of sugar, salt, and unhealthy fats, increasing the risk of metabolic disease.
-- **Baked goods**: Cakes, muffins, cookies, and pastries are high in added sugars and refined carbohydrates, which can lead to insulin resistance and metabolic problems.
-- **Sweetened beverages**: Soda, sports drinks, and sweetened teas and coffee drinks are major sources of added sugars in the diet.
-- **Fruit juices**: While fruit is a healthy choice, fruit juices are often high in sugar and lack the fiber found in whole fruit.
-- **Granola and energy bars**: Many commercial granola and energy bars contain added sugars, making them a poor choice for those seeking to reduce sugar intake.
+* **Processed meats**: Cured meats like hot dogs, bacon, and deli meats are high in sodium, which contributes to high blood pressure, and often contain added sugars.
+* **Packaged foods**: Many processed foods, such as packaged snacks, frozen meals, and instant soups, contain added sugars, refined carbohydrates, and unhealthy fats.
+* **Fast food**: Fast food meals often combine high amounts of sugar, salt, and unhealthy fats, increasing the risk of metabolic disease.
+* **Baked goods**: Cakes, muffins, cookies, and pastries are high in added sugars and refined carbohydrates, which can lead to insulin resistance and metabolic problems.
+* **Sweetened beverages**: Soda, sports drinks, and sweetened teas and coffee drinks are major sources of added sugars in the diet.
+* **Fruit juices**: While fruit is a healthy choice, fruit juices are often high in sugar and lack the fiber found in whole fruit.
+* **Granola and energy bars**: Many commercial granola and energy bars contain added sugars, making them a poor choice for those seeking to reduce sugar intake.
 
 **Why Added Sugars Contribute to Metabolic Disease**
 
 Consuming high amounts of added sugars can:
 
-- Disrupt insulin signaling and lead to insulin resistance
-- Increase inflammation and oxidative stress
-- Contribute to weight gain and obesity
-- Raise blood pressure and cholesterol levels
-- Increase the risk of developing type 2 diabetes, metabolic syndrome, and cardiovascular disease
+* Disrupt insulin signaling and lead to insulin resistance
+* Increase inflammation and oxidative stress
+* Contribute to weight gain and obesity
+* Raise blood pressure and cholesterol levels
+* Increase the risk of developing type 2 diabetes, metabolic syndrome, and cardiovascular disease
 
 **Tips for Reducing Added Sugars**
 
