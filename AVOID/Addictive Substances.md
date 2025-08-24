@@ -1,18 +1,28 @@
-# Caffiene
+# US Population Addictions
 
-## Coffee and Rib Stiffness
+| Estimated # in Millions | Addiction |
+| ---- | --- |
+| ~3M | PORN |
+| ~25M |  Weed |
+| ~8M | Gambling |
+| 16M | Alcoholic |
+| 25M | "Hard Drugs" |
+| 56M | Nicotine / Tobacco |
+| 70M | Food / Obesity |
+
+## Alcohol
+
+Drinking alcohol can also cause brain atrophy, characterized by widespread white matter loss but limited gray matter loss. Chronic alcohol abuse has been shown to cause brain atrophy with widespread white matter loss, though there is no consistent evidence that smoking exacerbates alcohol-related brain damage.
+
+## Caffiene
+
+![caffiene](static/Caffiene.png)
+
+### Coffee and muscle Stiffness
 
 Coffee can contribute to rib stiffness and discomfort, particularly in individuals with conditions like costochondritis or intercostal muscle strain. The caffeine in coffee can cause muscle tension and stiffness, potentially exacerbating existing rib pain or discomfort
 
-In the context of costochondritis, which involves inflammation of the cartilage where the ribs attach to the breastbone, some people have noticed that their symptoms worsen after consuming caffeine This condition can cause sharp pain and tenderness around the chest, and activities that strain the chest muscles, such as deep breathing or exercise, can worsen the discomfort
-
-Intercostal muscle strain, which affects the muscles between two or more ribs, can also lead to stiffness and pain The intercostal muscles are essential for breathing and any injury or overexertion can result in strain or tearing, causing localized pain and difficulty in movement Caffeine-induced muscle tension can potentially aggravate this condition, leading to increased stiffness and discomfort
-
-To manage rib stiffness and pain, it is advisable to limit caffeine intake and incorporate rest, ice or heat therapy, and over-the-counter anti-inflammatory medications like ibuprofen Additionally, maintaining good posture, avoiding activities that strain the ribs, and engaging in regular exercise can help prevent and manage rib pain
-
-If the pain persists or is severe, medical attention should be sought to rule out more serious conditions and receive appropriate treatment
-
-## Adrenal Fatigue
+### Adrenal Fatigue
 
 Coffee and its effects on adrenal function have been a subject of interest in biomedical science, particularly in the context of adrenal fatigue. Adrenal fatigue is a term used in alternative medicine circles, but it is not recognized as a distinct medical condition by conventional medicine. According to Dr. Anat Ben-Shlomo, an endocrinologist at Cedars-Sinai, adrenal fatigue is a medical myth, despite its popularity in alternative medicine.
 
@@ -24,18 +34,7 @@ For individuals concerned about their adrenal health, it is advisable to evaluat
 
 In summary, while coffee can have effects on adrenal function, the relationship is nuanced and may not be as straightforward as the term "adrenal fatigue" suggests. Moderation and awareness of individual responses to caffeine are key in maintaining optimal adrenal health.
 
-## Coffee Mold Statistics
-
-Research indicates that mold, including mycotoxins like aflatoxin B1 and ochratoxin A, can be present in coffee beans. Here are some statistics:
-
-* **Brazil**: A study found that nearly all green coffee bean samples (over 90%) were contaminated with mold, and 33% contained low levels of ochratoxin A.
-* **Portugal**: 18% of roasted coffee bean samples analyzed contained ochratoxin A.
-* **Nayarit, Mexico**: A study collected 14 roasted coffee samples, from which 22 fungi isolates were related to the genera Aspergillus and Penicillium. Three strains tested positive for ochratoxin A (OTA) production.
-* **Global**: A 2013 study found that 27% of all roast coffees tested contained ochratoxin A, with beans from Chile having the highest concentrations.
-
-These statistics suggest that while mold and mycotoxins can be found in coffee, the levels are generally low and within safe limits.
-
-![caffiene](static/Caffiene.png)
+### sleepiness / alertness
 
 So how does caffeine wake you up? Your body naturally produces a chemical called adenosine. It builds up in your body during the day.
 
@@ -49,7 +48,7 @@ Caffeine also interacts with other chemicals in the brain. If you consume more t
 
 But caffeine doesn’t affect everyone the same way. That’s because people’s bodies can break it down at different speeds.
 
-## Effects of Long Term Caffeine Use
+### Effects of Long Term Caffeine Use
 
 Based on the provided search results, here are some potential harmful effects of long-term caffeine use:
 
@@ -80,7 +79,7 @@ References:
 10. (Title: "Caffeine and cardiovascular health")
 11. (Title: "Rhabdomyolysis and caffeine overdose")
 
-## Caffeine Cycling Effects Study
+### Caffeine Cycling Effects Study
 
 **Introduction to Cycling and Caffeine**: Cycling is a popular form of exercise that can be affected by various factors, including caffeine consumption. Caffeine is a widely used stimulant that can have both positive and negative effects on the body. Studies have investigated the efficacy of cycling on and off caffeine to reduce harmful effects.
 

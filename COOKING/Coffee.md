@@ -57,6 +57,17 @@ Here are some ideas to improve homemade coffee freshness:
 
 By implementing these ideas, you can significantly improve the freshness and flavor of your homemade coffee.
 
+### Coffee Mold Statistics
+
+Research indicates that mold, including mycotoxins like aflatoxin B1 and ochratoxin A, can be present in coffee beans. Here are some statistics:
+
+- **Brazil**: A study found that nearly all green coffee bean samples (over 90%) were contaminated with mold, and 33% contained low levels of ochratoxin A.
+- **Portugal**: 18% of roasted coffee bean samples analyzed contained ochratoxin A.
+- **Nayarit, Mexico**: A study collected 14 roasted coffee samples, from which 22 fungi isolates were related to the genera Aspergillus and Penicillium. Three strains tested positive for ochratoxin A (OTA) production.
+- **Global**: A 2013 study found that 27% of all roast coffees tested contained ochratoxin A, with beans from Chile having the highest concentrations.
+
+These statistics suggest that while mold and mycotoxins can be found in coffee, the levels are generally low and within safe limits.
+
 ## Coffee vs Espresso
 
 Espresso and black coffee are both made from coffee beans but differ in their preparation methods and characteristics. Espresso is made by forcing pressurized hot water through finely ground coffee beans, resulting in a concentrated shot of coffee with a thick texture and a layer of crema on top Black coffee, on the other hand, is simply coffee brewed without any additives like milk or sugar, using a coarser grind and a longer brewing time Espresso has a stronger flavor and higher caffeine concentration per serving due to its concentrated nature, while black coffee tends to have a milder taste and a larger serving size

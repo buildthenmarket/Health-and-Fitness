@@ -21,3 +21,5 @@ Learning styles such as auditory, visual, and kinesthetic are commonly discussed
 * **Kinesthetic Learners**: Also known as tactile learners, these individuals learn best through physical activity and hands-on experiences. They benefit from practical activities such as building models, role-playing, and experiments. Kinesthetic learners often need to move around or use their hands to understand and remember information.
 
 Recent studies have shown that while people may have preferences for these learning styles, there is little evidence to suggest that tailoring lessons specifically to match a particular learning style significantly improves learning outcomes. Instead, a blended approach that incorporates various methods is often recommended to cater to diverse learning needs.
+
+![Bloom's Taxonomy](static/image-3.png)
