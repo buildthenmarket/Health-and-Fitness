@@ -1,3 +1,5 @@
+![Range](image-1.png)
+
 It's an interesting premise to explore the relationship between impulsivity, intelligence, and reactions to anger triggers like "ragebait." Let's break down what research suggests:
 
 ### Impulsivity and IQ/Intelligence
