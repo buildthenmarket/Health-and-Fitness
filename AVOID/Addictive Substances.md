@@ -182,6 +182,10 @@ For optimal healing, focus on a balanced diet rich in:
 
 **Remember:** While sugar may slow healing, it's not the sole factor. Consult a healthcare professional for personalized guidance on injury recovery and a healthy diet.
 
+### High sugar problems
+
+**Diabetic Neuropathy:** Diabetic neuropathy is nerve damage caused by diabetes, affecting various types of nerves in the body, including those in the feet, organs, and muscles High blood sugar levels over time can damage the tiny blood vessels that supply nerves, particularly in the legs and feet This condition can lead to symptoms such as numbness, discomfort, or pain, especially in the feet While there is no cure for diabetic neuropathy, it can be managed through medication, therapies, and better blood sugar control Early diagnosis and treatment can improve quality of life and reduce the risk of complications
+
 ### Foods with Added Sugars to Avoid
 
 Consuming foods with added sugars has been linked to an increased risk of metabolic disease, including insulin resistance, type 2 diabetes, and metabolic syndrome. Here are some common foods to limit or avoid:

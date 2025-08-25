@@ -1,3 +1,13 @@
+## Stop Eating Late at Night
+
+When you eat late, your body’s still digesting while you sleep.
+
+This spikes blood sugar, stress hormones (cortisol), and insulin—three things that tell your body to *store* visceral fat around your organs.
+
+![glucose](image.png)
+
+## Muscle burns more calories at rest and makes your body better at using insulin
+
 Thirstiness, medically known as **polydipsia**, is a common indicator of elevated blood sugar levels, and while more pronounced in full-blown diabetes, it can also be a subtle sign of prediabetes. The science behind this phenomenon is primarily driven by the body's attempts to manage excess glucose in the bloodstream.
 
 Here's a breakdown of the process:

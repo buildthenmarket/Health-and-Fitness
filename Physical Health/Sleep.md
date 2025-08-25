@@ -1,5 +1,9 @@
 # Sleep
 
+## Brain Eats Itself When Sleepless
+
+When you lack sleep, your brain undergoes a process where it clears out synapses and synaptic connections, which can be beneficial in the short term as it helps to remove potentially harmful debris and rebuild worn circuitry. However, when you are chronically sleep-deprived, the brain's astrocytes, which are star-shaped glial cells, become overactive and start to break down more of the brain's connections and their debris. This process, known as phagocytosis, can lead to the destruction of both damaged and healthy neurons, which may cause harm in the long term and could increase the risk of neurological disorders like Alzheimer's disease.
+
 ![](static/types%20of%20rest.png)
 
 - **chronobiology**

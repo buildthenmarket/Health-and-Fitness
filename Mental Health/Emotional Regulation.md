@@ -128,6 +128,8 @@ The emotional blackmailer typically does not have any other coping or go-to meth
 
 ## Sensitive
 
+Control your emotional spikes
+
 ## Happiness
 
 - You're unhappy because you're not in alignment with who you are. Not because of what anyone else is doing. Now read that again.

@@ -42,3 +42,5 @@ Based on the provided search results, here's a summary of the science research r
 In summary, the science research suggests that serotonin plays a role in emotion regulation, self-regulation, and impulsivity, which are all relevant to discipline. However, the relationship between serotonin and discipline is complex and may depend on individual differences, context, and the specific mechanisms involved. Further research is needed to fully understand the relationship between serotonin and discipline.
 
 **neural coupling** aka mirroring: you feel sad, stressed, or scared during movies
+
+## Nervous system regulation
