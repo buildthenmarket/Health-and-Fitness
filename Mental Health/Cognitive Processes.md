@@ -86,17 +86,11 @@ When faced with troubles, AQ determines who will give up, who will abandon their
 
 Essentially, self-reflection is a tool for personal growth and development. It helps individuals to understand themselves better, make informed decisions, and build stronger relationships.
 
-## Analysis Paralysis
-
-![Analysis Paralysis Meme](<static/Analysis Paralysis Meme.png>)
-
-![circles](<static/going in circles meme.jpeg>)
-
 ## Inductive reasoning and critical thinking
 
 Inductive reasoning and critical thinking are both essential cognitive processes, but they differ in their approaches and goals.
 
-![reasoning](image-1.png)
+![reasoning](static/reasoning.png)
 
 Inductive reasoning involves drawing general conclusions from specific instances or observations. It's a "bottom-up" approach, where we start with individual facts and gradually build towards a broader understanding or hypothesis. Inductive reasoning is often used in scientific inquiry, where researchers gather data and make educated guesses about underlying patterns or laws.
 
@@ -126,30 +120,6 @@ Key characteristics:
 
 In summary, while inductive reasoning and critical thinking are distinct cognitive processes, they can inform and complement each other. The Socratic method is a specific approach to critical thinking that emphasizes questioning, dialogue, and understanding, and can be used to enhance both inductive reasoning and critical thinking.
 
-## Habits
-
-It takes an average of 18 to 254 days for a person to build a habit
-
-![Starfish Model for Building Better Habits](<static/Starfish Model for Building Better Habits.png>)
-
-In [The Power of Habit](http://dwight.eisenhower.me/l/fzy0DWYWTgTsDN8CwevfWw/8P892grZMjxyeTVslwwI8921TQ/763SrCH892w6zqpgjiosuagQGw "‌"), The New York Times bestselling author, Charles Duhigg gets into the science of habit formation in our lives and how to break a bad habit.
-
-**It takes three steps to identify and break a bad habit:**
-
-1. **Cue**: When, where, with whom, or after which activity do you feel the urge for your habit?
-2. **Reward**: What craving are you trying to satisfy?
-3. **Routine**: Can you train yourself to do something else that satisfies the same need?
-
-From there on remind yourself of each habit to end in your _Don’t Do_ quadrant. Duhigg even recommends a full sentence like “When (Cue), I will (Routine) because it provides me with (Reward)**”** to reprogram your brain.
-
-Obviously, changing some habits can be more difficult than others, but these three steps provide a way to start. Be patient with yourself. Sometimes it will require different approaches until you find a working replacement routine that is good for you.
-
-**Give it a try now with your worst habit** — one that really eats up lots of your valuable time or one that is negatively affecting your health.
-
-Quitting might never have been easier!
-
-Brain>thoughts/feelings/impulses>actions/habit>destiny>bolster your intuition
-
 ## Confirmation bias
 
 Confirmation bias is a cognitive bias that refers to the tendency of individuals to favor information or evidence that confirms their existing beliefs or preconceptions while disregarding or downplaying information that contradicts those beliefs. It can lead people to seek out and interpret information in a way that supports their existing views, while disregarding or dismissing information that challenges or contradicts their beliefs.
@@ -177,33 +147,3 @@ Research in psychology and linguistics has shed light on the cognitive processes
 **Conclusion**
 
 Thinking before you speak is a crucial aspect of effective communication. By understanding the cognitive processes involved and applying practical strategies, you can improve your ability to think before speaking. This can lead to more meaningful conversations, stronger relationships, and a reduced likelihood of regrettable statements.
-
-References:
-
-Fisher, W. (2020). How to (Really) Think Before You Speak. Headspace.
-
-Indurkhya, B. (2014). Language and Cognition. Routledge.
-
-Kamide, N., van der Meer, E., & Schriefers, H. (2003). The role of the listener's perspective in sentence production. Journal of Memory and Language, 49(2), 221-244.
-
-Levelt, W. J. M. (1989). Speaking: From intention to articulation. MIT Press.
-
-Sabla, P. (2020). How to Listen and Be Heard. Headspace.
-
-Weiss, L. (2020). The Power of Listening. Stanford Graduate School of Business.
-
-### Chinese people are more quieter than americans
-
-In summary, the combination of cultural values, social etiquette, education system, historical and societal factors, and individual differences all contribute to the perception that Chinese people are generally quieter than Americans. However, it's crucial to recognize that these are general trends and not universal truths.
-
-**Cultural Values**: In China, there is a saying, "the more you talk, the more mistakes you make." This emphasizes the importance of humility and avoiding unnecessary conversation. In contrast, Western cultures, including the United States, often value assertiveness and outspokenness. This cultural difference contributes to the perception that Chinese people are quieter.
-
-**Social Etiquette**: In China, maintaining harmony and avoiding conflict is crucial. This leads to a tendency to avoid speaking up or expressing opinions loudly, as it may be perceived as confrontational. In contrast, American culture tends to prioritize individuality and self-expression, which can result in more vocal and assertive interactions.
-
-**Education System**: In China, the education system emphasizes rote learning and respect for authority. This can lead to a focus on listening and observing rather than actively participating in class discussions. In contrast, American schools often encourage student participation and debate, which can foster a more vocal and expressive environment.
-
-**Historical and Societal Factors**: China's collectivist society, where group harmony is valued over individual expression, may also contribute to the quieter nature of Chinese people. Additionally, the country's recent rapid modernization and economic growth have brought about significant social and cultural changes, which may have influenced communication styles.
-
-**Individual Differences**: It's essential to note that these are general trends and not all Chinese people are quiet, just as not all Americans are loud. There is always a range of personalities and communication styles within any population.
-
-**Comparison in Different Contexts**: The search results also highlight that quietness can have different implications in different contexts. For example, in Asian-dominant preschools, quiet children may have fewer school problems and be more engaged in learning, whereas in American schools, quiet children may struggle more.

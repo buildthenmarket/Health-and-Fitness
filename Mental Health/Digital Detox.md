@@ -1,6 +1,6 @@
 # Critical Thinking Skills
 
-![Element of Critical Thinking](image.png)
+![Element of Critical Thinking](static/Critical-Thinking.png)
 
 Increasing your mental toughness to resist propaganda and polarizing fake news involves several strategies. Here are some effective methods:
 

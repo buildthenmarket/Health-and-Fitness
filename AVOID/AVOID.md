@@ -63,11 +63,6 @@ Frozen foods can be convenient, but they often come with potential health risks.
 
 [carmine color, natural red 4, cochineal extract](https://www.facebook.com/reel/1206039707134669)
 
-## Diet Soda
-
-- Phenylalanine is one of the breakdown products of aspartame, an artificial sweetener commonly used in diet sodas.
-- 4-methylimidazole (4-MI), which is a byproduct of the caramel coloring process used to give sodas their brown color.
-
 ## metabolic disease
 
 ### 3. Preservatives and Additives
@@ -202,10 +197,7 @@ Glyphosate’s use in the U.S. has skyrocketed since 1996, the year Monsanto int
 
 ![Toxicology of Food Dyes](<static/Toxicology of Food Dyes.png>)
 
-## Artificial Sweeteners
-
-![sweeteners](<static/artificial sweeteners.jpg>)
-
+#
 ## Toxic farming practices
 
 Various studies have reported pesticide levels in both human blood and urine, which are further found to be associated with multiple diseases, including cancer, diabetes, hormonal disorders, asthma, metabolic diseases, and neurotoxicity. Furthermore, prolonged exposure to pesticides was also found to have teratogenic effects resulting in a reduction in birth weight, abnormal growth, diseases, and mortality
