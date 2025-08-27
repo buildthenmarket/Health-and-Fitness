@@ -58,3 +58,7 @@ Collagen, a crucial protein for maintaining skin, joint, and bone health, is too
 
 By following these steps, you can create a delicious and nutritious bone broth that can be enjoyed as a meal or used as a base for other dishes.
 
+1.  **The Source is High-Risk:** Bone broth and collagen supplements are **concentrated sources of material known to bioaccumulate heavy metals**. Animals (both cows and chickens) ingest lead from soil, water, and feed. It is then stored sequestered in their bones. The process of making broth or hydrolyzed collagen extracts minerals *very efficiently*---both the good and the bad.
+1.  **Chronic, Low-Level Exposure:** The greatest risk isn't from one serving; it's from a dedicated consumer using this product daily for months. This chronic, low-level exposure is what can lead to a gradual buildup of lead in the body (in bones and teeth), causing long-term damage to the nervous, cardiovascular, and reproductive systems.
+1.  **Health Safety:** It contains a known reproductive toxin at a level significant enough to require a California Prop 65 warning.
+1.   **Nutritional Status:** Lead absorption is significantly increased in individuals with **iron deficiency, calcium deficiency, or empty stomachs**. The body, mistakenly seeking iron or calcium, can absorb more lead through the same transport mechanisms.
