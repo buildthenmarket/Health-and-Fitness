@@ -1,5 +1,11 @@
 # Back
 
+- Back Shrug + Around the World
+- Back Fly
+- Gorilla Row
+- Overhand Row + Pullback
+- Bentover Underhand Row
+
 ## Stretches
 
 [IG](https://www.instagram.com/reel/DBtq29CtDD-/)
