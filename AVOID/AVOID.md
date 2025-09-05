@@ -1,80 +1,27 @@
 # Avoid
 
-![Lies](static/Lies.jpeg)
-
 ![Shelf Life Meme](<static/shelf life chemicals in food.jpg>)
 
-![cheap is junk](<static/Food Affordability Meme.png>)
+## Artificial Sweeteners
 
-## Wal-mart great value brand
+### Real vs Artificial
 
-[fish in great value brand products](https://www.instagram.com/reel/C2qs-bHrDYQ/)
+![Real vs Artificial](static/Real%20vs%20Artificial.png)
 
-## Skin, pores, free radicals
+- sucralose, stevia, allulose, erythritol, adventame, neotame and acesulfame potassium, allulose
+- found in bread, yogurt, oatmeal, muffins, canned soups, salad dressings, condiments and snack bars.
 
-- soaps
-- cleaning agents
-- gloves
+![sweeteners](<static/artificial sweeteners.jpg>)
 
-## Honey
+Scientists used to think that non-nutritive sweeteners were largely inert, activating sweet receptors on our tongues and passing through our bodies without causing metabolic changes. But questions remain about the health effects of consuming large amounts of these ingredients. saccharin and sucralose, worsened the participants’ blood sugar control. 
 
-- honey is sometimes adulterated with plain water and other sugars including hfcs (high fructose corn syrup)
+[Personalized microbiome-driven effects of non-nutritive sweeteners on human glucose tolerance](https://pubmed.ncbi.nlm.nih.gov/35987213/) - The study found that these sweeteners caused changes in both the function and composition of the participants’ gut microbiomes
 
-## Endocrine Disruptors
+[The not-so-sweet effects of sucralose on blood sugar control](https://www.sciencedirect.com/science/article/pii/S0002916522029665?via%3Dihub=&itid=lk_inline_enhanced-template) - drinking beverages made with sucralose can promote insulin resistance
 
-Xenoestregens (BPA/BPS), Phtalates, Plastic, Parabens, PVC
+[Effects of Non-nutritive Sweeteners on Sweet Taste Processing and Neuroendocrine Regulation of Eating Behavior](https://pubmed.ncbi.nlm.nih.gov/32588329/) - you might develop stronger sugar cravings and end up eating more sugar and sweetened foods.
 
-![End Disr](<static/Endocrine Disruptors.png>)
-
-## Frozen Foods
-
-Frozen foods can be convenient, but they often come with potential health risks. Here are some of the main dangers associated with frozen foods, particularly regarding sodium content and chemical additives like PFAs (per- and polyfluoroalkyl substances):
-
-### 1. High Sodium Content
-
-- **Preservation**: Many frozen foods, especially processed ones like frozen dinners, pizzas, and snacks, are high in sodium. Sodium is often used as a preservative and flavor enhancer.
-- **Health Risks**: High sodium intake can lead to increased blood pressure, cardiovascular disease, and other health issues. The American Heart Association recommends limiting sodium intake to less than 2,300 mg per day, ideally around 1,500 mg for most adults.
-
-## 2. Added Sugars and Unhealthy Fats
-
-- **Flavor Enhancement**: To improve taste, many frozen foods contain added sugars and unhealthy fats, including trans fats, which are linked to heart disease.
-- **Caloric Density**: These added ingredients can make frozen foods calorie-dense without providing essential nutrients.
-
-## Coloring
-
-[carmine color, natural red 4, cochineal extract](https://www.facebook.com/reel/1206039707134669)
-
-## metabolic disease
-
-### 3. Preservatives and Additives
-
-- **Chemical Additives**: Frozen foods often contain preservatives like BHA, BHT, and sodium nitrite, which can have adverse health effects when consumed in large amounts.
-- **Long-term Effects**: Some studies suggest a correlation between high intake of certain preservatives and health issues, including hormonal disruption and increased cancer risk.
-
-### 4. PFAs (Per- and Polyfluoroalkyl Substances)
-
-- **Chemical Coatings**: PFAs are often used in food packaging (like microwave popcorn bags) and can leach into food. They are resistant to heat, water, and oil, making them useful for packaging but also problematic for health.
-- **Health Risks**: PFAs have been linked to various health issues, including immune system effects, hormone disruption, and increased risk of certain cancers. They are persistent in the environment and the human body, leading to long-term exposure concerns.
-
-### 5. Loss of Nutritional Value
-
-- **Freezing Process**: While freezing preserves food for longer periods, the process can lead to a loss of some vitamins and nutrients, particularly in fruits and vegetables. For example, vitamin C and certain B vitamins can degrade during freezing.
-- **Cooking Methods**: How frozen foods are prepared (e.g., microwaving) can also affect their nutritional quality. Overcooking can lead to further nutrient loss.
-
-### 6. Risk of Contamination
-
-- **Microbial Growth**: Although freezing inhibits bacterial growth, it doesn't kill all bacteria. Improper thawing or reheating can allow bacteria to multiply, leading to foodborne illnesses.
-- **Cross-contamination**: Frozen foods can be at risk for cross-contamination during processing, handling, or preparation.
-
-### Conclusion
-
-While frozen foods can offer convenience and a longer shelf life, it's essential to read labels carefully and be mindful of sodium content, preservatives, and potential contaminants like PFAs. Opting for whole, minimally processed frozen foods (like plain frozen vegetables or fruits) can help mitigate some of these risks. Preparing fresh meals whenever possible is generally the healthiest option.
-
-## Dairy
-
-![milk](static/milk.png)
-
-![pasteurization](<static/harms of pasteurization.jpg>)
+[Artificial sweeteners and risk of cardiovascular diseases: results from the prospective NutriNet-Santé cohort](https://www.bmj.com/content/378/bmj-2022-071204?itid=lk_inline_enhanced-template) - a high intake of artificial sweeteners increased the risk of cardiovascular problems such as strokes and coronary heart disease.
 
 ### Sugar Alternative
 
@@ -151,9 +98,132 @@ Based on the article "Ranking The Healthiest Breads, From Best To Worst" from Hu
    - **Nutritional Drawbacks:** Similar to white sandwich bread in terms of nutrient loss.
    - **Inflammation Impact:** Low in fiber, leading to potential blood sugar spikes and inflammation (American Heart Association).
 
+## BREAD ADDITIVES
+
+### Azodicarbonamide
+
+- **Azodicarbonamide:** This chemical is used as a dough conditioner. While it is not directly carcinogenic, it breaks down into substances that may be harmful.
+
+Azodicarbonamide (ACA), a chemical that forms bubbles in foams and plastics like vinyl, is used to bleach and leaven dough – but when baked, it, too, has been linked to cancer in lab animals.
+
+### Acrylamide
+
+ This chemical forms naturally during high-temperature cooking processes, including baking bread. While research is ongoing, some studies suggest a possible link to cancer.
+
+### Potassium bromate
+
+Potassium bromate is a chemical compound that has been linked to several health concerns, particularly its potential to cause cancer. Here's a breakdown of the science behind these concerns:
+
+**Carcinogenic Potential:**
+
+- **Animal Studies:** Numerous studies on animals have shown that potassium bromate can cause various types of cancer, including kidney, thyroid, and stomach cancer.
+- **Mechanism of Action:** It's believed that potassium bromate damages DNA and interferes with cellular processes, leading to the development of cancerous cells.
+
+**Other Health Risks:**
+
+- **Neurotoxicity:** Some studies suggest that potassium bromate may affect the nervous system, leading to symptoms like headaches, irritability, and impaired cognitive function.
+- **Reproductive Toxicity:** There's concern that potassium bromate may have adverse effects on reproductive health, although more research is needed.
+
+**Regulatory Status:**
+
+- **Banned in Many Countries:** Many countries, including the European Union, Canada, and China, have banned the use of potassium bromate as a food additive due to its potential health risks.
+- **Regulated in the US:** In the United States, the Food and Drug Administration (FDA) allows the use of potassium bromate in flour, but it must be listed on the product label.
+
+**Consumer Considerations:**
+
+- **Read Labels:** Check the ingredient list of baked goods to see if they contain potassium bromate.
+- **Choose Alternatives:** Opt for products made with potassium bromate-free flour.
+- **Support Regulations:** Advocate for stricter regulations on food additives and encourage the banning of potassium bromate.
+
+It's important to note that while the scientific evidence suggests a link between potassium bromate and health risks, more research is needed to fully understand the extent of these risks in humans. However, given the potential dangers, it's advisable to limit exposure to this chemical by making informed choices about the food you consume.
+
+- **Prolamins and agglutinins**: These harmful and [inflammatory proteins are found in grains](https://michaelkummer.com/why-avoid-grains/) such as wheat, rye, barley, oats and corn.
+- **Digestive enzyme inhibitors**: Certain grains, such as wheat, [can significantly lower the amounts of digestive enzymes](https://www.ncbi.nlm.nih.gov/pubmed/22878393). Yet another reason to avoid grains in your diet.
+
+#### Bromate
+
+Carb free, gluten free, white, wheat, multi-grain, whole grain. There's a lot of stress around bread. But what we don't hear a lot about is bromated vs. unbromated flour. There is an additive in flour here in the States, that quickens leavening thereby increasing production. It also happens to be carcinogenic. 
+
+[https://www.kingarthurbaking.com/pro/reference/bromate](https://www.kingarthurbaking.com/pro/reference/bromate)
+
 ### Conclusion
 
 Choosing breads that are whole grain or sprouted can provide significant health benefits and help manage inflammation. In contrast, breads made from refined flours should be consumed sparingly, as they can contribute to inflammation and other health issues. Always look for whole grain options to ensure you are making a healthier choice.
+
+## Wal-mart great value brand
+
+[fish in great value brand products](https://www.instagram.com/reel/C2qs-bHrDYQ/)
+
+## Skin, pores, free radicals
+
+- soaps
+- cleaning agents
+- gloves
+
+## Honey
+
+- honey is sometimes adulterated with plain water and other sugars including hfcs (high fructose corn syrup)
+
+## Endocrine Disruptors
+
+Xenoestregens (BPA/BPS), Phtalates, Plastic, Parabens, PVC
+
+![End Disr](<static/Endocrine Disruptors.png>)
+
+## Frozen Foods
+
+Frozen foods can be convenient, but they often come with potential health risks. Here are some of the main dangers associated with frozen foods, particularly regarding sodium content and chemical additives like PFAs (per- and polyfluoroalkyl substances):
+
+### 1. High Sodium Content
+
+- **Preservation**: Many frozen foods, especially processed ones like frozen dinners, pizzas, and snacks, are high in sodium. Sodium is often used as a preservative and flavor enhancer.
+- **Health Risks**: High sodium intake can lead to increased blood pressure, cardiovascular disease, and other health issues. The American Heart Association recommends limiting sodium intake to less than 2,300 mg per day, ideally around 1,500 mg for most adults.
+
+## 2. Added Sugars and Unhealthy Fats
+
+- **Flavor Enhancement**: To improve taste, many frozen foods contain added sugars and unhealthy fats, including trans fats, which are linked to heart disease.
+- **Caloric Density**: These added ingredients can make frozen foods calorie-dense without providing essential nutrients.
+
+## Coloring
+
+[carmine color, natural red 4, cochineal extract](https://www.facebook.com/reel/1206039707134669)
+
+## metabolic disease
+
+### 3. Preservatives and Additives
+
+- **Chemical Additives**: Frozen foods often contain preservatives like BHA, BHT, and sodium nitrite, which can have adverse health effects when consumed in large amounts.
+- **Long-term Effects**: Some studies suggest a correlation between high intake of certain preservatives and health issues, including hormonal disruption and increased cancer risk.
+
+### 4. PFAs (Per- and Polyfluoroalkyl Substances)
+
+- **Chemical Coatings**: PFAs are often used in food packaging (like microwave popcorn bags) and can leach into food. They are resistant to heat, water, and oil, making them useful for packaging but also problematic for health.
+- **Health Risks**: PFAs have been linked to various health issues, including immune system effects, hormone disruption, and increased risk of certain cancers. They are persistent in the environment and the human body, leading to long-term exposure concerns.
+
+### 5. Loss of Nutritional Value
+
+- **Freezing Process**: While freezing preserves food for longer periods, the process can lead to a loss of some vitamins and nutrients, particularly in fruits and vegetables. For example, vitamin C and certain B vitamins can degrade during freezing.
+- **Cooking Methods**: How frozen foods are prepared (e.g., microwaving) can also affect their nutritional quality. Overcooking can lead to further nutrient loss.
+
+### 6. Risk of Contamination
+
+- **Microbial Growth**: Although freezing inhibits bacterial growth, it doesn't kill all bacteria. Improper thawing or reheating can allow bacteria to multiply, leading to foodborne illnesses.
+- **Cross-contamination**: Frozen foods can be at risk for cross-contamination during processing, handling, or preparation.
+
+### Conclusion
+
+While frozen foods can offer convenience and a longer shelf life, it's essential to read labels carefully and be mindful of sodium content, preservatives, and potential contaminants like PFAs. Opting for whole, minimally processed frozen foods (like plain frozen vegetables or fruits) can help mitigate some of these risks. Preparing fresh meals whenever possible is generally the healthiest option.
+
+## Dairy
+
+![milk](static/milk.png)
+
+![pasteurization](<static/harms of pasteurization.jpg>)
+
+## Diet Soda
+
+- Phenylalanine is one of the breakdown products of aspartame, an artificial sweetener commonly used in diet sodas.
+- 4-methylimidazole (4-MI), which is a byproduct of the caramel coloring process used to give sodas their brown color.
 
 ## Wrong Dietary Fat Sources
 
@@ -220,7 +290,7 @@ the practice of growing a single crop species over a large area, has several sig
 
 ### Sulfur Dioxide
 
-![grapes w sulfur dioxide](<static/Grapes w Sulfur Dioxide.png>)
+![grapes w sulfur dioxide](<static/Grapes%20w%20Sulfur%20Dioxide.png>)
 
 ### 1. **Pesticide Use**
 

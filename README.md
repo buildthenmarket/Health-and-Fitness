@@ -1,5 +1,9 @@
 # Fitness, Diet, Health
 
+![Lies](static/Lies.jpeg)
+
+![cheap is junk](<static/Food Affordability Meme.png>)
+
 ![education](<static/Social Media drowns vs books.jpg>)
 
 - a person needs just three things to be truly happy in this world: someone to love, something to do, and something to hope for.
