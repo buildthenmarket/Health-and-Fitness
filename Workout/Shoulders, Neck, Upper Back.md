@@ -1,8 +1,8 @@
 # Back
 
-- Back Shrug + Around the World
+- [Back Shrug + Around the World](https://x.com/musclemadnez/status/1949134112541061339)
 - Back Fly
-- Gorilla Row
+- [Gorilla Row](https://x.com/musclemadnez/status/1949134217981354416)
 - Overhand Row + Pullback
 - Bentover Underhand Row
 
