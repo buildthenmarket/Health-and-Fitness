@@ -1,6 +1,8 @@
 # Emotional regulation
 
-![](static/EQ.png)
+![EQ](static/High%20EQ.png)
+
+![EQ](static/EQ.png)
 
 ![upward spiral](static/spirals.png)
 
