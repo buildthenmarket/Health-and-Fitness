@@ -1,5 +1,7 @@
 # Microplastics and Nanoplastics
 
+![Plastics](static/Plastics.png)
+
 ![receipts](<static/Bisphenol A - Why You Should Never Touch Receipts.png>)
 
 ## cooking utensils
