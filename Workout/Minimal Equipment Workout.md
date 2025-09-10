@@ -1,8 +1,24 @@
 # Minimal Equipment Workout
 
-![Muscle Groups](image.png)
-
 ![full body workout](static/full%20body%20workout.png)
+
+## Dumbbell
+
+## full body workouts
+
+- [HIIT](https://www.instagram.com/reel/C5Lg21YLpXW/)
+- [3 moves](https://www.instagram.com/reel/C5je2ZgSWeb/)
+
+<details>
+  <summary>Click to reveal the hidden content</summary>
+  
+  This is the content that will be hidden by default. You can put text, images, or even other Markdown content here.
+</details>
+
+## Cardio
+
+<details>
+  <summary>Cardio</summary>
 
 ## Cardio
 
@@ -14,10 +30,6 @@
 
 [Sprinting Changes Your Body](https://youtu.be/UqCvY0Ag0Xg?si=YGLTeaII9EhEXqgH)
 
-### barefoot shoes
-
-[![barefoot shoes](https://img.youtube.com/vi/-1xidHM5bAk/0.jpg)](https://www.youtube.com/watch?v=shorts/-1xidHM5bAk)
-
 - Stride
 - Rucking
 - Gait
@@ -27,6 +39,13 @@
 ### Walking Every morning
 
 NEAT ( Non-Exercise Activity Thermogenesis)
+
+</details>
+
+## 2. Wrists
+
+<details>
+<summary>Wrists </summary>
 
 ## 2. Wrists
 
@@ -84,13 +103,13 @@ Place two DBs on their ends and pick them up by their head. Hold a farmer carry 
 
 This one is a fairly higher level movement, but if you have the strength, toss a towel over the bar and hold onto the towel as you pull your chin over the bar into a pull-up. The [Rope Towel Pull Ups movement is demonstrated here](https://breakingmuscle.com/rope-towel-pull-ups/) as part of the [Breaking Muscle Movement Library](https://breakingmuscle.com/tag/movement-library/).
 
+</details>
 
-## Dumbbell
+## Legs
 
-## full body workouts
+<details>
 
-- [HIIT](https://www.instagram.com/reel/C5Lg21YLpXW/)
-- [3 moves](https://www.instagram.com/reel/C5je2ZgSWeb/)
+<summary>Legs </summary>
 
 ## Legs
 
@@ -124,19 +143,91 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 
 [![Youtube - Clench Fitness](https://img.youtube.com/vi/PM4PMHEIjmM/0.jpg)](https://www.youtube.com/watch?v=PM4PMHEIjmM)
 
+</details>
+
 ## Upper Body
 
-### Shoulders
+<details>
+
+<summary> Upper Body </summary>
+
+## Upper Body
+
+![Shoulders](static/Dumbbell%20Shoulder%20Workout.png)
+
+- Trapezius
+- Latissimus Dorsi (Lats)
+- Deltoid Heads
+  - Anterior deltoid (front)
+  - 1. dumbbell shoulder press
+  - middle deltoid
+    - 9. 45 degree incline row
+  - Posterior deltoid (back)
+
+</details>
+
+### Rhomboids and (Mid/Upper Back)
+
+<details>
+
+<summary>Rhomboids and (Mid/Upper Back)</summary>
+
+### Rhomboids and (Mid/Upper Back)
+
+#### Bent-Over Row
+
+[![Dumbbell Bent Over Row](https://img.youtube.com/vi/IOOLhrkN_NI/0.jpg)](https://www.youtube.com/watch?v=shorts/IOOLhrkN_NI)
+[![Well+Good](https://img.youtube.com/vi/LZxoUZV8seY/0.jpg)](https://www.youtube.com/watch?v=LZxoUZV8seY)
+
+- **Bent-Over Rows:**
+  - Hold dumbbells with a neutral grip (palms facing each other).
+  - Hinge at your hips, keeping your back flat.
+  - Row the dumbbells towards your chest, squeezing your shoulder blades together.
+- Bentover Underhand Row
+
+</details>
+
+## Shoulders
+
+<details>
+
+<summary>Shoulders</summary>
+
+## Shoulders
 
 [![Top 4 Shoulder Exercises for 3D delts (dumbbells only)](https://img.youtube.com/vi/BOU37f-mPlc/0.jpg)](https://www.youtube.com/watch?v=shorts/BOU37f-mPlc)
 
 [![Dumbbell Press](https://img.youtube.com/vi/z6A4W5Dib28/0.jpg)](https://www.youtube.com/watch?v=shorts/z6A4W5Dib28)
 
+- [Back Shrug + Around the World](https://x.com/musclemadnez/status/1949134112541061339)
+- Back Fly
+- [Gorilla Row](https://x.com/musclemadnez/status/1949134217981354416)
+- Overhand Row + Pullback
+
+</details>
+
+## Arms
+
+<details>
+<summary>Biceps Brachialis</summary>
+
 ### Biceps curl
+
+- Brachialis
+- short head
+- long head
 
 - [zottman curl](https://www.youtube.com/shorts/uYWqEEaEj6A)
 
-### Chest
+</details>
+
+### Triceps
+
+#### Overhead triceps extension
+
+[![Overhead triceps extension](https://img.youtube.com/vi/BrVvtti-gkU/0.jpg)](https://www.youtube.com/watch?v=shorts/BrVvtti-gkU)
+
+## Chest
 
 ### Push-up Variations
 
@@ -147,11 +238,6 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 - Floor chest press
 
 ### FLYs / Rows
-
-### Bent-Over Row
-
-[![Dumbbell Bent Over Row](https://img.youtube.com/vi/IOOLhrkN_NI/0.jpg)](https://www.youtube.com/watch?v=shorts/IOOLhrkN_NI)
-[![Well+Good](https://img.youtube.com/vi/LZxoUZV8seY/0.jpg)](https://www.youtube.com/watch?v=LZxoUZV8seY)
 
 ### Renegade Row
 

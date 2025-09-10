@@ -2,6 +2,10 @@
 
 [![toe spacers](https://img.youtube.com/vi/9EWQMLc0XEM/0.jpg)](https://www.youtube.com/watch?v=shorts/9EWQMLc0XEM)
 
+### barefoot shoes
+
+[![barefoot shoes](https://img.youtube.com/vi/-1xidHM5bAk/0.jpg)](https://www.youtube.com/watch?v=shorts/-1xidHM5bAk)
+
 ## Foot Ailments
 
 - Callus

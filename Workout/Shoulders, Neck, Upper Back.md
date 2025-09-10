@@ -19,10 +19,6 @@
 
 [![floor supermans](https://img.youtube.com/vi/CvTC75KRay4/0.jpg)](https://www.youtube.com/watch?v=CvTC75KRay4)
 
-## Shoulders
-
-![](static/Dumbbell%20Shoulder%20Workout.png)
-
 ### Arnold Press
 
 - [![Arnold Press](https://img.youtube.com/vi/Y5wWKbmzOUc/0.jpg)](https://www.youtube.com/watch?v=Y5wWKbmzOUc)
@@ -45,12 +41,6 @@
 
 ## rhomboids
 
-**Dumbbell Exercises:**
-
-- **Bent-Over Rows:**
-  - Hold dumbbells with a neutral grip (palms facing each other).
-  - Hinge at your hips, keeping your back flat.
-  - Row the dumbbells towards your chest, squeezing your shoulder blades together.
 - **Chest-Supported Rows:**
   - Lie face down on an incline bench, holding dumbbells.
   - Row the dumbbells towards your chest, squeezing your shoulder blades together.
@@ -79,11 +69,3 @@ By consistently performing these exercises, you can strengthen your rhomboids an
 
 - Pull-ups are a great compound exercise that works the rhomboids, along with other back muscles.
 [https://www.instagram.com/reel/C_iBVpASD3P/](https://www.instagram.com/reel/C_iBVpASD3P/)
-
-### Deltoid Heads
-
-- Anterior deltoid (front)
-  - 1. dumbbell shoulder press
-- middle deltoid
-  - 9. 45 degree incline row
-- Posterior deltoid (back)
