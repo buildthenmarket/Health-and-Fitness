@@ -9,18 +9,10 @@
 - [HIIT](https://www.instagram.com/reel/C5Lg21YLpXW/)
 - [3 moves](https://www.instagram.com/reel/C5je2ZgSWeb/)
 
-<details>
-  <summary>Click to reveal the hidden content</summary>
-  
-  This is the content that will be hidden by default. You can put text, images, or even other Markdown content here.
-</details>
-
 ## Cardio
 
 <details>
-  <summary>Cardio</summary>
-
-## Cardio
+  <summary>Click to reveal the content</summary>
 
 - Jumping Jacks
 
@@ -45,9 +37,7 @@ NEAT ( Non-Exercise Activity Thermogenesis)
 ## 2. Wrists
 
 <details>
-<summary>Wrists </summary>
-
-## 2. Wrists
+<summary>Click to reveal the content </summary>
 
 ### Stretches
 
@@ -109,13 +99,13 @@ This one is a fairly higher level movement, but if you have the strength, toss a
 
 <details>
 
-<summary>Legs </summary>
+<summary>Click to reveal the hidden content</summary>
 
-## Legs
+[dumbbell lunge](https://x.com/PowerBruteHQ/status/1965054065227726862)
 
 ### Squat Wedge
 
-[![](https://img.youtube.com/vi/LGdA5--Jr14/0.jpg)](https://www.youtube.com/watch?v=shorts/LGdA5--Jr14)
+[![Squat Wedge](https://img.youtube.com/vi/LGdA5--Jr14/0.jpg)](https://www.youtube.com/watch?v=shorts/LGdA5--Jr14)
 
 [![Pro-tips for Better Squats using Squat Wedges](https://img.youtube.com/vi/J5PI6owAQO4/0.jpg)](https://www.youtube.com/watch?v=J5PI6owAQO4)
 
@@ -149,20 +139,12 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 
 <details>
 
-<summary> Upper Body </summary>
-
-## Upper Body
+<summary>Click to reveal the content</summary>
 
 ![Shoulders](static/Dumbbell%20Shoulder%20Workout.png)
 
 - Trapezius
 - Latissimus Dorsi (Lats)
-- Deltoid Heads
-  - Anterior deltoid (front)
-  - 1. dumbbell shoulder press
-  - middle deltoid
-    - 9. 45 degree incline row
-  - Posterior deltoid (back)
 
 </details>
 
@@ -191,25 +173,40 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 
 <details>
 
-<summary>Shoulders</summary>
+<summary>Click to reveal the content</summary>
 
-## Shoulders
-
-[![Top 4 Shoulder Exercises for 3D delts (dumbbells only)](https://img.youtube.com/vi/BOU37f-mPlc/0.jpg)](https://www.youtube.com/watch?v=shorts/BOU37f-mPlc)
-
-[![Dumbbell Press](https://img.youtube.com/vi/z6A4W5Dib28/0.jpg)](https://www.youtube.com/watch?v=shorts/z6A4W5Dib28)
-
+- [![Dumbbell Press](https://img.youtube.com/vi/z6A4W5Dib28/0.jpg)](https://www.youtube.com/watch?v=shorts/z6A4W5Dib28)
+- [Shoulder Dumbbell workout](https://x.com/Motivemodee/status/1964613195701879228)
 - [Back Shrug + Around the World](https://x.com/musclemadnez/status/1949134112541061339)
 - Back Fly
 - [Gorilla Row](https://x.com/musclemadnez/status/1949134217981354416)
 - Overhand Row + Pullback
+- [Shoulder Press into a Straight-Arm Pulldown](https://x.com/Realdealmate/status/1965018320060752124)
+
+</details>
+
+## Deltoids
+
+<details>
+<summary>Click to reveal the content</summary>
+
+- Deltoid Heads
+  - Anterior deltoid (front)
+  - 1. dumbbell shoulder press
+  - middle deltoid
+    - 9. 45 degree incline row
+  - Posterior deltoid (back)
+
+- Crush Press (Close-Grip Dumbbell Press with two dumbbells)
+- [Dumbbell Halos](https://www.youtube.com/shorts/gUWos0BhOYI)
+- [![Top 4 Shoulder Exercises for 3D delts (dumbbells only)](https://img.youtube.com/vi/BOU37f-mPlc/0.jpg)](https://www.youtube.com/watch?v=shorts/BOU37f-mPlc)
 
 </details>
 
 ## Arms
 
 <details>
-<summary>Biceps Brachialis</summary>
+<summary>Click to reveal the hidden content</summary>
 
 ### Biceps curl
 
@@ -218,8 +215,8 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 - long head
 
 - [zottman curl](https://www.youtube.com/shorts/uYWqEEaEj6A)
+- Close-Grip Hammer Curl (both arms same time, holding dumbbells together vertically)
 
-</details>
 
 ### Triceps
 
@@ -227,15 +224,25 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 
 [![Overhead triceps extension](https://img.youtube.com/vi/BrVvtti-gkU/0.jpg)](https://www.youtube.com/watch?v=shorts/BrVvtti-gkU)
 
+</details>
+
 ## Chest
 
+<details>
+  
+  <summary>Click to reveal the content</summary>
+  
 ### Push-up Variations
-
+  
+- close grip with dumbbells
+  
 #### Press Variations
-
-[![close grip / inner](https://img.youtube.com/vi/k5a_L2WoZVk/0.jpg)](https://www.youtube.com/watch?v=shorts/k5a_L2WoZVk)
-
-- Floor chest press
+  
+- squeeze press
+- [![close grip / inner](https://img.youtube.com/vi/k5a_L2WoZVk/0.jpg)](https://www.youtube.com/watch?v=shorts/k5a_L2WoZVk)
+- [Floor chest press](https://x.com/DSecretsOfLife/status/1953427216932434309)
+  
+</details>
 
 ### FLYs / Rows
 
@@ -247,19 +254,24 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 
 ## Core / Abs
 
+<details>
+
+<summary>Click to reveal the content</summary>
+
 - DUMBBELL TORSO TWIST
-- boxer kick
-- ankle weights
+- dumbbell low windmill
 
 ![overview](static/Core-Exercises.png)
 
 ### Chair
 
+- <https://x.com/FitnessF0rWomen/status/1954596409035944101>
 - [![Chair Ab workout](https://img.youtube.com/vi/KLotHOIgc7s/0.jpg)](https://www.youtube.com/watch?v=shorts/KLotHOIgc7s)
 - dips
 - dips with leg lift
 - step-up
 - inverted shoulder press
+- seated leg raise
 
 ### Table
 
@@ -267,15 +279,20 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 
 ### Floor
 
+- boxer kick
 - V in-and-outs
 - russian twists
 - knee to elbow
+- scissor cross
+- bent knee lying twist
 
 #### leg raises
 
 - 2 leg
 - 1 leg
-- ankle weights
+
+### ankle weights
+
 - (boxer kicks) partner throws legs
 
 #### Crunches
@@ -366,3 +383,5 @@ Butterfly sit-ups remove your hips from the equation, fully loading your ab musc
 [![Farmer's Walk](https://img.youtube.com/vi/ZH9dZEiLiqA/0.jpg)](https://www.youtube.com/watch?v=ZH9dZEiLiqA)
 
 [Incline Variations](https://www.instagram.com/reel/C7J8kO8ule6/)
+
+</details>
