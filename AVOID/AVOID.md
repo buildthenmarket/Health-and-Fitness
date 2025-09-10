@@ -13,7 +13,7 @@
 
 ![sweeteners](<static/artificial sweeteners.jpg>)
 
-Scientists used to think that non-nutritive sweeteners were largely inert, activating sweet receptors on our tongues and passing through our bodies without causing metabolic changes. But questions remain about the health effects of consuming large amounts of these ingredients. saccharin and sucralose, worsened the participants’ blood sugar control. 
+Scientists used to think that non-nutritive sweeteners were largely inert, activating sweet receptors on our tongues and passing through our bodies without causing metabolic changes. But questions remain about the health effects of consuming large amounts of these ingredients. saccharin and sucralose, worsened the participants’ blood sugar control.
 
 [Personalized microbiome-driven effects of non-nutritive sweeteners on human glucose tolerance](https://pubmed.ncbi.nlm.nih.gov/35987213/) - The study found that these sweeteners caused changes in both the function and composition of the participants’ gut microbiomes
 
@@ -142,7 +142,7 @@ It's important to note that while the scientific evidence suggests a link betwee
 
 #### Bromate
 
-Carb free, gluten free, white, wheat, multi-grain, whole grain. There's a lot of stress around bread. But what we don't hear a lot about is bromated vs. unbromated flour. There is an additive in flour here in the States, that quickens leavening thereby increasing production. It also happens to be carcinogenic. 
+Carb free, gluten free, white, wheat, multi-grain, whole grain. There's a lot of stress around bread. But what we don't hear a lot about is bromated vs. unbromated flour. There is an additive in flour here in the States, that quickens leavening thereby increasing production. It also happens to be carcinogenic.
 
 [https://www.kingarthurbaking.com/pro/reference/bromate](https://www.kingarthurbaking.com/pro/reference/bromate)
 
@@ -186,6 +186,8 @@ Frozen foods can be convenient, but they often come with potential health risks.
 
 ## Coloring
 
+![Cochineal](image.png)
+
 [carmine color, natural red 4, cochineal extract](https://www.facebook.com/reel/1206039707134669)
 
 ## metabolic disease
@@ -220,7 +222,13 @@ While frozen foods can offer convenience and a longer shelf life, it's essential
 
 ![pasteurization](<static/harms of pasteurization.jpg>)
 
-## Diet Soda
+## Soda
+
+### Coca-Cola
+
+[Fluorescent nanoparticles present in Coca-Cola and Pepsi-Cola: physiochemical properties, cytotoxicity, biodistribution and digestion studies - PubMed](https://pubmed.ncbi.nlm.nih.gov/29261040/)
+
+### Diet Soda
 
 - Phenylalanine is one of the breakdown products of aspartame, an artificial sweetener commonly used in diet sodas.
 - 4-methylimidazole (4-MI), which is a byproduct of the caramel coloring process used to give sodas their brown color.

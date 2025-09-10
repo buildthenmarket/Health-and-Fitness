@@ -4,6 +4,10 @@
 
 ![full body workout](static/full%20body%20workout.png)
 
+## Cardio
+
+- Jumping Jacks
+
 ## 1. Running
 
 ### Sprinting > Youth
