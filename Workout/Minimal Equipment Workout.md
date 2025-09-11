@@ -15,6 +15,7 @@
   <summary>Click to reveal the content</summary>
 
 - Jumping Jacks
+- bouncing!
 
 ## 1. Running
 
@@ -145,6 +146,9 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 
 - Trapezius
 - Latissimus Dorsi (Lats)
+- tomahawks
+- lat squeezes
+- reverse cuff flys
 
 </details>
 
@@ -216,7 +220,6 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 
 - [zottman curl](https://www.youtube.com/shorts/uYWqEEaEj6A)
 - Close-Grip Hammer Curl (both arms same time, holding dumbbells together vertically)
-
 
 ### Triceps
 
@@ -383,5 +386,14 @@ Butterfly sit-ups remove your hips from the equation, fully loading your ab musc
 [![Farmer's Walk](https://img.youtube.com/vi/ZH9dZEiLiqA/0.jpg)](https://www.youtube.com/watch?v=ZH9dZEiLiqA)
 
 [Incline Variations](https://www.instagram.com/reel/C7J8kO8ule6/)
+
+</details>
+
+## Compound Moves
+
+<details>
+<summary>Click to reveal the content</summary>
+
+- halo into alternating reverse lunge
 
 </details>

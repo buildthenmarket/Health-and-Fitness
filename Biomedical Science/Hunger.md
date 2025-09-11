@@ -1,5 +1,15 @@
 # Hunger hormone
 
+## Appetite Suppressants
+
+- Stay Busy: Engage in activities to distract yourself from hunger signals
+- Nutrient-Dense Foods
+- Cold Exposure: Brief exposure to cold can stimulate autophagy.
+
+glucomannan
+
+---
+
 - hunger 48hrs
 - it affects your sleep/wake cycle, reward-seeking behavior, taste sensation, and carbohydrate metabolism
 - people with obesity may have an overly active ghrelin receptor, known as GHS-R, which leads to increased calorie intake

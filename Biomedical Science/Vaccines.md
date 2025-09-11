@@ -87,3 +87,51 @@ Recent studies and discussions have highlighted concerns about the presence of S
 - Thimerasal
 - neuro and cytotoxic
 - dead proteins from a virus is not enough to stimulate immune system response. The macrophages and endritic cells will consume it and dispose it. Cellular death stimulates immune response.
+
+## Ralph R. Scobey
+
+Ralph R. Scobey, M.D. (January 14, 1894 – September 1, 1965) was an American pediatrician based in Syracuse, New York, known for his controversial alternative theories on the causes of poliomyelitis (polio) during the mid-20th century. A graduate of medical school (specific institution not detailed in available records), he practiced pediatrics and contributed to medical literature through articles in journals like *Archives of Pediatrics*. He lived in Syracuse with his wife, Alice, and daughter, as noted in the 1940 U.S. Census, and is buried in Oakwood Cemetery there.
+
+### Key Contributions and Views
+
+Scobey's work challenged the prevailing viral causation theory of polio, which dominated research after the 1908 discovery of the poliovirus by Karl Landsteiner. Instead, he advocated for a **toxicological etiology**, arguing that polio symptoms resulted from environmental poisons rather than an infectious agent. His ideas drew parallels to historical understandings of diseases like pellagra (later proven to be a niacin deficiency, not viral) and emphasized how public health laws mandating polio as a "communicable disease" from the early 1900s restricted funding and inquiry into non-viral causes.
+
+- **Early Theories (1940s)**: In 1947, Scobey proposed that polio could stem from cyanide poisoning, citing sources like unripe fruit, goiter, and paralytic shellfish poisoning as triggers. He claimed no micro-organism reliably caused human polio and highlighted chemical imbalances affecting the thyroid and liver.
+  
+- **1950s Publications**: His most cited works include:
+  - "Poisoning as the Cause of Poliomyelitis" (*Archives of Pediatrics*, October 1950): Argued poisoning mimicked polio symptoms in humans and animals.
+  - "The Poison Cause of Poliomyelitis and Obstructions to Its Investigation" (*Archives of Pediatrics*, April 1952): Detailed historical evidence of polio-like paralysis from toxins and criticized the virus-only focus as a barrier to progress.
+  - "Is the Public Health Law Responsible for the Poliomyelitis Mystery?" (1951): Blamed legal classifications for skewing research.
+  - "Poliomyelitis Caused by Exogenous Virus?" (*Archives of Pediatrics*, April/May 1954): Questioned if polio was truly exogenous (externally acquired) and pushed for broader toxicological studies.
+
+Scobey testified before the U.S. Congress in 1950–1951 alongside Dr. Morton S. Biskind, linking polio epidemics to post-WWII pesticide use (e.g., DDT). He analyzed blood from polio victims and found chemical traces consistent with poisoning, noting paralytic outbreaks in animals correlated with human cases in sprayed areas. These hearings contributed to growing awareness of DDT's risks, influencing labeling and handling regulations by the early 1950s, though DDT wasn't fully banned in the U.S. until 1972.
+
+### Legacy and Criticisms
+
+Scobey's ideas were marginalized by the mainstream medical community, which prioritized virology and led to the Salk vaccine's 1955 rollout. Critics ridiculed his pesticide-virus hypothesis, viewing it as unsubstantiated and a threat to established careers. Modern analyses, like those by researcher Jim West, have revived his work to argue correlations between pesticide production (e.g., DDT peaks in the 1940s–1950s) and polio incidence, suggesting diagnostic reclassification post-vaccine skewed decline statistics.
+
+His theories align with terrain theory (focusing on bodily susceptibility to toxins over germ invasion) and have been cited in anti-vaccine and environmental toxicology discussions, including critiques of polio vaccine efficacy. However, they remain fringe, as large-scale evidence supports poliovirus as the primary cause, with vaccines credited for near-eradication.
+
+## Morton S. Biskind
+
+Morton S. Biskind, M.D. (c. 1907 – 1981) was an American physician and endocrinologist based in Westport, Connecticut, who gained notoriety in the mid-20th century for his pioneering—and highly controversial—warnings about the health risks of the pesticide DDT (dichlorodiphenyltrichloroethane). A practitioner and medical researcher, Biskind observed unusual patterns in patient illnesses during the post-World War II era, linking them to widespread chemical exposures. He passed away at age 74 in 1981.
+
+### Key Contributions and Views
+
+Biskind's work emerged amid the enthusiastic adoption of DDT as a "miracle" insecticide for agriculture, public health (e.g., mosquito control), and household use following its wartime applications. He argued that DDT's neurotoxic properties were causing a range of undiagnosed illnesses, including symptoms mimicking infectious diseases. His theories aligned with a toxicological perspective on health, emphasizing environmental poisons over viral agents, much like his contemporary Ralph R. Scobey.
+
+- **Early Observations (1940s)**: By the late 1940s, Biskind noted spikes in neuropsychiatric symptoms, gastroenteritis, and paralysis among patients, animals, and wildlife in areas with heavy DDT spraying. He treated these as poisoning cases, using detox methods like removing contaminated dairy products and administering antidotes such as dimercaprol and ascorbic acid, reporting successes in polio-like cases.
+
+- **1950s Publications and Testimony**: Biskind's most influential works include:
+  - "DDT Poisoning: A New Syndrome With Neuropsychiatric Manifestations" (*American Journal of Psychotherapy*, 1949, co-authored with Irving Bieber): Described DDT as causing anxiety, tremors, and paralysis, with a direct link to polio epidemics, as symptoms overlapped and spraying coincided with outbreaks.
+  - "DDT Poisoning and the Elusive 'Virus X': A New Cause for Gastroenteritis" (*American Journal of Digestive Diseases*, 1949): Argued that a mysterious "Virus X" blamed for stomach illnesses was actually DDT toxicity, citing NIH studies showing DDT's spinal cord damage in animals similar to polio lesions.
+  - "Statement on Clinical Intoxication from DDT and Other New Insecticides" (1950, presented to U.S. House Select Committee): Testified that DDT not only mimicked polio but increased vulnerability to poliovirus by damaging nerve cells. He highlighted ironic uses, like spraying DDT to "combat" polio, which worsened outbreaks, and noted high rates among troops protected with DDT in the Philippines.
+  - "Pesticides and Polio" (*American Journal of Digestive Diseases*, 1953): Expanded on correlations between DDT use peaks (1940s–1950s) and polio incidence, criticizing the suppression of toxicological evidence in favor of virology.
+
+Biskind collaborated with Scobey in congressional hearings (1950–1951), analyzing polio victims' blood for chemical traces and linking animal paralytic outbreaks to human epidemics in sprayed regions.
+
+### Legacy and Criticisms
+
+Biskind's advocacy helped raise early alarms about DDT's dangers, influencing environmentalists like Rachel Carson (whose 1962 book *Silent Spring* cited similar concerns) and contributing to U.S. regulations on pesticide labeling in the 1950s and the eventual 1972 ban. Modern researchers, such as Jim West, have revived his data to graph pesticide-polio correlations, suggesting diagnostic shifts post-vaccine exaggerated its impact.
+
+However, his views were dismissed by mainstream medicine and regulators (e.g., FDA), who prioritized DDT's benefits and the viral polio model, leading to the 1955 Salk vaccine triumph. Critics labeled his claims "irresponsible" for potentially undermining polio research, and they were marginalized amid the era's pro-chemical optimism. Today, his work resonates in anti-vaccine and environmental toxicology circles, though polio's near-eradication is widely attributed to vaccines, with toxins seen as possible cofactors at most.

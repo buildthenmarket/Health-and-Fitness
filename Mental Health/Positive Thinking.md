@@ -1,1 +1,0 @@
-![](static/what%20we%20can%20control.png)

@@ -169,6 +169,22 @@ Choosing breads that are whole grain or sprouted can provide significant health 
 Xenoestregens (BPA/BPS), Phtalates, Plastic, Parabens, PVC
 
 ![End Disr](<static/Endocrine Disruptors.png>)
+Endocrine
+
+### Endocrine Disruptor Foods
+
+Endocrine disruptors are chemicals that can interfere with the body's endocrine system, affecting the production, secretion, transport, metabolism, binding action, or elimination of natural hormones. These chemicals can be found in various foods and can cause a range of health issues. Here is a list of foods that are known to contain endocrine disruptors:
+
+- **Processed and packaged foods**: These foods often contain preservatives, artificial colors, and flavors that can disrupt the endocrine system. Additionally, the packaging of processed foods can contain chemicals such as bisphenol A (BPA), which can also act as hormone disruptors.
+- **Non-organic dairy products**: These products often contain growth hormones and pesticides, which can be endocrine disruptors.
+- **Conventionally grown fruits and vegetables**: These are often high sources of pesticides, herbicides, and fungicides, which can act as endocrine disruptors.
+- **Conventionally raised meat**: Meat from animals raised with antibiotics and animal feed containing hormones can have higher levels of hormone disruptors than their organic or grass-fed counterparts.
+- **Farmed salmon**: This type of salmon can contain high levels of contaminants, including endocrine disruptors.
+- **Soy products**: Soy products such as tofu and soy milk contain a bioactive substance known as phytoestrogen, which can mimic estrogen in the body.
+- **Eggs from polluted sites**: Eggs from areas where pesticides and industrial chemicals are present can contain endocrine-disrupting residues such as hexachlorocyclohexane, aldrin, and malathion.
+- **Plastics and food storage materials**: Bisphenol A (BPA) and phthalates, commonly found in plastics and food storage materials, can leach into food and act as endocrine disruptors.
+- **Non-stick food wrappers and microwave popcorn bags**: These items can contain perfluorochemicals and PFAS, which can disrupt thyroid function, harm liver and kidney function, and increase the risk of cancer.
+- **Canned foods**: The lining of canned foods often contains BPA, which can leach into the food and act as an endocrine disruptor.
 
 ## Frozen Foods
 
