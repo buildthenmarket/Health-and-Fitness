@@ -104,6 +104,13 @@ This one is a fairly higher level movement, but if you have the strength, toss a
 
 [dumbbell lunge](https://x.com/PowerBruteHQ/status/1965054065227726862)
 
+- pistol squat
+- one-handed shrimp
+- two-handed shrimp
+- dragon squat
+- figure four
+- supine dragon circle
+
 ### Squat Wedge
 
 [![Squat Wedge](https://img.youtube.com/vi/LGdA5--Jr14/0.jpg)](https://www.youtube.com/watch?v=shorts/LGdA5--Jr14)
