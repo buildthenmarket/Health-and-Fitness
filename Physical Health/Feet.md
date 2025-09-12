@@ -2,8 +2,21 @@
 
 [![toe spacers](https://img.youtube.com/vi/9EWQMLc0XEM/0.jpg)](https://www.youtube.com/watch?v=shorts/9EWQMLc0XEM)
 
-### barefoot shoes
+## Turf Toe Injury
 
+Turf toe is an injury to the big toe joint, specifically the metatarsophalangeal (MTP) joint, which connects the first metatarsal bone of the foot to the first phalanx bone of the big toe. This injury typically occurs when the big toe is forcibly bent upward into hyperextension, such as when pushing off to sprint and the toe remains flat on the ground. It is common in sports that involve sudden starts, jumping, or playing on artificial turf, such as football, soccer, basketball, and martial arts.
+
+The injury can vary in severity:
+
+- **Grade 1**: The plantar complex (ligaments and soft tissues) is stretched, causing pinpoint tenderness and slight swelling.
+- **Grade 2**: There is a partial tearing of the plantar complex, leading to more widespread tenderness, moderate swelling, and bruising. Movement of the toe is limited and painful.
+- **Grade 3**: The plantar complex is completely torn, resulting in severe tenderness, severe swelling, and bruising.
+
+Symptoms of turf toe include pain and swelling, particularly on the bottom of the foot. Pain may worsen when trying to lift the big toe, stand on tiptoes, or push off (running, jumping). Treatment usually involves rest, ice, and over-the-counter pain relievers. Severe cases may require immobilization in a boot, physical therapy, or in rare instances, surgery.
+
+## barefoot shoes
+
+- <https://xeroshoes.com/shop/product-category/gender/mens/>
 [![barefoot shoes](https://img.youtube.com/vi/-1xidHM5bAk/0.jpg)](https://www.youtube.com/watch?v=shorts/-1xidHM5bAk)
 
 ## Foot Ailments

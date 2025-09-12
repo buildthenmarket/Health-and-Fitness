@@ -245,7 +245,12 @@ aka Alternating Dumbbell Lateral Lunge & Curl
 ### Push-up Variations
   
 - close grip with dumbbells
-  
+- shoulder tap
+- knee tap
+- toe tap / toe reach
+- crawl into squat
+- mike tyson
+
 #### Press Variations
   
 - squeeze press
